@@ -1,0 +1,530 @@
+[
+  {
+    "question": "Kolik vousků má sumec velký",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "6"
+    ]
+  },
+  {
+    "question": "živočich  na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "čáp černý",
+        "isCorrect": true
+      },
+      {
+        "text": "čáp bílý",
+        "isCorrect": false
+      },
+      {
+        "text": "volavka popelavá",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVBWcaPDZjS-_2UpAm3QolsKBNhGr36P0cTkyxxP0DXL736OuFLtfjyWjaPGi03pvQzEPw29o-xDcEImshzx2wllHgVK_uIF-5LBdUIPlwi2DLGQrWpn-Tj_C1YE3pFSW231ocoJ354mhK8_d4PaneS_cioUvnBMlsWLxUk0bBJn4iSyrvm6Lc69yduJh5oQ_hAXR1y5P7DrEX6E=w740?key=CUMprNE1PRRXjSs1pS0xFA",
+    "correctAnswers": [
+      "čáp černý"
+    ]
+  },
+  {
+    "question": "Denní doba lovu v měsíci září v pstruhovém rybářském revíru je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 7:00 do 20:00 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 8:00 do 20:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 7:00 do 21:00 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 7:00 do 20:00 hodin"
+    ]
+  },
+  {
+    "question": "Kapr obecný má stanovenou dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. března",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá stanovenou dobu hájení zákonem",
+        "isCorrect": true
+      },
+      {
+        "text": "od 15. března do 15. června",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenou dobu hájení zákonem"
+    ]
+  },
+  {
+    "question": "Inkubace jiker pstruha obecného trvá řádově:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "měsíce",
+        "isCorrect": true
+      },
+      {
+        "text": "dny",
+        "isCorrect": false
+      },
+      {
+        "text": "týdny",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "měsíce"
+    ]
+  },
+  {
+    "question": "Při lovu čeřínkem:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "mohou být udice nastraženy",
+        "isCorrect": false
+      },
+      {
+        "text": "nesmí být udice nastraženy",
+        "isCorrect": true
+      },
+      {
+        "text": "může být nastražena pouze jedna udice",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nesmí být udice nastraženy"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "okounek pstruhový",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh duhový",
+        "isCorrect": false
+      },
+      {
+        "text": "okoun říční",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAqbAemmUelQpztBYRz8LUaxFOii7sYE6SVAuGkmPHShbO9p9DYHJ7Sohh_gHXDeLBEpvTYYxx3w4qDqAadpW-t80WaJe21uArbQeFKrdZcjdG0jyZe0U9AcidawYPcn_-rIqQQlU9SQmBXbrdD-H4878UGLjKGRjj8N1RGAsFaxOJedBFLeHtb-MdiNiQh3QfCdk4AujvxWKME=w633?key=CUMprNE1PRRXjSs1pS0xFA",
+    "correctAnswers": [
+      "okoun říční"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "perlín ostrobřichý",
+        "isCorrect": true
+      },
+      {
+        "text": "jelec tloušť",
+        "isCorrect": false
+      },
+      {
+        "text": "karas obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAlYFlw6dvPXarvYe-Dym6dXnOlEJoUjNNa_ri9JhbDrycYCrdZzmkKRF8DvLXA61woJS9L2lfZ8SoGAQbT_myS__iMQAhm50PkYGACF79ZK0FdUrfX6EMYCT47kSIsQrzZGoWNBfODIoAhivCkULW1NfwemHg8UvgWYfHrxhoVdMqCyjJTnJZy4o90HNswzm32s5J18N0MGhfV=w590?key=CUMprNE1PRRXjSs1pS0xFA",
+    "correctAnswers": [
+      "perlín ostrobřichý"
+    ]
+  },
+  {
+    "question": "mezi chráněné druhy ryb patří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "hlaváč černoústý",
+        "isCorrect": false
+      },
+      {
+        "text": "sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "mník jednovousý"
+    ]
+  },
+  {
+    "question": "V pstruhovém rybářském revíru jsou hájeny všechny druhy ryb:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. dubna a dále od 1. prosince do 31. prosince",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. ledna do 15. června a dále od 1. prosince do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "od 31. ledna do 15. dubna a dále od 1. listopadu do 31. prosince",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. ledna do 15. dubna a dále od 1. prosince do 31. prosince"
+    ]
+  },
+  {
+    "question": "Skřele ryb jsou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "přeměněné šupiny",
+        "isCorrect": false
+      },
+      {
+        "text": "mechnická ochrana žaber",
+        "isCorrect": true
+      },
+      {
+        "text": "nevytřené jikry ryb",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "mechnická ochrana žaber"
+    ]
+  },
+  {
+    "question": "Při lovu na položenou musí lovící udržovat odstup:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vždy 5 metrů",
+        "isCorrect": false
+      },
+      {
+        "text": "minimálně 3 metry, nedohodnou-li se lovící jinak",
+        "isCorrect": true
+      },
+      {
+        "text": "vždy 3 metry",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "minimálně 3 metry, nedohodnou-li se lovící jinak"
+    ]
+  },
+  {
+    "question": "Při lovu na plavanou a položenou na nástražní rybku lze použít systémy s maximálně:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pěti háčky (jedno až trojháčky)",
+        "isCorrect": false
+      },
+      {
+        "text": "dvěma háčky (jedno až trojháčky)",
+        "isCorrect": false
+      },
+      {
+        "text": "třemi háčky (jedno až trojháčky)",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "třemi háčky (jedno až trojháčky)"
+    ]
+  },
+  {
+    "question": "Mezi prostředky k lovu patří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "harpuna",
+        "isCorrect": false
+      },
+      {
+        "text": "vábnička",
+        "isCorrect": true
+      },
+      {
+        "text": "vrhací síť",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vábnička"
+    ]
+  },
+  {
+    "question": "Multiplikátor je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "dávkovač krmení",
+        "isCorrect": false
+      },
+      {
+        "text": "druh rybářského navijáku",
+        "isCorrect": true
+      },
+      {
+        "text": "vícefunkční přístroj pro vyhledávání ryb",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "druh rybářského navijáku"
+    ]
+  },
+  {
+    "question": "V pstruhových rybářských revírech je lov muškařením povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "tento způsob není vůbec povolen",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. června do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tento způsob není vůbec povolen"
+    ]
+  },
+  {
+    "question": "Do pstruhového rybářského revíru se nevrací:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "štika, tloušť, okoun, sumec, nebo candát",
+        "isCorrect": false
+      },
+      {
+        "text": "štika, okoun, sumec, bolen nebo candát",
+        "isCorrect": false
+      },
+      {
+        "text": "štika, tloušť, okoun, sumec, bolen nebo candát",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "štika, tloušť, okoun, sumec, bolen nebo candát"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "podoustev říční",
+        "isCorrect": true
+      },
+      {
+        "text": "piskoř pruhovaný",
+        "isCorrect": false
+      },
+      {
+        "text": "střevle potoční",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAZVH3Mje2OVlcXNbhl1jSXGoRfp3HFyZkzbjIH1QVBYIQnAXZuNVKX9Pvd8LwCL0OmI7YSlok80LubFazHh7gJ3In2rxf1M_z8yFgtF33vjhf1qYWIbiQ589hE9yO7RdoO4OaHfrD7xPVe-zdGbsKC8Bs2eTiq7O2uDg2CCthaZS7I9dbSSxJKWNP9H_KY_i_sgkMsesAWpxk=w740?key=CUMprNE1PRRXjSs1pS0xFA",
+    "correctAnswers": [
+      "podoustev říční"
+    ]
+  },
+  {
+    "question": "Lov na položenou je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": true
+      },
+      {
+        "text": "lov na nejvýše 2 udice a pohyb nástrahy je aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov na max. 1 udici a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován"
+    ]
+  },
+  {
+    "question": "Při lovu přívlačí musí lovící udržovat odstup:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "alespoň 20 metrů, nedohodnou-li se na kratší vzdálenosti",
+        "isCorrect": true
+      },
+      {
+        "text": "tak aby si navzájem nepřekáželi",
+        "isCorrect": false
+      },
+      {
+        "text": "alespoň 15 metrů, nedohodnou-li se na kratší vzdálenosti",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "alespoň 20 metrů, nedohodnou-li se na kratší vzdálenosti"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jeseter sibiřský",
+        "isCorrect": true
+      },
+      {
+        "text": "okounek pstruhový",
+        "isCorrect": false
+      },
+      {
+        "text": "lín obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVBEVUGZ8wPp6KHkCBRCpYB7ey72DBs2Hx84JZw0AdC562YU-tKlmYADnOVsDPc4W2a9acK5RNYydH3nHYj7zEV8eXgO9QNqxsvOEGuuMCrdEhA8I1ACp9HEGFBCUkG34ggpLPfddhg-cKzeoa9wCfHXMYgJhm7nR0gw6g-HDbKGYu0Q_FgekjYsP_pUIpBJPU8w-EAKMyQNPf2b=w740?key=CUMprNE1PRRXjSs1pS0xFA",
+    "correctAnswers": [
+      "jeseter sibiřský"
+    ]
+  },
+  {
+    "question": "Co se rozumí pod pojmem hlubinná přívlač:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "tažení nástrahy za jedoucím rybářským plavidlem v jakékoliv hloubce",
+        "isCorrect": true
+      },
+      {
+        "text": "lov ze břehu při kterém je nástraha aktivně vedena ve velkých hloubkách",
+        "isCorrect": false
+      },
+      {
+        "text": "lov ryb na moři",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tažení nástrahy za jedoucím rybářským plavidlem v jakékoliv hloubce"
+    ]
+  },
+  {
+    "question": "Štika obecná má ústa:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "spodní",
+        "isCorrect": false
+      },
+      {
+        "text": "koncová",
+        "isCorrect": true
+      },
+      {
+        "text": "horní",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "koncová"
+    ]
+  },
+  {
+    "question": "Může být při lovu na umělou mušku použito kulové nebo jiné plovátko:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ne",
+        "isCorrect": false
+      },
+      {
+        "text": "ano, ale pouze na stojatých vodách",
+        "isCorrect": false
+      },
+      {
+        "text": "ano",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ]
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "živočich na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "čolek obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "čáp bílý",
+        "isCorrect": false
+      },
+      {
+        "text": "ondatra pižmová",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAaIXESFWnguGWUppewjXgHb6fkWNkNAeyMdxjGg8eP10e2kVnTpphmaIHzdDhZsjoAEP0n5iSsep1RZXv1RYD7tzC_eAJbCMA1sFfuvdiKtnO7szif7rctya8cw82ROcJjUQK0M7tuaY2_Fn8IIpkB8wBiYcRaP8te8KfzmyiXMR048_6VNBLien0YntI2RqyCZHkFd89tV9CI=w740?key=Z6yctqDPeBCYiYRk7aqDrA",
+    "correctAnswers": [
+      "ondatra pižmová"
+    ]
+  },
+  {
+    "question": "Lov na plavanou, položenou nebo čeřínkováním může být prováděn za předpokladu, že:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "je osoba provádějící lov u udic přítomna tak, aby na ně viděla",
+        "isCorrect": false
+      },
+      {
+        "text": "je osoba provádějící lov u udic přítomna tak, aby slyšela zvuk elektronického hlásiče",
+        "isCorrect": false
+      },
+      {
+        "text": "je osoba provádějící lov u udic přítomna tak, aby s nimi mohla bez prodlení manipulovat",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "je osoba provádějící lov u udic přítomna tak, aby s nimi mohla bez prodlení manipulovat"
+    ]
+  },
+  {
+    "question": "V pstruhových rybářských revírech je lov muškařením povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. června do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": false
+      },
+      {
+        "text": "tento způsob není vůbec povolen",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tento způsob není vůbec povolen"
+    ]
+  },
+  {
+    "question": "Při lovu na položenou může být na jedné udici:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvoj nebo trojháčkem",
+        "isCorrect": true
+      },
+      {
+        "text": "nejvýše 1 návazec s jednoduchým háčkem nebo 1 návazec s dvoj nebo trojháčkem",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 2 návazce s jednoduchými háčky nebo 2 návazce s dvoj nebo trojháčky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvoj nebo trojháčkem"
+    ]
+  },
+  {
+    "question": "Rybář může lovit na položenou a plavanou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "na 1 nastraženou udici",
+        "isCorrect": false
+      },
+      {
+        "text": "na 2 nastražené udice",
+        "isCorrect": true
+      },
+      {
+        "text": "na 3 nastražené udice",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "na 2 nastražené udice"
+    ]
+  },
+  {
+    "question": "monté je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "malý úhoř",
+        "isCorrect": true
+      },
+      {
+        "text": "larva kapra",
+        "isCorrect": false
+      },
+      {
+        "text": "potěr sumce",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "malý úhoř"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra lipana podhorního je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "25 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "30 cm"
+    ]
+  },
+  {
+    "question": "Pohlaví u lína obecného lze určit pomocí:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "barvy oka",
+        "isCorrect": false
+      },
+      {
+        "text": "břišních ploutví",
+        "isCorrect": true
+      },
+      {
+        "text": "nelze rozlišit",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "břišních ploutví"
+    ]
+  },
+  {
+    "question": "Multiplikátor je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "druh rybářského navijáku",
+        "isCorrect": true
+      },
+      {
+        "text": "vícefunkční přístroj pro vyhledávání ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "dávkovač krmení",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "druh rybářského navijáku"
+    ]
+  },
+  {
+    "question": "Co je to lov na plavanou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a pohyb nástrahy může být aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov ryb z plavidel",
+        "isCorrect": false
+      },
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy může být aktivně ovlivňován",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy může být aktivně ovlivňován"
+    ]
+  },
+  {
+    "question": "Lov přívlačí je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a nástraha je aktivně vedena vodním prostředím",
+        "isCorrect": true
+      },
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a nástraha je aktivně vedena vodním prostředím",
+        "isCorrect": false
+      },
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a pohyb nástrahy není nijak lovícím ovlivňován",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém se použije nejvýše 1 udice a nástraha je aktivně vedena vodním prostředím"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra podoustve říční je",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "35 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruh obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "okoun říční",
+        "isCorrect": false
+      },
+      {
+        "text": "lín obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCid8m6kgJvH0C49yD6axoCp2YsBzmuk01wq5qMVl-eLfRbiQMJyjA31NSzcuVVwh0kQR7vvvUkpA4pAn4t183bM_U-JaDnn1sJmGiTL78RF2OdNQMFDjOt8LdCYfuyZB23pVoSZHsTqXqcM9NCey6Kyvx52E4kBtvI9MaFl3AzDsQWlsfBsA_ZasDH6YwgsvqyGDDLEfHL7ZQu=w740?key=Z6yctqDPeBCYiYRk7aqDrA",
+    "correctAnswers": [
+      "pstruh obecný"
+    ]
+  },
+  {
+    "question": "K čemu slouží plynový měchýř?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vyhledávání potravy u hladiny",
+        "isCorrect": false
+      },
+      {
+        "text": "umožňuje rybám se volně vznášet ve vodě",
+        "isCorrect": true
+      },
+      {
+        "text": "k ukládání tuku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "umožňuje rybám se volně vznášet ve vodě"
+    ]
+  },
+  {
+    "question": "mezi chráněné druhy ryb nepatří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lipan podhorní",
+        "isCorrect": true
+      },
+      {
+        "text": "piskoř pruhovaný",
+        "isCorrect": false
+      },
+      {
+        "text": "drsek větší",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lipan podhorní"
+    ]
+  },
+  {
+    "question": "Ryby mohou nouzově dýchat přes:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kůži",
+        "isCorrect": true
+      },
+      {
+        "text": "oči",
+        "isCorrect": false
+      },
+      {
+        "text": "šupiny",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kůži"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "perlín ostrobřichý",
+        "isCorrect": false
+      },
+      {
+        "text": "cejnek malý",
+        "isCorrect": true
+      },
+      {
+        "text": "cejn velký",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVDgeHVzbmyvWqG4ECu_TLRVcUHLwKGUnc4MFIcdVo2PLcpJVJgyU7L0KSP8Fs9QZKS1RFMZ1b0s-aDgqwA--_BPMP32l-acvRjCasznqxCqQReRuPWlTYEQCFMjt16gw1Ge779HNe4AkhzHm04xdP7JWlT23piyQPeLxNPLFMHpcyXTXqk5e61MkPty62wwMkMiB5y7v2-WNSY1=w740?key=Z6yctqDPeBCYiYRk7aqDrA",
+    "correctAnswers": [
+      "cejnek malý"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "střevlička východní",
+        "isCorrect": true
+      },
+      {
+        "text": "lipan podhorní",
+        "isCorrect": false
+      },
+      {
+        "text": "hlaváč černoústý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAGwzEIDuPrXepOim6c1jmAIyTUXML4AZC91maFCqzNZ9cSnGzqIbaZMw3br1dbPKJCNzDT_J65PLJtdbp57MmcrDsJ2SLsHG1CbNCjJuo1nsNCXgkxQtMAtFhaqqcOIqpKIfyayD0Yd_icXG2ndl9k_6jmjjx8eiah2ce11qpJDADGL19hHibzlcv2UNzU9_X2k5F6CGeULro=w632?key=Z6yctqDPeBCYiYRk7aqDrA",
+    "correctAnswers": [
+      "střevlička východní"
+    ]
+  },
+  {
+    "question": "Při lovu přívlačí v pstruhových revírech je povoleno použít vláčecí nástrahy opatřené:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "maximálně jedním háčkem (jedno až trojháčkem)",
+        "isCorrect": true
+      },
+      {
+        "text": "maximálně třemi háčky (jedno až trojháčky)",
+        "isCorrect": false
+      },
+      {
+        "text": "počet háčků není omezen",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "maximálně jedním háčkem (jedno až trojháčkem)"
+    ]
+  },
+  {
+    "question": "Kapr obecný má stanovenou dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemá stanovenou dobu hájení zákonem",
+        "isCorrect": true
+      },
+      {
+        "text": "od 15. března do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. března",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenou dobu hájení zákonem"
+    ]
+  },
+  {
+    "question": "Inkubace jiker pstruha obecného trvá řádově:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "dny",
+        "isCorrect": false
+      },
+      {
+        "text": "týdny",
+        "isCorrect": false
+      },
+      {
+        "text": "měsíce",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "měsíce"
+    ]
+  },
+  {
+    "question": "mezi chráněné druhy ryb patří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "hlaváč černoústý",
+        "isCorrect": false
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": true
+      },
+      {
+        "text": "sumec velký",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "mník jednovousý"
+    ]
+  },
+  {
+    "question": "Lov na položenou je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": true
+      },
+      {
+        "text": "lov na nejvýše 2 udice a pohyb nástrahy je aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov na max. 1 udici a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován"
+    ]
+  },
+  {
+    "question": "Při lovu na plavanou a položenou na nástražní rybku lze použít systémy s maximálně:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "dvěma háčky (jedno až trojháčky)",
+        "isCorrect": false
+      },
+      {
+        "text": "pěti háčky (jedno až trojháčky)",
+        "isCorrect": false
+      },
+      {
+        "text": "třemi háčky (jedno až trojháčky)",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "třemi háčky (jedno až trojháčky)"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "tolstolobik bílý",
+        "isCorrect": false
+      },
+      {
+        "text": "cejn velký",
+        "isCorrect": true
+      },
+      {
+        "text": "plotice obecná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCJCtXiTdPy0zSPycNTjy3Mo1kWdGw8nsh2pcQjnbDUY7EM-WeXBrYb8ep0eVcDWM_3Q3Olmmd3x4tSERBpEta4kQe_GbLhC6zMruV5c1PZCWtBa6-GvtYV0ZlsY_v22-4vY6ie1SDXS2G87avVhllwNtXrq1kn0noYAE9VdNz_NlvjVq5OiXKWMEj6ciwz7cuCrqDHn1xQs_mO=w740?key=Z6yctqDPeBCYiYRk7aqDrA",
+    "correctAnswers": [
+      "cejn velký"
+    ]
+  }
+]

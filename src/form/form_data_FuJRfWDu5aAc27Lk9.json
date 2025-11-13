@@ -1,0 +1,552 @@
+[
+  {
+    "question": "mezi chráněné druhy ryb nepatří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lipan podhorní",
+        "isCorrect": true
+      },
+      {
+        "text": "drsek větší",
+        "isCorrect": false
+      },
+      {
+        "text": "piskoř pruhovaný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lipan podhorní"
+    ]
+  },
+  {
+    "question": "Rybář může lovit na položenou a plavanou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "na 3 nastražené udice",
+        "isCorrect": false
+      },
+      {
+        "text": "na 2 nastražené udice",
+        "isCorrect": true
+      },
+      {
+        "text": "na 1 nastraženou udici",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "na 2 nastražené udice"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "síh peleď",
+        "isCorrect": true
+      },
+      {
+        "text": "pstruh duhový",
+        "isCorrect": false
+      },
+      {
+        "text": "karas obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVB8_cCkqtbpddAfQTnkclkGCLZzK8BoSWwP5FXz3f6JP-z2qke1fmvOwy2tEVIWtjxccE-68in3p2LQf-b9hgxRXOV40wugayBWyhgmFGaym0G26Vld4UhXdLYHn_4ROmNvT9dqpQa91snLKqSAlYOvhN7Kq6cWiXHywyw4jMCMV6_SiK9MYRFhUkCH_Qvn-o5d8hic8btYAV4B=w740?key=M1xL-J0v1qOaMPfZu1kiMw",
+    "correctAnswers": [
+      "síh peleď"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "úhoř říční",
+        "isCorrect": false
+      },
+      {
+        "text": "sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVBPVLK_oEvwjfhG1AjBGzjKmAmSmVKFL3TDYVzV8yIoVLYP752PVtbE3WCyPg8lQ5vy02Yg3CmKNlbEM2usR9urYRPYBnwAJsOZOhE8L_sU9lLdnxjnzaDhj4kkaiexWP7-5IdMrjhkirt88Db4UATzpLVLI0plcO1XD39CnwK4pUid_wUZxQ7MdI9KGjstcCGwQcpA1UMJhtSH=w740?key=M1xL-J0v1qOaMPfZu1kiMw",
+    "correctAnswers": [
+      "mník jednovousý"
+    ]
+  },
+  {
+    "question": "Bolen dravý petří mezi:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kaprovité",
+        "isCorrect": true
+      },
+      {
+        "text": "okounovité",
+        "isCorrect": false
+      },
+      {
+        "text": "lososovité",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kaprovité"
+    ]
+  },
+  {
+    "question": "Lovící z loďky:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "může mít nastraženy dvě udice mimo loďku",
+        "isCorrect": false
+      },
+      {
+        "text": "může mít nastraženu jednu udici mimo loďku",
+        "isCorrect": false
+      },
+      {
+        "text": "nesmí mít nastraženou jinou udici mimo loďku",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nesmí mít nastraženou jinou udici mimo loďku"
+    ]
+  },
+  {
+    "question": "Lov na položenou je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": true
+      },
+      {
+        "text": "lov na max. 1 udici a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov na nejvýše 2 udice a pohyb nástrahy je aktivně ovlivňován",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "candát obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "amur bílý",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCVoUpzouezMxzVnvdCJv3E4d1Oi6xO8HjMGf8Lb3RJnILntfa37oFuTX9Tb06JvAknzu1YNLbHCfblAcd8PCPDKaqCa4AO0zLNNTK0Z0ZIsHwegewaGu5UdVdiVxp3LaNmiExTgcFcGjAtrY16X8XSVd7vbXYYcj_jRJAXJbMW-9foxHnUEprDJXJY7_E7IZRl2dtQFa2RQJb3=w740?key=M1xL-J0v1qOaMPfZu1kiMw",
+    "correctAnswers": [
+      "candát obecný"
+    ]
+  },
+  {
+    "question": "Denní doba lovu v měsíci listopadu v pstruhovém rybářském revíru je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 7:00 do 17:00 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 8:00 do 18:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 6:00 do 17:00 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 7:00 do 17:00 hodin"
+    ]
+  },
+  {
+    "question": "V mimopstruhových rybářských revírech je lov přívlačí povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. června do 31. prosince",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16 června do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. července do 31. prosince",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. června do 31. prosince"
+    ]
+  },
+  {
+    "question": "živočich na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ropucha obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "skokan zelený",
+        "isCorrect": true
+      },
+      {
+        "text": "čolek obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVB6ei_TYUdt8xZigcb-q3RZOgGI6Ua7HTQiHqfwEVisU8OSZa3T-adAs4b6TczoPFJfgw9MAdyZperASMuHHSs9TJSPydhZyHcWKck2I8J52TRUb3LWXzAtiij5GI_FZ7kW4f3eQSxIWGwnLHwfKL-lrPKeY8Dgyh2TUHwOip2LY0eHi2um4pC614wcZo5ky1fyLwY2gnJBybtG=w740?key=M1xL-J0v1qOaMPfZu1kiMw",
+    "correctAnswers": [
+      "skokan zelený"
+    ]
+  },
+  {
+    "question": "Lov přívlačí je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a nástraha je aktivně vedena vodním prostředím",
+        "isCorrect": true
+      },
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a pohyb nástrahy není nijak lovícím ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a nástraha je aktivně vedena vodním prostředím",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém se použije nejvýše 1 udice a nástraha je aktivně vedena vodním prostředím"
+    ]
+  },
+  {
+    "question": "Který druh ryb klade své jikry do žaberní dutiny mlžů:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ostrucha křivočará",
+        "isCorrect": false
+      },
+      {
+        "text": "blatňák tmavý",
+        "isCorrect": false
+      },
+      {
+        "text": "hořavka duhová",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "hořavka duhová"
+    ]
+  },
+  {
+    "question": "Rybářský prut",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "slouží k nahazování a ovládání nástrahy",
+        "isCorrect": true
+      },
+      {
+        "text": "je opěrná hůl při brodění vodou",
+        "isCorrect": false
+      },
+      {
+        "text": "slouží k měření hloubky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "slouží k nahazování a ovládání nástrahy"
+    ]
+  },
+  {
+    "question": "Čím dýchají ryby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "šupiny",
+        "isCorrect": false
+      },
+      {
+        "text": "ploutve",
+        "isCorrect": false
+      },
+      {
+        "text": "žábra",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "žábra"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sumeček americký",
+        "isCorrect": false
+      },
+      {
+        "text": "ježdík obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "hlavačka mramorovaná",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVDwn_R9OL0hSlZ4BIJtQwlpeUhVDr2_O5I5Xq-83q0n1QhZspWNQAKpu8t20a1WynJ4a3QUcUNdBP4pSrIZxyXL4p4I6n2Ff99Vg4_D0DIJPIO4rz3PijwYALaUJI-f5MgfB_7A7CMUt4-uHRvpMkLzKIV9WkZo9d-IDsYpL8FTywD-ZKVp6WZAJp9T5eLKYo4AeHNT7PsH0fO3=w708?key=M1xL-J0v1qOaMPfZu1kiMw",
+    "correctAnswers": [
+      "hlavačka mramorovaná"
+    ]
+  },
+  {
+    "question": "V mimopstruhových rybářských revírech je lov na položenou povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "po celý rok",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. ledna do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. prosince",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "po celý rok"
+    ]
+  },
+  {
+    "question": "Vyhrazování míst k lovu je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "zakázáno",
+        "isCorrect": true
+      },
+      {
+        "text": "zakázáno pouze na tekoucích vodách",
+        "isCorrect": false
+      },
+      {
+        "text": "povoleno pouze se souhlasem uživatele revíru",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "zakázáno"
+    ]
+  },
+  {
+    "question": "Hlavní dýchací orgán ryb je tvořen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "žaberními lístky a žaberními oblouky",
+        "isCorrect": true
+      },
+      {
+        "text": "žaberními tyčinkami",
+        "isCorrect": false
+      },
+      {
+        "text": "skřelemi",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "žaberními lístky a žaberními oblouky"
+    ]
+  },
+  {
+    "question": "Která ryba je dravá?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "tolstolobik bílý",
+        "isCorrect": false
+      },
+      {
+        "text": "candát obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "cejnek malý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "candát obecný"
+    ]
+  },
+  {
+    "question": "Denní doba lovu v měsíci říjnu v mimopstruhovém rybářském revíru je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 5:00 do 24:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 4:00 do 24:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 5:00 do 22:00 hodin",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 5:00 do 22:00 hodin"
+    ]
+  },
+  {
+    "question": "Jako nástražní rybku nelze použít:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pouze ryby lososovité",
+        "isCorrect": false
+      },
+      {
+        "text": "ryby lososovité, úhoř říční, ryby chráněné dle zákona, ryby hájené nebo nemírové",
+        "isCorrect": true
+      },
+      {
+        "text": "pouze ryby chráněné dle zákona",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ryby lososovité, úhoř říční, ryby chráněné dle zákona, ryby hájené nebo nemírové"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra štiky obecné je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "50 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "45 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "55 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "50 cm"
+    ]
+  },
+  {
+    "question": "Musí mít osoba provádějící lov vyprošťovač háčků:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pouze při lovu dravých druhů ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "ne",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra pstruha obecného je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "23 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ]
+  }
+]

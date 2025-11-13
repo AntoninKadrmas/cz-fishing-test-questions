@@ -1,0 +1,530 @@
+[
+  {
+    "question": "Lovící z loďky:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "může mít nastraženu jednu udici mimo loďku",
+        "isCorrect": false
+      },
+      {
+        "text": "může mít nastraženy dvě udice mimo loďku",
+        "isCorrect": false
+      },
+      {
+        "text": "nesmí mít nastraženou jinou udici mimo loďku",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nesmí mít nastraženou jinou udici mimo loďku"
+    ]
+  },
+  {
+    "question": "K čemu slouží plynový měchýř?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "k ukládání tuku",
+        "isCorrect": false
+      },
+      {
+        "text": "vyhledávání potravy u hladiny",
+        "isCorrect": false
+      },
+      {
+        "text": "umožňuje rybám se volně vznášet ve vodě",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "umožňuje rybám se volně vznášet ve vodě"
+    ]
+  },
+  {
+    "question": "Echolot je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ozvěna",
+        "isCorrect": false
+      },
+      {
+        "text": "druh rybářského navijáku",
+        "isCorrect": false
+      },
+      {
+        "text": "přístroj pro vyhledávání ryb a mapování dna",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "přístroj pro vyhledávání ryb a mapování dna"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ostroretka stěhovavá",
+        "isCorrect": true
+      },
+      {
+        "text": "lipan podhorní",
+        "isCorrect": false
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCM90Tiyw9-pdk9f6z7qohQoyIjGk-xfnW7aZq9M5R1rCM_XrEzxEtm4_YU5zoB9ZySi1HAI73RSYFBDWLXZnpKMlA-gi-YSm19uRKzRQLGOFtTrIXAeHeaaQ06DtwQWaJqs43Ny7N5gJLDIVTQuQ0g7r6H0FzmIsCSbEiV2qU95L_ybE2Iql7DlxtUTflYGc1F-T38gbNPXgyA=w726?key=2Cn7U-kqjTzeuXwR8xbuiw",
+    "correctAnswers": [
+      "ostroretka stěhovavá"
+    ]
+  },
+  {
+    "question": "Při lovu přívlačí musí lovící udržovat odstup:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "alespoň 20 metrů, nedohodnou-li se na kratší vzdálenosti",
+        "isCorrect": true
+      },
+      {
+        "text": "alespoň 15 metrů, nedohodnou-li se na kratší vzdálenosti",
+        "isCorrect": false
+      },
+      {
+        "text": "tak aby si navzájem nepřekáželi",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "alespoň 20 metrů, nedohodnou-li se na kratší vzdálenosti"
+    ]
+  },
+  {
+    "question": "Ryby řadíme mezi:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "šupinatce",
+        "isCorrect": false
+      },
+      {
+        "text": "obratlovce",
+        "isCorrect": true
+      },
+      {
+        "text": "ploutvonožce",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "obratlovce"
+    ]
+  },
+  {
+    "question": "Při lovu na umělou mušku v pstruhových rybářských revírech lze použít jedna udice:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "s třemi návazci s tím, že na každém lze použít jen jeden jednoháček",
+        "isCorrect": false
+      },
+      {
+        "text": "s třemi návazci s tím, že na každém lze použít jeden jedno, dvoj, nebo trojháček",
+        "isCorrect": true
+      },
+      {
+        "text": "s jedním návazcem a jedním jednoháčkem",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "s třemi návazci s tím, že na každém lze použít jeden jedno, dvoj, nebo trojháček"
+    ]
+  },
+  {
+    "question": "Za rybářskou loďku nelze považovat:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "laminátovou pramici s vesly",
+        "isCorrect": false
+      },
+      {
+        "text": "hausbót (houseboat)",
+        "isCorrect": true
+      },
+      {
+        "text": "plovoucí nafukovací rybářský člun",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "hausbót (houseboat)"
+    ]
+  },
+  {
+    "question": "Jakou maximální velikost může mít čeřínek:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "150 x 150 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "100 x 100 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "neomezenou",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "100 x 100 cm"
+    ]
+  },
+  {
+    "question": "Kolik vousků má karas obecný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jeden pár",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá vousky",
+        "isCorrect": true
+      },
+      {
+        "text": "dva páry",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá vousky"
+    ]
+  },
+  {
+    "question": "mezi chráněné druhy ryb nepatří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "drsek větší",
+        "isCorrect": false
+      },
+      {
+        "text": "piskoř pruhovaný",
+        "isCorrect": false
+      },
+      {
+        "text": "lipan podhorní",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lipan podhorní"
+    ]
+  },
+  {
+    "question": "Úhoř říční má tvar těla:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "hadovitý",
+        "isCorrect": true
+      },
+      {
+        "text": "vřetenovitý",
+        "isCorrect": false
+      },
+      {
+        "text": "kuželovitý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "hadovitý"
+    ]
+  },
+  {
+    "question": "Rybář může lovit na položenou a plavanou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "na 1 nastraženou udici",
+        "isCorrect": false
+      },
+      {
+        "text": "na 2 nastražené udice",
+        "isCorrect": true
+      },
+      {
+        "text": "na 3 nastražené udice",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "na 2 nastražené udice"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "okounek pstruhový",
+        "isCorrect": true
+      },
+      {
+        "text": "štika obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "okoun říční",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVBQSUdvxeH5Eq8qE5hJi2FJdPbK5ddqbe_sHW2pbemdHaTu7MMjkgJ2RyiOHzdBgC3fTukua0hDDlYXgjNpKv-ZvPsgqqW9bUzfXSG5hHfsVxWgA93U2X5gVyeYFNUZSnpiirrAHrMbU5EfPxXA84OFgwUNquOhBjM_-QK-H2rrUh2KppD7gQ3oM25ezSlIQGkDMm4tKUNMQI0=w740?key=2Cn7U-kqjTzeuXwR8xbuiw",
+    "correctAnswers": [
+      "okounek pstruhový"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra úhoře říčního je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "55 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "50 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "není stanovena zákonem",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "55 cm"
+    ]
+  },
+  {
+    "question": "živočich na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "bobr evropský",
+        "isCorrect": true
+      },
+      {
+        "text": "nutrie říční",
+        "isCorrect": false
+      },
+      {
+        "text": "potkan",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "bobr evropský"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra lína obecného je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "siven americký",
+        "isCorrect": false
+      },
+      {
+        "text": "sekavec písečný",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCZWcI_k_U_0zl48IYrMnNVo-fzlMfCN5nFbjjafMsJuS8sZ2wxqgZEeybHEuNSh4wxIsJaS78haUjynIKuXrvReudoCbBu-hZXPyN45r1ddVnhUJPqM4AHlYBCLhrRr4kkenhQedCAYKE8uoxXaOOBMvmmq_rIoX3WHZL1FIUCyAwYsLxvASG-lFKeGV2rsQnytGc4QrZtNtmt=w740?key=2Cn7U-kqjTzeuXwR8xbuiw",
+    "correctAnswers": [
+      "sekavec písečný"
+    ]
+  },
+  {
+    "question": "V mimopstruhovém revíru si může lovící přisvojit v jednom dnu:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nejvýše 7 kg všech druhů ryb",
+        "isCorrect": true
+      },
+      {
+        "text": "úlovek není hmotnostně omezen",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 5 kg všech druhů ryb",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 7 kg všech druhů ryb"
+    ]
+  },
+  {
+    "question": "V pstruhových rybářských revírech je lov muškařením povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "tento způsob není vůbec povolen",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. června do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tento způsob není vůbec povolen"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "parma obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "hrouzek obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "plotice obecná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAT9xToA43Xmyaw07QHUXwMB--NK2h5VogJW7Z5v1aYIfOiEiTBhi8vl4rbSj4QMmp8C6F-W2ns8G8qZs3azQKYO9N-eek5lqjJpf_Nxn_Oud9hZagJVWuzSo4Z7SwbAsLDRwFmCVP778TD-NVldLutAyJWb90xgRNP0FdTn4NzEPQlGM-uppGfHXxNqHfZbzMP9Ri35SwdxAQ3=w668?key=2Cn7U-kqjTzeuXwR8xbuiw",
+    "correctAnswers": [
+      "hrouzek obecný"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra candáta obecného je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "50 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "55 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "45 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "45 cm"
+    ]
+  },
+  {
+    "question": "Mezi prostředky k lovu patří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "harpuna",
+        "isCorrect": false
+      },
+      {
+        "text": "vrhací síť",
+        "isCorrect": false
+      },
+      {
+        "text": "vábnička",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vábnička"
+    ]
+  },
+  {
+    "question": "Při lovu na plavanou a položenou v pstruhových rybářských revírech lze použít nástrahy:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "rostlinného nebo živočišného původu",
+        "isCorrect": false
+      },
+      {
+        "text": "pouze rostlinného původu",
+        "isCorrect": true
+      },
+      {
+        "text": "pouze živočišného původu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pouze rostlinného původu"
+    ]
+  }
+]

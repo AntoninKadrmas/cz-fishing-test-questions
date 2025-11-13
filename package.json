@@ -1,0 +1,24 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "Scraper for forms",
+  "main": "dist/scrape.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.29.1",
+    "openai": "^4.9.0",
+    "dotenv": "^16.1.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "ts-node": "^10.9.1",
+    "@types/node": "^20.4.2"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "pnpm run scrape ",
+    "scrape": "ts-node src/scrape.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

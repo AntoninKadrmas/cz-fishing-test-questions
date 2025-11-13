@@ -1,0 +1,596 @@
+[
+  {
+    "question": "Co se rozumí pod pojmem hlubinná přívlač:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov ryb na moři",
+        "isCorrect": false
+      },
+      {
+        "text": "tažení nástrahy za jedoucím rybářským plavidlem v jakékoliv hloubce",
+        "isCorrect": true
+      },
+      {
+        "text": "lov ze břehu při kterém je nástraha aktivně vedena ve velkých hloubkách",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tažení nástrahy za jedoucím rybářským plavidlem v jakékoliv hloubce"
+    ]
+  },
+  {
+    "question": "Mezi chráněné druhy ryb patří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "slunečnice pestrá",
+        "isCorrect": false
+      },
+      {
+        "text": "mřenka mramorovaná",
+        "isCorrect": false
+      },
+      {
+        "text": "jelec jesen",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jelec jesen"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra pstruha obecného je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "23 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "koljuška tříostná",
+        "isCorrect": true
+      },
+      {
+        "text": "karas obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "okoun říční",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVD2acU6WuK8Z0anixK6a4-I-44sJaEY6MwX5ddtg-ZXR6ZOylj90jDR_Tx51WdJSWp2dsmq9NaDfqiIl1RMASziIp505RKBHPkPiemxS_kHaWYubkQIIDfNGaSsVDhIYMecoRLjBvbZlVcIExBDe3hTxMCiXZyH8a886QpCaFBe7fee-BSa-u0f1AwHJriz8KV3WjsrOJpsVMcc=w740?key=FMgXZWBPahfy6GMrU4KCGg",
+    "correctAnswers": [
+      "koljuška tříostná"
+    ]
+  },
+  {
+    "question": "živočich na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "bobr evropský",
+        "isCorrect": false
+      },
+      {
+        "text": "čáp bílý",
+        "isCorrect": false
+      },
+      {
+        "text": "vydra říční",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVBmXLs9dYDOOFTnRBTaWrjbk5fhHvWDnR8Ixw-dL5Yt3qu8p4CQoNFR_fwL6-gCVXlkBrxet_rn7nbu6MPG2G-_u-KDtWUuzqxCfZCfto_P-7xPRlDAqGraSwzlKff0VfjyycOW0dPvW5lq0MhO3ghYVBc7N1riuDJ9epaSgDQqd90dxTwG2IDubHvrvkSLFU5lV37_Ld9o6liu=w740?key=FMgXZWBPahfy6GMrU4KCGg",
+    "correctAnswers": [
+      "vydra říční"
+    ]
+  },
+  {
+    "question": "Našimi původními druhy ryb jsou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruh obecný a pstruh duhový",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh duhový, lipan podhorní",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný a lipan podhorní",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruh obecný a lipan podhorní"
+    ]
+  },
+  {
+    "question": "Echolot je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "přístroj pro vyhledávání ryb a mapování dna",
+        "isCorrect": true
+      },
+      {
+        "text": "ozvěna",
+        "isCorrect": false
+      },
+      {
+        "text": "druh rybářského navijáku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "přístroj pro vyhledávání ryb a mapování dna"
+    ]
+  },
+  {
+    "question": "K čemu slouží požerákové zuby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "filtrování potravy z vody",
+        "isCorrect": false
+      },
+      {
+        "text": "drcení potravy",
+        "isCorrect": true
+      },
+      {
+        "text": "uchvácení kořisti",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "drcení potravy"
+    ]
+  },
+  {
+    "question": "Rybář může lovit na položenou a plavanou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "na 3 nastražené udice",
+        "isCorrect": false
+      },
+      {
+        "text": "na 1 nastražené udice",
+        "isCorrect": false
+      },
+      {
+        "text": "na 2 nastražené udice",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "na 2 nastražené udice"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "parma obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "ježdík obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAbe-pagUDWFmgLbxHa_fz5tEWLnk-0ChDizRu-qvvfv5jG4G-yJSrgzIVkcd5fxkI4yhdXp2Go5B_bW5Hw6AkqMAWHDeNRSL-6SZzI9uvOYwdvM7NeHWPpFDvQIH9N3jsyTBgbBd3EjrDuPEakjCHTYaCPIoTVsbX86MVD_pzfbK0x9OFE0_n2PpcF8sBiqhBsB7CjDpaG0qm6=w634?key=FMgXZWBPahfy6GMrU4KCGg",
+    "correctAnswers": [
+      "ježdík obecný"
+    ]
+  },
+  {
+    "question": "Rybářský prut",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "slouží k měření hloubky",
+        "isCorrect": false
+      },
+      {
+        "text": "slouží k nahazování a ovládání nástrahy",
+        "isCorrect": true
+      },
+      {
+        "text": "je opěrná hůl při brodění vodou",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "slouží k nahazování a ovládání nástrahy"
+    ]
+  },
+  {
+    "question": "Kolik vousků má lín obecný",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "2"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra pstruha obecného je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "23 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra podoustve říční je",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "35 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ]
+  },
+  {
+    "question": "Jakou maximální velikost může mít čeřínek:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "150 x 150 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "neomezenou",
+        "isCorrect": false
+      },
+      {
+        "text": "100 x 100 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "100 x 100 cm"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "bolen dravý",
+        "isCorrect": false
+      },
+      {
+        "text": "okounek pstruhový",
+        "isCorrect": false
+      },
+      {
+        "text": "siven americký",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCPHpDNQ4FdP7XFGkejCkpWgx8V_Y2kgK2h99FlV78r6eMFG7f4S-NFDl2H8yj7oxKN_eGp_0HzoFTtYVnGhyvncAsujOb-XbRmgtFDYyhrFx8xqRjtdhT-kllYuIxpWOoEdtAmUbS3zVCsHMsV2dGqjOEbu8CW9J5OfEv6FuKATQ1IZIqzgBUz35GQIwG4gvr_05oIMzAEoVae=w740?key=FMgXZWBPahfy6GMrU4KCGg",
+    "correctAnswers": [
+      "siven americký"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jeseter malý",
+        "isCorrect": false
+      },
+      {
+        "text": "lipan podhorní",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVBfGB1gwAZGm0jmGtmDrGjTmuQb4hbANR3F0nP6IqT0XysTNvuh2NgUruYyN5glgkGEapwT3QSpk8sDHMVMzwSnVujox8e1kgIEhHWxwkFiYMpvgcu76y5npSWJeTZZxI5LHY9O4Rz3sHEtUci357MXLPQZ2MtMaeqLw4dmqpTFP6kPKIwNiWyp-PrWZNQdK6Q8IDVbWBgEOWI=w740?key=FMgXZWBPahfy6GMrU4KCGg",
+    "correctAnswers": [
+      "pstruh obecný"
+    ]
+  },
+  {
+    "question": "Lovící z loďky:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "může mít nastraženu jednu udici mimo loďku",
+        "isCorrect": false
+      },
+      {
+        "text": "může mít nastraženy dvě udice mimo loďku",
+        "isCorrect": false
+      },
+      {
+        "text": "nesmí mít nastraženou jinou udici mimo loďku",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nesmí mít nastraženou jinou udici mimo loďku"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra candáta obecného je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "50 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "55 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "45 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "45 cm"
+    ]
+  },
+  {
+    "question": "Bolen dravý patří mezi:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "okounovité",
+        "isCorrect": false
+      },
+      {
+        "text": "lososovité",
+        "isCorrect": false
+      },
+      {
+        "text": "kaprovité",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kaprovité"
+    ]
+  },
+  {
+    "question": "Co se rozumí pod pojmem hlubinná přívlač:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov ryb na moři",
+        "isCorrect": false
+      },
+      {
+        "text": "lov ze břehu při kterém je nástraha aktivně vedena ve velkých hloubkách",
+        "isCorrect": false
+      },
+      {
+        "text": "tažení nástrahy za jedoucím rybářským plavidlem v jakékoliv hloubce",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tažení nástrahy za jedoucím rybářským plavidlem v jakékoliv hloubce"
+    ]
+  },
+  {
+    "question": "V pstruhových rybářských revírech je lov přívlačí povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. srpna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 30. listopadu",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. dubna do 30. listopadu"
+    ]
+  },
+  {
+    "question": "Štika obecná má v pstruhovém rybářském revíru dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 31. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá stanovenou dobu hájení zákonem",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenou dobu hájení zákonem"
+    ]
+  },
+  {
+    "question": "Párové ploutve jsou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "břišní",
+        "isCorrect": true
+      },
+      {
+        "text": "hřbetní",
+        "isCorrect": false
+      },
+      {
+        "text": "ocasní",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "břišní"
+    ]
+  },
+  {
+    "question": "V pstruhových rybářských revírech je lov muškařením povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "tento způsob není vůbec povolen",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tento způsob není vůbec povolen"
+    ]
+  },
+  {
+    "question": "Udicí se rozumí:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prut a naviják",
+        "isCorrect": false
+      },
+      {
+        "text": "prut, zpravidla naviják, šnůra nebo vlasec, zátěž",
+        "isCorrect": false
+      },
+      {
+        "text": "prut, zpravidla naviják, šňůra nebo vlasec a háček nebo umělá nástraha",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prut, zpravidla naviják, šňůra nebo vlasec a háček nebo umělá nástraha"
+    ]
+  },
+  {
+    "question": "Při lovu přívlačí v pstruhových revírech je povoleno použít vláčecí nástrahy opatřené:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "maximálně jedním háčkem (jedno až trojháčkem)",
+        "isCorrect": true
+      },
+      {
+        "text": "maximálně třemi háčky (jedno až trojháčky)",
+        "isCorrect": false
+      },
+      {
+        "text": "počet háčků není omezen",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "maximálně jedním háčkem (jedno až trojháčkem)"
+    ]
+  }
+]

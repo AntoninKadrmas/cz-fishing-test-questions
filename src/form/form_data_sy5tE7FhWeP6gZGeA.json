@@ -1,0 +1,530 @@
+[
+  {
+    "question": "Lov na položenou je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov na nejvýše 2 udice a pohyb nástrahy je aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov na max. 1 udici a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován"
+    ]
+  },
+  {
+    "question": "rostlina na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "stulík žlutý",
+        "isCorrect": false
+      },
+      {
+        "text": "leknín bílý",
+        "isCorrect": true
+      },
+      {
+        "text": "rákos obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVA7En0nCNVkQLMxDORyKTvMYppOfGseBX4x2rQzLbkcDHWsjja6ivsN4X6xIlCByYZoMh-HVy_2XIp7bS6bNW6QO5w0Sl5nlGsApj0-ILjKoCGNSuVov2Mr3Afnob3qHa1HmaNsRibqFQV6jph9WxMVuuzaUdMDbphSQ9ijTrc2B7JUdksLa6bamzFOP-A9sUt2uWTGGvi11NKD=w563?key=AdjMjcZW45IY7wRevFijLg",
+    "correctAnswers": [
+      "leknín bílý"
+    ]
+  },
+  {
+    "question": "Kapr obecný se nejčastěji rozmnožuje:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "v prosinci a lednu",
+        "isCorrect": false
+      },
+      {
+        "text": "v květnu a červnu",
+        "isCorrect": true
+      },
+      {
+        "text": "v září a říjnu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "v květnu a červnu"
+    ]
+  },
+  {
+    "question": "Co se rozumí pod pojmem hlubinná přívlač:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "tažení nástrahy za jedoucím rybářským plavidlem v jakékoliv hloubce",
+        "isCorrect": true
+      },
+      {
+        "text": "lov ze břehu při kterém je nástraha aktivně vedena ve velkých hloubkách",
+        "isCorrect": false
+      },
+      {
+        "text": "lov ryb na moři",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tažení nástrahy za jedoucím rybářským plavidlem v jakékoliv hloubce"
+    ]
+  },
+  {
+    "question": "Při lovu na položenou může být na jedné udici:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvoj nebo trojháčkem",
+        "isCorrect": true
+      },
+      {
+        "text": "nejvýše 1 návazec s jednoduchým háčkem nebo 1 návazec s dvoj nebo trojháčkem",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 2 návazce s jednoduchými háčky nebo 2 návazce s dvoj nebo trojháčky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvoj nebo trojháčkem"
+    ]
+  },
+  {
+    "question": "Lov přívlačí je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a pohyb nástrahy není nijak lovícím ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a nástraha je aktivně vedena vodním prostředím",
+        "isCorrect": true
+      },
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a nástraha je aktivně vedena vodním prostředím",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém se použije nejvýše 1 udice a nástraha je aktivně vedena vodním prostředím"
+    ]
+  },
+  {
+    "question": "Tukovou ploutvičku mají:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lipan podhorní, pstruh obecný, sumeček americký, síhové",
+        "isCorrect": true
+      },
+      {
+        "text": "okounovité, hořavka duhová, ouklejka pruhovaná",
+        "isCorrect": false
+      },
+      {
+        "text": "lososovité, treskovité, hořavka duhová",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lipan podhorní, pstruh obecný, sumeček americký, síhové"
+    ]
+  },
+  {
+    "question": "Při lovu přívlačí musí lovící udržovat odstup:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "alespoň 15 metrů, nedohodnou-li se na kratší vzdálenosti",
+        "isCorrect": false
+      },
+      {
+        "text": "alespoň 20 metrů, nedohodnou-li se na kratší vzdálenosti",
+        "isCorrect": true
+      },
+      {
+        "text": "tak aby si navzájem nepřekáželi",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "alespoň 20 metrů, nedohodnou-li se na kratší vzdálenosti"
+    ]
+  },
+  {
+    "question": "V mimopstruhových rybářských revírech je lov přívlačí povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. července do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16 června do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. prosince",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. června do 31. prosince"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jelec tloušť",
+        "isCorrect": true
+      },
+      {
+        "text": "pstruh potoční",
+        "isCorrect": false
+      },
+      {
+        "text": "sumeček americký",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVA5Te6hA-S3dd9hHMS_SQeiI3w-OWzn4PPZRel9vSQbzNBhvb3IvOWhKTWSRe4XTdIqBGMIGMYmjKeKs980yOGaCFMhKJzgG5o0hmLtTUBcwX5dfrDxCtMfDfiVwaHLT2xN0oaHundvSSU9swa67QyI1COyKGXF0nf6fP8paxgRPBhzUzisEcr52jNCoURr4tOYGiTHLoGYvhkt=w740?key=AdjMjcZW45IY7wRevFijLg",
+    "correctAnswers": [
+      "jelec tloušť"
+    ]
+  },
+  {
+    "question": "Denní doba lovu v měsíci dubnu v pstruhovém rybářském revíru je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 7:00 do 20:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 6:00 do 20:00 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 6:00 do 19:00 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 6:00 do 20:00 hodin"
+    ]
+  },
+  {
+    "question": "Který druh ryb klade své jikry do žaberní dutiny mlžů:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "hořavka duhová",
+        "isCorrect": true
+      },
+      {
+        "text": "blatňák tmavý",
+        "isCorrect": false
+      },
+      {
+        "text": "ostrucha křivočará",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "hořavka duhová"
+    ]
+  },
+  {
+    "question": "V mimopstruhových rybářských revírech je lov na položenou povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "po celý rok",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. ledna do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. prosince",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "po celý rok"
+    ]
+  },
+  {
+    "question": "Při lovu na plavanou a položenou na nástražní rybku lze použít systémy s maximálně:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "třemi háčky (jedno až trojháčky)",
+        "isCorrect": true
+      },
+      {
+        "text": "dvěma háčky (jedno až trojháčky)",
+        "isCorrect": false
+      },
+      {
+        "text": "pěti háčky (jedno až trojháčky)",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "třemi háčky (jedno až trojháčky)"
+    ]
+  },
+  {
+    "question": "Čím dýchají ryby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ploutve",
+        "isCorrect": false
+      },
+      {
+        "text": "žábra",
+        "isCorrect": true
+      },
+      {
+        "text": "šupiny",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "žábra"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "střevle potoční",
+        "isCorrect": true
+      },
+      {
+        "text": "hrouzek obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "ježdík obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCoOW9Q9BGcbyeaGABL4IoOTGylvPcQaHMEZ0gvBFMJ-oFAlOrihS-4zHUrbPcOQbOUkOldWoytdsMQLVK5EZXzvXssAdDiPXx_wL9kJjQbrCp5zQ7LpPFKjax2q51V5FbHqLvVhZs6r1qv9gSRWxkWM0EdMNHytAAoGUOeZJe1s-m5Zl-c7FOSPkxJy6ne1J3de-YcCXAt6as=w590?key=AdjMjcZW45IY7wRevFijLg",
+    "correctAnswers": [
+      "střevle potoční"
+    ]
+  },
+  {
+    "question": "Jako nástražní rybku nelze použít:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ryby lososovité, úhoř říční, ryby chráněné dle zákona, ryby hájené nebo nemírové",
+        "isCorrect": true
+      },
+      {
+        "text": "pouze ryby lososovité",
+        "isCorrect": false
+      },
+      {
+        "text": "pouze ryby chráněné dle zákona",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ryby lososovité, úhoř říční, ryby chráněné dle zákona, ryby hájené nebo nemírové"
+    ]
+  },
+  {
+    "question": "Hořavka duhová se vytírá:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "na kameny",
+        "isCorrect": false
+      },
+      {
+        "text": "na rostliny",
+        "isCorrect": false
+      },
+      {
+        "text": "do škeblí",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "do škeblí"
+    ]
+  },
+  {
+    "question": "Štika obecná má v pstruhovém rybářském revíru dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá stanovenou dobu hájení zákonem",
+        "isCorrect": true
+      },
+      {
+        "text": "od 31. ledna do 15. června",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenou dobu hájení zákonem"
+    ]
+  },
+  {
+    "question": "Co je to lov na plavanou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov ryb z plavidel",
+        "isCorrect": false
+      },
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy může být aktivně ovlivňován",
+        "isCorrect": true
+      },
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a pohyb nástrahy může být aktivně ovlivňován",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy může být aktivně ovlivňován"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lipan podhorní",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "karas stříbřitý",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVC7yRyyCbW1hv_z5iW2eTkaHKxBJ2UQKlP71-6aJLsZixItpFzv8-W28ZIP4z5jQ9oOk_BXW1mzSPC3MKWu6OaQJxQ7V95WwWFaUub2WIpmo--wWKUHsFrFfHJavGCwO0F8dRk-_ZCB5nHs1ax2Mdrl1n8xLAA5_ttic5oJe7FT5IwiRyx1waqPDaKjLRrHVSIw_rrEDR3VXUge=w732?key=AdjMjcZW45IY7wRevFijLg",
+    "correctAnswers": [
+      "karas stříbřitý"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "amur bílý",
+        "isCorrect": false
+      },
+      {
+        "text": "jeseter malý",
+        "isCorrect": true
+      },
+      {
+        "text": "úhoř říční",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVBNyilz9VLjAZHnlfXCqTVlYRIkFCGR2ZXr4V8ME4PVTFmRZSXpFwDjeRx9-f-YBLO4uzD93C7f7wYeVsjqQBaczvjoktwCzZe10cUPdksaJeQpUk998gDtBM3kfnMrLo3uhhfdda76V24VSVthpuCKIKOmyXyyiSHSpzz0_MPRlw5OBZ14OV_MWHspK0io8OJwGM-TAzwtPD4=w740?key=AdjMjcZW45IY7wRevFijLg",
+    "correctAnswers": [
+      "jeseter malý"
+    ]
+  },
+  {
+    "question": "Kapr obecný má stanovenou dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemá stanovenou dobu hájení zákonem",
+        "isCorrect": true
+      },
+      {
+        "text": "od 15. března do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. března",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenou dobu hájení zákonem"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra lipana podhorního je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "25 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "30 cm"
+    ]
+  }
+]

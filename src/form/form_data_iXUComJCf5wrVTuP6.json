@@ -1,0 +1,574 @@
+[
+  {
+    "question": "Lipan podhorní se rozmnožuje:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "v zimě",
+        "isCorrect": false
+      },
+      {
+        "text": "na jaře",
+        "isCorrect": true
+      },
+      {
+        "text": "na podzim",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "na jaře"
+    ]
+  },
+  {
+    "question": "Pstruh obecný má stanovenou dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. září do 15. dubna",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. prosince do 15. dubna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1 září do 1. dubna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. září do 15. dubna"
+    ]
+  },
+  {
+    "question": "Která ryba se rozmnožuje v Sargasovém moři?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "platýz bradavičnatý",
+        "isCorrect": false
+      },
+      {
+        "text": "losos obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "úhoř říční",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "úhoř říční"
+    ]
+  },
+  {
+    "question": "Lovící z loďky:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "může mít nastraženy dvě udice mimo loďku",
+        "isCorrect": false
+      },
+      {
+        "text": "může mít nastraženu jednu udici mimo loďku",
+        "isCorrect": false
+      },
+      {
+        "text": "nesmí mít nastraženou jinou udici mimo loďku",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nesmí mít nastraženou jinou udici mimo loďku"
+    ]
+  },
+  {
+    "question": "Postranní čarou ryby vnímají:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "proudění",
+        "isCorrect": true
+      },
+      {
+        "text": "chuť",
+        "isCorrect": false
+      },
+      {
+        "text": "čich",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "proudění"
+    ]
+  },
+  {
+    "question": "Při lovu na plavanou a položenou v pstruhových rybářských revírech lze použít nástrahy:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pouze živočišného původu",
+        "isCorrect": false
+      },
+      {
+        "text": "rostlinného nebo živočišného původu",
+        "isCorrect": false
+      },
+      {
+        "text": "pouze rostlinného původu",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pouze rostlinného původu"
+    ]
+  },
+  {
+    "question": "živočich na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "orel mořský",
+        "isCorrect": false
+      },
+      {
+        "text": "volavka šedá",
+        "isCorrect": false
+      },
+      {
+        "text": "lednáček říční",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAOYfy2LK1ARQM8-_L8Rozpauza3bCekX_gJslRJPf3IFVVNROJ3-Vtgv2sI9pvFWt8PFDI9PIo9nQp7c4SyV7pFK71LA0N0O3ZAW4tpYOz_H-cKfIbV7sAiRAr5Kqkg5p88GNMHGRBtxiH6qB8rSQATTP3RBzHuI5JwFAGkbPx-wNyUBcWaGwBQj_4U2Bk8GJZDPuvX-QUy6yB=w740?key=SBwqvzPh2uhqgJPGzsNdYA",
+    "correctAnswers": [
+      "lednáček říční"
+    ]
+  },
+  {
+    "question": "K čemu slouží požerákové zuby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "uchvácení kořisti",
+        "isCorrect": false
+      },
+      {
+        "text": "drcení potravy",
+        "isCorrect": true
+      },
+      {
+        "text": "filtrování potravy z vody",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "drcení potravy"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "candát obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "koljuška tříostná",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCgXrZppYgFux7tXbjvRlOR-xTQG6YpTWhwJCnIEAzw8jjmcFf3jB2zw_WuLvfCJ9TQud-6sAj0A9HFNPqTiJKoBvl2JIROJbBCcaFhRhMiT13uHy5rQ_M5X5S_8jbY6qntTMwdEq3QJweL4Kl5kBJ6pD3GNAj0VNuRDDAHd_IPn4Ai_5C5bdcfq9yZYaOXhxfHDedIbMWE-kwW=w740?key=SBwqvzPh2uhqgJPGzsNdYA",
+    "correctAnswers": [
+      "koljuška tříostná"
+    ]
+  },
+  {
+    "question": "Při lovu na položenou může být na jedné udici:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nejvýše 1 návazec s jednoduchým háčkem nebo 1 návazec s dvoj nebo trojháčkem",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvoj nebo trojháčkem",
+        "isCorrect": true
+      },
+      {
+        "text": "nejvýše 2 návazce s jednoduchými háčky nebo 2 návazce s dvoj nebo trojháčky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvoj nebo trojháčkem"
+    ]
+  },
+  {
+    "question": "Lze kombinovat lov na plavanou s lovem na položenou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ne",
+        "isCorrect": false
+      },
+      {
+        "text": "pouze při použití více jak dvou udic",
+        "isCorrect": false
+      },
+      {
+        "text": "ano",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ]
+  },
+  {
+    "question": "Při lovu přívlačí se za nástrahu použije:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jedna umělá nebo dvě přirozené nástrahy",
+        "isCorrect": false
+      },
+      {
+        "text": "neomezené množství nástrah",
+        "isCorrect": false
+      },
+      {
+        "text": "jedna umělá nebo přirozená nástraha",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jedna umělá nebo přirozená nástraha"
+    ]
+  },
+  {
+    "question": "Rybář může lovit na položenou a plavanou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "na 2 nastražené udice",
+        "isCorrect": true
+      },
+      {
+        "text": "na 1 nastraženou udici",
+        "isCorrect": false
+      },
+      {
+        "text": "na 3 nastražené udice",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "na 2 nastražené udice"
+    ]
+  },
+  {
+    "question": "Povinná výbava při lovu je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "metr, vyprošťovač háčků, nůž",
+        "isCorrect": false
+      },
+      {
+        "text": "rybářský lístek, povolenka, metr, vyprošťovač háčků",
+        "isCorrect": true
+      },
+      {
+        "text": "povolenka, vyprošťovač háčků, podběrák, vezírek",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "rybářský lístek, povolenka, metr, vyprošťovač háčků"
+    ]
+  },
+  {
+    "question": "Denní doba lovu v měsíci červnu v mimopstruhovém rybářském revíru je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 4:00 do 24:00 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 5:00 do 24:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 4:00 do 22:00 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 4:00 do 24:00 hodin"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "cejnek malý",
+        "isCorrect": false
+      },
+      {
+        "text": "sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "plotice obecná",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAbstgjwzDAOROZcvksNxNTJGTos9GeLq-ClgYR117SVEtkjQL82689CuWyIONFVb2eMd6a6NCgeGMIVfX4pLOS3TcKxTGA8GOcoBIc2zV4KYgehvsyOn3Dt8HSoO2H-jwrsV3C4Gy6cD7mcpOFrmirgrdbfh-D-GwPeqWZHXnleDMb2VwBeQmkXdh1LBdajc9fRgQaZbKIFwKm=w740?key=SBwqvzPh2uhqgJPGzsNdYA",
+    "correctAnswers": [
+      "plotice obecná"
+    ]
+  },
+  {
+    "question": "Může být při lovu na umělou mušku použito kulové nebo jiné plovátko:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano, ale pouze na stojatých vodách",
+        "isCorrect": false
+      },
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "ne",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ]
+  },
+  {
+    "question": "Jelec tloušť má v pstruhovém rybářském revíru dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemá stanovenou dobu hájení zákonem",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. března do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 15. června",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenou dobu hájení zákonem"
+    ]
+  },
+  {
+    "question": "Které ryby nemají žaludek?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kaprovité",
+        "isCorrect": true
+      },
+      {
+        "text": "okounovité",
+        "isCorrect": false
+      },
+      {
+        "text": "lososovité",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kaprovité"
+    ]
+  },
+  {
+    "question": "Za rybářskou loďku nelze považovat:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "plovoucí nafukovací rybářský člun",
+        "isCorrect": false
+      },
+      {
+        "text": "hausbót (houseboat)",
+        "isCorrect": true
+      },
+      {
+        "text": "laminátovou pramici s vesly",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "hausbót (houseboat)"
+    ]
+  },
+  {
+    "question": "Denní doba lovu v měsíci červnu v mimopstruhovém rybářském revíru je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 5:00 do 24:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 4:00 do 24:00 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 4:00 do 22:00 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 4:00 do 24:00 hodin"
+    ]
+  },
+  {
+    "question": "Při lovu přívlačí musí lovící udržovat odstup:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "alespoň 15 metrů, nedohodnou-li se na kratší vzdálenosti",
+        "isCorrect": false
+      },
+      {
+        "text": "tak aby si navzájem nepřekáželi",
+        "isCorrect": false
+      },
+      {
+        "text": "alespoň 20 metrů, nedohodnou-li se na kratší vzdálenosti",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "alespoň 20 metrů, nedohodnou-li se na kratší vzdálenosti"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "cejn velký",
+        "isCorrect": false
+      },
+      {
+        "text": "okoun říční",
+        "isCorrect": false
+      },
+      {
+        "text": "hrouzek obecný",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVChQd6Id2JT8gJQnz8vNkOuCL6qV8dwUjQn_7tQ-tMr9WYr0oVzLP1UKZSNaaWmzN3GrMZJCsui4ZnHXLkmUlflhTgBbNpf6T6w4u8zf9p3qtilnDOAvFNmSR0oVJzRCMO31hjuy-ogsfpWQDSTa2WEUqsKfq13qInAWuBlorG1MqQ8yuzcLxYM394_tPBRpsFcJwsacMojO6ic=w665?key=SBwqvzPh2uhqgJPGzsNdYA",
+    "correctAnswers": [
+      "hrouzek obecný"
+    ]
+  },
+  {
+    "question": "Při lovu na umělou mušku v pstruhových rybářských revírech lze použít jedna udice:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "s jedním návazcem a jedním jednoháčkem",
+        "isCorrect": false
+      },
+      {
+        "text": "s třemi návazci s tím, že na každém lze použít jen jeden jednoháček",
+        "isCorrect": true
+      },
+      {
+        "text": "s třemi návazci s tím, že na každém lze použít jeden jedno, dvoj, nebo trojháček",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "s třemi návazci s tím, že na každém lze použít jen jeden jednoháček"
+    ]
+  },
+  {
+    "question": "V mimopstruhovém revíru si může lovící přisvojit v jednom dnu:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "úlovek není hmotnostně omezen",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 5 kg všech druhů ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 7 kg všech druhů ryb",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 7 kg všech druhů ryb"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "amur bílý",
+        "isCorrect": false
+      },
+      {
+        "text": "kapr obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "karas stříbřitý",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVD46FvRw5keI5Pgrudv1nsqfh17_tPagH_yj2mDl7B2USYyI8fBzu9mb8vw_r5dpio7HydnhnLrWAra1G_LMrNFc39w4o0kU-X6_MATeIOXFBrqLLLTIESh5w8CzWT4V0JNjUdDUXdSb-4EDZpPTO3-Af09CF19NlG3esb_Jc0REgtKefjaTIyG-i0-u2zwM2iT2jlAkYuKbco=w740?key=SBwqvzPh2uhqgJPGzsNdYA",
+    "correctAnswers": [
+      "karas stříbřitý"
+    ]
+  }
+]

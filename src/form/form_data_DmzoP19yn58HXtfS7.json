@@ -1,0 +1,574 @@
+[
+  {
+    "question": "Denní doba lovu v měsíci září v pstruhovém rybářském revíru je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 8:00 do 20:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 7:00 do 20:00 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 7:00 do 21:00 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 7:00 do 20:00 hodin"
+    ]
+  },
+  {
+    "question": "Pstruh obecný se nejčastěji rozmnožuje:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "v březnu a dubnu",
+        "isCorrect": false
+      },
+      {
+        "text": "v říjnu a listopadu",
+        "isCorrect": true
+      },
+      {
+        "text": "v červenci",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "v říjnu a listopadu"
+    ]
+  },
+  {
+    "question": "rostlina  na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kosatec žlutý",
+        "isCorrect": false
+      },
+      {
+        "text": "orobinec",
+        "isCorrect": true
+      },
+      {
+        "text": "leknín bílý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCnuxV19tZHrt4jCj-VEIfBSe0a3rfHq0cOJb4XFTA0DK-YM1TIl5E0_WpYgIR6g_S7sTF3C-1cFWinKOGXy1X4V9p0UcwFJJtYYoabw6FLVphJFeusY5b6MR9-At521YUqsB9lM0OGPxto4NzJn-ucqsxTCZ3xNkUqpS-2rFWg2DjyOMeiQB9FS-_kVx6XiAttuEMTvsZbRt9G=w480?key=pMB6woJWuVONu8D7EZwJhw",
+    "correctAnswers": [
+      "orobinec"
+    ]
+  },
+  {
+    "question": "Co je to lov na plavanou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a pohyb nástrahy může být aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov ryb z plavidel",
+        "isCorrect": false
+      },
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy může být aktivně ovlivňován",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy může být aktivně ovlivňován"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra lipana podhorního je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "30 cm"
+    ]
+  },
+  {
+    "question": "Lov přívlačí je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a nástraha je aktivně vedena vodním prostředím",
+        "isCorrect": false
+      },
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a nástraha je aktivně vedena vodním prostředím",
+        "isCorrect": true
+      },
+      {
+        "text": "lov při kterém se použije nejvýše 1 udice a pohyb nástrahy není nijak lovícím ovlivňován",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém se použije nejvýše 1 udice a nástraha je aktivně vedena vodním prostředím"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "parma obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "mřenka mramorovaná",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVAh9c1bCxHvxTM-KbE4gH3d8UVe4Df-0fnhrQoTKgBqAVoX52433sYEL0hZaEKho6k-wEG24McX2I5esW-rfUDXWyyyEMJEWrh7t1rJ9Q9WyijAJP4elBA9tmzsDk80ppe0cHZ3kEAktQgsPoqD2quSux9k0faWI7uYbH4fnT_tG0NC7qAXkmxQejmPO8INeWeiJxbNerLMyiA=w740?key=pMB6woJWuVONu8D7EZwJhw",
+    "correctAnswers": [
+      "mřenka mramorovaná"
+    ]
+  },
+  {
+    "question": "Lov čeřínkováním je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov vodorovnou sítí o maximální ploše síťoviny 1 m2",
+        "isCorrect": true
+      },
+      {
+        "text": "lov určený výhradně k lovu dravých ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "lov ve zčeřené vodě pod splavem",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov vodorovnou sítí o maximální ploše síťoviny 1 m2"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra okouna říčního je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "není stanovena zákonem",
+        "isCorrect": true
+      },
+      {
+        "text": "15 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "není stanovena zákonem"
+    ]
+  },
+  {
+    "question": "V mimopstruhovém revíru si může lovící přisvojit v jednom dnu:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "úlovek není hmotnostně omezen",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 7 kg všech druhů ryb",
+        "isCorrect": true
+      },
+      {
+        "text": "nejvýše 5 kg všech druhů ryb",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 7 kg všech druhů ryb"
+    ]
+  },
+  {
+    "question": "Cykloidní (kruhovité) šupiny má:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "candát obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "kapr obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "jeseter malý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kapr obecný"
+    ]
+  },
+  {
+    "question": "Jelec tloušť má v pstruhovém rybářském revíru dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemá stanovenou dobu hájení zákonem",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. března do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 15. června",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenou dobu hájení zákonem"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "drsek větší",
+        "isCorrect": true
+      },
+      {
+        "text": "candát obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "cejnek malý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCQ0_aMLaFLI_U2gsVubLArxc2WgXje0Dan5LgD43i8wu9lWgh0BaBshwl7AvJ4EZeMEbQl68KgPKxeRkKPzf47ZyYL_crzALgvetYI0Tt44hcRS3vMfKuy6RRXbPIKkuDPi205uAYmU40tZ_fmOl252kzEjSLBO4GG5Z8BvxkbdGZ2uub-tcr-q12mQL_Cz7G7MteUvScU7U8=w740?key=pMB6woJWuVONu8D7EZwJhw",
+    "correctAnswers": [
+      "drsek větší"
+    ]
+  },
+  {
+    "question": "Osoba provádějící lov musí mít u sebe:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pouze míru pro zjištění délky ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "vyprošťovač háčků a míru pro zjištění délky ryb",
+        "isCorrect": true
+      },
+      {
+        "text": "rybářské pruty a nástrahy",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vyprošťovač háčků a míru pro zjištění délky ryb"
+    ]
+  },
+  {
+    "question": "Při lovu na položenou může být na jedné udici:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvoj nebo trojháčkem",
+        "isCorrect": true
+      },
+      {
+        "text": "nejvýše 1 návazec s jednoduchým háčkem nebo 1 návazec s dvoj nebo trojháčkem",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 2 návazce s jednoduchými háčky nebo 2 návazce s dvoj nebo trojháčky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvoj nebo trojháčkem"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "koljuška tříostná",
+        "isCorrect": false
+      },
+      {
+        "text": "kapr obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "plotice obecná",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVCIQGqIWC086lrtuCrjUcLBQ-_NCtNbKNqhUN4nXIT3XIaEp8jDhJXpl_1QwpSwHlF6PWe7BWIWUlJaZET_8WJvofn4E3DaEqaYNiO4auH4ejLTQJhro8CKf4X6EWg6tuBJNeWTvM1J2MVTB_HOnUQngHlidQj0qEKtmuYLD-MHYKVsUqygApPFB-_-pQYXKoA9deZR6craddlV=w740?key=pMB6woJWuVONu8D7EZwJhw",
+    "correctAnswers": [
+      "plotice obecná"
+    ]
+  },
+  {
+    "question": "Udicí se rozumí:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prut, zpravidla naviják, šňůra nebo vlasec a háček nebo umělá nástraha",
+        "isCorrect": true
+      },
+      {
+        "text": "prut, zpravidla naviják, šnůra nebo vlasec, zátěž",
+        "isCorrect": false
+      },
+      {
+        "text": "prut a naviják",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prut, zpravidla naviják, šňůra nebo vlasec a háček nebo umělá nástraha"
+    ]
+  },
+  {
+    "question": "Jelec tloušť má v pstruhovém rybářském revíru dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemá stanovenou dobu hájení zákonem",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. března do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 15. června",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenou dobu hájení zákonem"
+    ]
+  },
+  {
+    "question": "Které ryby nemají žaludek?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kaprovité",
+        "isCorrect": true
+      },
+      {
+        "text": "lososovité",
+        "isCorrect": false
+      },
+      {
+        "text": "okounovité",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kaprovité"
+    ]
+  },
+  {
+    "question": "ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ostroretka stěhovavá",
+        "isCorrect": true
+      },
+      {
+        "text": "ouklej obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "bolen dravý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVC30Eh_8Xlym7RMo6wP3TmDOcJtk24u15CA4PjxyXq6ubG_qs58hkuq2WUZrBK4umAffCOIUbMnnwwR1poeWU4Si7Xb6dmk49ALONXyB3vGpIo2XZP8og0nVQDQYOf_HzHvDtwf4Xa39riF8OyDBR_3xp6BFjE3sQeEzsIhGWvUkGsN0NmzzfBhSkt_itDnHspCVyCAqst_bmLp=w726?key=pMB6woJWuVONu8D7EZwJhw",
+    "correctAnswers": [
+      "ostroretka stěhovavá"
+    ]
+  },
+  {
+    "question": "Jakou maximální velikost může mít čeřínek:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "150 x 150 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "neomezenou",
+        "isCorrect": true
+      },
+      {
+        "text": "100 x 100 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "neomezenou"
+    ]
+  },
+  {
+    "question": "Echolot je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "přístroj pro vyhledávání ryb a mapování dna",
+        "isCorrect": true
+      },
+      {
+        "text": "ozvěna",
+        "isCorrect": false
+      },
+      {
+        "text": "druh rybářského navijáku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "přístroj pro vyhledávání ryb a mapování dna"
+    ]
+  },
+  {
+    "question": "Typické teritoriální chování má:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vyza velká",
+        "isCorrect": false
+      },
+      {
+        "text": "ostroretka stěhovavá",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "štika obecná"
+    ]
+  },
+  {
+    "question": "Pod pojmem tření v rybářství rozumíme:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "přípravu rybníka na výlov",
+        "isCorrect": false
+      },
+      {
+        "text": "přirozené rozmnožování ryb",
+        "isCorrect": true
+      },
+      {
+        "text": "velké množství ledové tříště v korytě řeky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "přirozené rozmnožování ryb"
+    ]
+  },
+  {
+    "question": "V mimopstruhových rybářských revírech je lov přívlačí povolen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. července do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. prosince",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16 června do 30. listopadu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. června do 31. prosince"
+    ]
+  },
+  {
+    "question": "Lze kombinovat lov na plavanou s lovem na položenou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ne",
+        "isCorrect": false
+      },
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "pouze při použití více jak dvou udic",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ]
+  }
+]

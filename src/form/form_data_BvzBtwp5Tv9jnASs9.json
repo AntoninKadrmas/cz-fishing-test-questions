@@ -1,0 +1,556 @@
+[
+  {
+    "question": "Tukovou ploutvičku mají:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lipan podhorní, pstruh obecný, sumeček americký, síhové",
+        "isCorrect": true
+      },
+      {
+        "text": "okounovité, hořavka duhová, ouklejka pruhovaná",
+        "isCorrect": false
+      },
+      {
+        "text": "lososovité, treskovité, hořavka duhová",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lipan podhorní, pstruh obecný, sumeček americký, síhové"
+    ]
+  },
+  {
+    "question": "Charakteristickými zástupci cejnového pásma jsou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "parma obecná, ostroretka stěhovavá",
+        "isCorrect": false
+      },
+      {
+        "text": "lipan podhorní, vranka obecná, střevle potoční",
+        "isCorrect": false
+      },
+      {
+        "text": "kapr obecný, sumec velký",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kapr obecný, sumec velký"
+    ]
+  },
+  {
+    "question": "Lov ryb elektrickým proudem je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "povolen, ale pouze osobám s odbornou kvalifikací",
+        "isCorrect": false
+      },
+      {
+        "text": "zakázán, pokud k tomu nebyla stanovena výjimka",
+        "isCorrect": true
+      },
+      {
+        "text": "zakázán, pokud lov neprovádí uživatel rybářského revíru",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "zakázán, pokud k tomu nebyla stanovena výjimka"
+    ]
+  },
+  {
+    "question": "Rybářské právo lze vykonávat:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pouze v chovných rybnících",
+        "isCorrect": false
+      },
+      {
+        "text": "pouze v rybářských revírech",
+        "isCorrect": true
+      },
+      {
+        "text": "ve všech vodách, umožňující život ryb a vodních organismů",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pouze v rybářských revírech"
+    ]
+  },
+  {
+    "question": "Živočich na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "plovatka bahenní",
+        "isCorrect": false
+      },
+      {
+        "text": "skokan",
+        "isCorrect": false
+      },
+      {
+        "text": "bobor evropský",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVBVZb3J9hh5Es8jcWg-AC73GDN4uZS5EI9Nk1gUaKjWxmr2GMQclbdLc7xZwDSZ9HsUQfM62z2a7DThRkXWP4hK7lIOYEBpoD4NaaMROeqlOBtHw7O5t99iC9b64f2NDr3K0iWGEgmn-eGWW9a9P0fAMf6aZmUkIhrSgevBNewwePJAXn4ROiLRldd6DSIvtDAZxbas_-UfzTX_=w676?key=hKgZHVblv7xkCrr5jyx41Q",
+    "correctAnswers": [
+      "bobor evropský"
+    ]
+  },
+  {
+    "question": "Udicí se rozumí:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prut, zpravidla naviják, šňůra nebo vlasec a háček nebo umělá nástraha",
+        "isCorrect": true
+      },
+      {
+        "text": "prut a naviják",
+        "isCorrect": false
+      },
+      {
+        "text": "šnůra nebo vlasec, zátěž",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prut, zpravidla naviják, šňůra nebo vlasec a háček nebo umělá nástraha"
+    ]
+  },
+  {
+    "question": "Ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "siven americký",
+        "isCorrect": false
+      },
+      {
+        "text": "síh maréna",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVDk-7Nfotu8CDABM005o2r4VPzUPTxKd0FxLcwj-PvAVqzziTo3LZ4ejIgjPC2G8kb8H01x-_BTDhjgf3xmbmhp3Ek2m9iSG6sTMoaHlaNJu6ZdLZgWccj0ZKj1X7CoYhvO_gbl-lh63dCC0ci1wnRbblDcrK1F117en0Uq8g9XmO4t70iZ75YWFIX98vSH0pJigenyJrzbDwkx=w740?key=hKgZHVblv7xkCrr5jyx41Q",
+    "correctAnswers": [
+      "pstruh obecný"
+    ]
+  },
+  {
+    "question": "Denní doba lovu v měsíci říjnu v mimopstruhovém rybářském revíru je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 5:00 do 22:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 4:00 do 24:00 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 5:00 do 24:00 hodin",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 5:00 do 24:00 hodin"
+    ]
+  },
+  {
+    "question": "Ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "karas obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "podoustev říční",
+        "isCorrect": false
+      },
+      {
+        "text": "amur bílý",
+        "isCorrect": true
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVB8DPUyOEtQtNyf1x34IvHmx2NYIDzaHwbz8Z1pVGMoWjDWRmQ_br1nDTbxGqsLDl5lUjY9G9YoUc_KhMj13rqzS00rFmtYYguDFB3P9Pg02bnq0_qQKaavqRYTEpRf-iEXm-bZMbh-gLhJVB1dHAFwkiyc-4J0w1MDHLTF6lgyOyx8UQiCLJEZI_pXk9hEcdapGg-m9K0AWG2T=w606?key=hKgZHVblv7xkCrr5jyx41Q",
+    "correctAnswers": [
+      "amur bílý"
+    ]
+  },
+  {
+    "question": "Podle typických druhů rozeznáváme v tekoucích vodách pásmo:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruhové, lipanové, parmové a kaprové",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruhové, lipanové, parmové, cejnové a kaprové",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruhové, lipanové, parmové a cejnové",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruhové, lipanové, parmové a cejnové"
+    ]
+  },
+  {
+    "question": "Echolot je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "druh rybářského navijáku",
+        "isCorrect": false
+      },
+      {
+        "text": "ozvěna",
+        "isCorrect": false
+      },
+      {
+        "text": "přístroj pro vyhledávání ryb a mapování dna",
+        "isCorrect": true
+      },
+      {
+        "text": "Jiné:",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "přístroj pro vyhledávání ryb a mapování dna"
+    ]
+  },
+  {
+    "question": "Ryby řadíme mezi:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ploutvonožce",
+        "isCorrect": false
+      },
+      {
+        "text": "obratlovce",
+        "isCorrect": true
+      },
+      {
+        "text": "šupinatce",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "obratlovce"
+    ]
+  },
+  {
+    "question": "Mezi prostředky k lovu patří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "harpuna",
+        "isCorrect": true
+      },
+      {
+        "text": "vábnička",
+        "isCorrect": false
+      },
+      {
+        "text": "vhrací síť",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "harpuna"
+    ]
+  },
+  {
+    "question": "Štika obecná má v pstruhovém rybářském revíru dobu hájení:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 31. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá stanovenou dobu hájení zákonem",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenou dobu hájení zákonem"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra kapra obecného je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": true
+      },
+      {
+        "text": "35",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "40"
+    ]
+  },
+  {
+    "question": "Lov na položenou je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov na nejvýše 2 udice a pohyb nástrahy je aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov na max. 1 udici a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov na max. 2 udice a pohyb nástrahy není aktivně ovlivňován"
+    ]
+  },
+  {
+    "question": "Šupiny nemá:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sumec velký",
+        "isCorrect": true
+      },
+      {
+        "text": "lín obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "úhoř říční",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "sumec velký"
+    ]
+  },
+  {
+    "question": "Podle režimu rybolovu se rybářské revíry dělí na:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruhové a kaprové",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruhové a mimopstruhové",
+        "isCorrect": true
+      },
+      {
+        "text": "pstruhové, mimopstruhové a smíšené",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruhové a mimopstruhové"
+    ]
+  },
+  {
+    "question": "Nejmenší lovná míra bolena dravého je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "40",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "40"
+    ]
+  },
+  {
+    "question": "Chráněná rybí oblast je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "část rybářského revíru kde dochází k rozmnožování ryb a vodních organismů, kde může být lov omezen, ale ne zakázán",
+        "isCorrect": false
+      },
+      {
+        "text": "část rybářského revíru kde je vždy lov ryb nebo vodních organismů zakázán",
+        "isCorrect": false
+      },
+      {
+        "text": "část nebo celý rybářský revír, kde může být omezen nebo zakázán lov ryb nebo vodních organismů",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "část nebo celý rybářský revír, kde může být omezen nebo zakázán lov ryb nebo vodních organismů"
+    ]
+  },
+  {
+    "question": "Mezi druhy na unijním seznamu, které se nesmí pustit a použít jako nástraha patří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "amur bílý, siven americký, okounek pstruhový",
+        "isCorrect": false
+      },
+      {
+        "text": "sumeček černý, střevlička východní, slunečnice pestrá",
+        "isCorrect": true
+      },
+      {
+        "text": "okounek pstruhový, ježdík žlutý, cejn siný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "sumeček černý, střevlička východní, slunečnice pestrá"
+    ]
+  },
+  {
+    "question": "Ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "siven americký",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná",
+        "isCorrect": true
+      },
+      {
+        "text": "parma obecná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVDPBXsb4lMCSLqREhCUZu0vUH-OPZs_DMriHu5y3vAF0nPOGJVIsYQIVVVC8JKoDgRMq9Ma3i2HHRiJtewj10fquzU-2CJ5rErgG7cJ7amYjd40A15y73BNvghi7D5b30u1T9kDUl-E3TGq-XX4Sy5WVPBl-FsulO_Nl_gVMZW9h5BJWaV311nVfxWunE-QSjmbtQ6JEXlJ_QU=w740?key=hKgZHVblv7xkCrr5jyx41Q",
+    "correctAnswers": [
+      "štika obecná"
+    ]
+  },
+  {
+    "question": "Rybářský revír:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "slouží ke sportovnímu rybolovu",
+        "isCorrect": true
+      },
+      {
+        "text": "slouží k intenzivnímu chovu ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "slouží k úpravě pitné vody",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "slouží ke sportovnímu rybolovu"
+    ]
+  },
+  {
+    "question": "Ryba na obrázku je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "candát obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "hořavka",
+        "isCorrect": false
+      },
+      {
+        "text": "slunka obecná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": "https://lh7-rt.googleusercontent.com/formsz/AN7BsVD381QZY4pcRvwqn2uHIDqWrcg3zoeIiSLwFmoZm-q623ZGEctsGGpuXJMrpHn4VpeeJwL4ZFBYKRFYqF_M6RAzOUYTqbUbt-nSF7SWFF7CysyziTD6MBjBSbPQKEFOI-LShlRRdz4_akLCSGyfSz3MGZIfqfoXl_Lwf3umMG3bbFS7HtE-Eo4fsHhq3s5a8SdeMXCE5Qrk54DL=w740?key=hKgZHVblv7xkCrr5jyx41Q",
+    "correctAnswers": [
+      "candát obecný"
+    ]
+  },
+  {
+    "question": "Rybářský prut:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "slouží k měření hloubky",
+        "isCorrect": false
+      },
+      {
+        "text": "se skládá z blanku (těla prutu), rukojeti, sedla navijáku a oček",
+        "isCorrect": true
+      },
+      {
+        "text": "je opěrná hůl při brodění vodou",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "se skládá z blanku (těla prutu), rukojeti, sedla navijáku a oček"
+    ]
+  }
+]
