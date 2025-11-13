@@ -1,0 +1,4303 @@
+[
+  {
+    "question": "Kdy musí osoba provádějící lov ryb v mimopstruhovém rybářském revíru zapsat přisvojeného bolena?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "po skončení nebo přerušení lovu před odchodem od vody",
+        "isCorrect": false
+      },
+      {
+        "text": "po ukončení denního lovu ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "bezprostředně po jeho ulovení",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "bezprostředně po jeho ulovení"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23569-kdy_musi_osoba_provadejici_lov_ryb_v_mimopstruhovem_rybarskem_reviru_zapsat_prisvojeneho_bolen"
+  },
+  {
+    "question": "Kdy musí osoba provádějící lov ryb v mimopstruhovém rybářském revíru zapsat přisvojenou parmu?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vše po ukončení denního lovu ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "druh ryby bezprostředně po jejím ulovení a počet kusů a hmotnost po skončení nebo přerušení lovu před odchodem od vody",
+        "isCorrect": true
+      },
+      {
+        "text": "vše bezprostředně po jejím ulovení",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "druh ryby bezprostředně po jejím ulovení a počet kusů a hmotnost po skončení nebo přerušení lovu před odchodem od vody"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23570-kdy_musi_osoba_provadejici_lov_ryb_v_mimopstruhovem_rybarskem_reviru_zapsat_prisvojenou_parmu"
+  },
+  {
+    "question": "Lov lososovitých ryb v pstruhových rybářských revírech je povolen pouze:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "přívlačí a muškařením",
+        "isCorrect": true
+      },
+      {
+        "text": "muškařením a na živou rybku",
+        "isCorrect": false
+      },
+      {
+        "text": "muškařením, přívlačí a na živou rybku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "přívlačí a muškařením"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23571-lov_lososovitych_ryb_v_pstruhovych_rybarskych_revirech_je_povolen_pouze"
+  },
+  {
+    "question": "Kdy je v pstruhových rybářských revírech povolen lov přívlačí?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. dubna do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. srpna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. dubna do 31. srpna"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23572-kdy_je_v_pstruhovych_rybarskych_revirech_povolen_lov_privlaci"
+  },
+  {
+    "question": "Kdy je v pstruhových rybářských revírech povolen lov muškařením?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. března do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 30. listopadu",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. dubna do 30. listopadu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23573-kdy_je_v_pstruhovych_rybarskych_revirech_povolen_lov_muskarenim"
+  },
+  {
+    "question": "Kdy je v pstruhových rybářských revírech povolen lov na živou rybku?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "tento způsob není povolen",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. dubna do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tento způsob není povolen"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23574-kdy_je_v_pstruhovych_rybarskych_revirech_povolen_lov_na_zivou_rybku"
+  },
+  {
+    "question": "Kolik kusů marény si mohu ponechat 18. 7. na mimopstruhovém rybářském revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "libovolně do 7 kg celkového úlovku",
+        "isCorrect": true
+      },
+      {
+        "text": "žádnou",
+        "isCorrect": false
+      },
+      {
+        "text": "3 kusy",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "libovolně do 7 kg celkového úlovku"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23575-kolik_kusu_mareny_si_mohu_ponechat_18_7_na_mimopstruhovem_rybarskem_reviru"
+  },
+  {
+    "question": "Dopustil se rybář přestupku, jestliže chytal na dvě udice (jednou na položenou, druhou muškařil)?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano - na revíru mimopstruhovém i pstruhovém",
+        "isCorrect": true
+      },
+      {
+        "text": "ne - jen na revíru mimopstruhovém",
+        "isCorrect": false
+      },
+      {
+        "text": "ne - na revíru mimopstruhovém i pstruhovém",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano - na revíru mimopstruhovém i pstruhovém"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23576-dopustil_se_rybar_prestupku_jestlize_chytal_na_dve_udice_jednou_na_polozenou_druhou_muskaril"
+  },
+  {
+    "question": "Kdo vydává rybářský lístek?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "Ministerstvo zemědělství",
+        "isCorrect": false
+      },
+      {
+        "text": "MO ČRS",
+        "isCorrect": false
+      },
+      {
+        "text": "obecní úřad obce s rozšířenou působností, nebo obec s pověřeným obecním úřadem, v jehož obvodu má žadatel o vydání rybářského lístku trvalý pobyt",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "obecní úřad obce s rozšířenou působností, nebo obec s pověřeným obecním úřadem, v jehož obvodu má žadatel o vydání rybářského lístku trvalý pobyt"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23577-kdo_vydava_rybarsky_listek"
+  },
+  {
+    "question": "Která ryba je hájena v září?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruh obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "štika obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "siven americký",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruh obecný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23578-ktera_ryba_je_hajena_v_zari"
+  },
+  {
+    "question": "Mohu si ponechat štiku obecnou ulovenou na pstruhovém revíru 30. 5.?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "ne",
+        "isCorrect": false
+      },
+      {
+        "text": "pokud má zákonnou míru",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23579-mohu_si_ponechat_stiku_obecnou_ulovenou_na_pstruhovem_reviru_30_5"
+  },
+  {
+    "question": "Která z těchto našich ryb má stanovenou nejmenší lovnou míru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lín obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "jelec jesen",
+        "isCorrect": false
+      },
+      {
+        "text": "hrouzek obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lín obecný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23580-ktera_z_techto_nasich_ryb_ma_stanovenou_nejmensi_lovnou_miru"
+  },
+  {
+    "question": "Která naše ryba má největší stanovenou lovnou míru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sumec velký",
+        "isCorrect": true
+      },
+      {
+        "text": "hlavatka obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "amur bílý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "sumec velký"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23581-ktera_nase_ryba_ma_nejvetsi_stanovenou_lovnou_miru"
+  },
+  {
+    "question": "Je možné na mimopstruhovém revíru použít pstruha obecného jako nástražní rybičku?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pokud má zákonnou míru",
+        "isCorrect": false
+      },
+      {
+        "text": "ano",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23582-je_mozne_na_mimopstruhovem_reviru_pouzit_pstruha_obecneho_jako_nastrazni_rybicku"
+  },
+  {
+    "question": "Kterou nástrahu můžete použít 30. 9. na pstruhovém revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "umělou mušku nebo třpytku s jedním jedno, dvoj nebo trojháčkem",
+        "isCorrect": false
+      },
+      {
+        "text": "umělou mušku nebo třpytku nebo živou rybku",
+        "isCorrect": false
+      },
+      {
+        "text": "umělou mušku nebo třpytku, ale pouze s jedním jednoháčkem",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "umělou mušku nebo třpytku, ale pouze s jedním jednoháčkem"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23583-kterou_nastrahu_muzete_pouzit_30_9_na_pstruhovem_reviru"
+  },
+  {
+    "question": "Mohu si ponechat pstruha obecného, jenž byl chycen na pstruhovém revíru 16. 9. ?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano",
+        "isCorrect": false
+      },
+      {
+        "text": "pokud má zákonnou míru",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23584-mohu_si_ponechat_pstruha_obecneho_jenz_byl_chycen_na_pstruhovem_reviru_16_9_"
+  },
+  {
+    "question": "Mohu si ponechat pstruha duhového, kterého jsem ulovil 1. 11. na mimopstruhovém revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "ne",
+        "isCorrect": false
+      },
+      {
+        "text": "mlíčáka",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23585-mohu_si_ponechat_pstruha_duhoveho_ktereho_jsem_ulovil_1_11_na_mimopstruhovem_reviru"
+  },
+  {
+    "question": "Kolik kusů parmy obecné si mohu ponechat v jednom dni na mimopstruhovém revíru 30. 9. ?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "do 7 kg úlovku",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "do 7 kg úlovku"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23586-kolik_kusu_parmy_obecne_si_mohu_ponechat_v_jednom_dni_na_mimopstruhovem_reviru_30_9_"
+  },
+  {
+    "question": "V měsíci dubnu můžeme chytat na pstruhových revírech?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 5 do 20 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 7 do 17 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 6 do 20 hodin",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 6 do 20 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23587-v_mesici_dubnu_muzeme_chytat_na_pstruhovych_revirech"
+  },
+  {
+    "question": "Mohu si ponechat lipana podhorního, chyceného na mimopstruhovém revíru 15. 6.?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "má-li zákonnou míru",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": true
+      },
+      {
+        "text": "ano",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23588-mohu_si_ponechat_lipana_podhorniho_chyceneho_na_mimopstruhovem_reviru_15_6"
+  },
+  {
+    "question": "Mohu si ponechat 2 kusy sumce velkého (8 kg a 16,5 kg), ulovené v jednom dni na mimopstruhovém revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano, byl-li lehčí kus chycen jako první",
+        "isCorrect": false
+      },
+      {
+        "text": "ano",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23589-mohu_si_ponechat_2_kusy_sumce_velkeho_8_kg_a_165_kg_ulovene_v_jednom_dni_na_mimopstruhovem_rev"
+  },
+  {
+    "question": "Mohu chytat nástražní rybičky do čeřenu na pstruhovém revíru před 15. dubnem?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jen do hmotnosti 7 kg",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": true
+      },
+      {
+        "text": "ano",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23590-mohu_chytat_nastrazni_rybicky_do_cerenu_na_pstruhovem_reviru_pred_15_dubnem"
+  },
+  {
+    "question": "Jako nástražní rybky nemohou být použity?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ryby, které dosahují své zákonné míry a větší",
+        "isCorrect": false
+      },
+      {
+        "text": "ryby lososovité a lipana, chráněné druhy ryb a ryby nedosahující nejmenší lovné míry",
+        "isCorrect": false
+      },
+      {
+        "text": "ryby lososovité, úhoře, chráněné druhy ryb a ryby nedosahující nejmenší lovné míry",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ryby lososovité, úhoře, chráněné druhy ryb a ryby nedosahující nejmenší lovné míry"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23591-jako_nastrazni_rybky_nemohou_byt_pouzity"
+  },
+  {
+    "question": "Jakou zákonnou míru má štika obecná na pstruhovém revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemá míru",
+        "isCorrect": true
+      },
+      {
+        "text": "40 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "50 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá míru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23592-jakou_zakonnou_miru_ma_stika_obecna_na_pstruhovem_reviru"
+  },
+  {
+    "question": "Při lovu udicí na položenou musí být lovící u udic přítomen tak, aby:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "s nimi mohl bez prodlení manipulovat",
+        "isCorrect": true
+      },
+      {
+        "text": "je měl minimálně 2 metry od rukou",
+        "isCorrect": false
+      },
+      {
+        "text": "je měl v dohledu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "s nimi mohl bez prodlení manipulovat"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23593-pri_lovu_udici_na_polozenou_musi_byt_lovici_u_udic_pritomen_tak_aby"
+  },
+  {
+    "question": "Kde je povolen lov ryb z plavidel?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pouze některým členům MO ČRS",
+        "isCorrect": false
+      },
+      {
+        "text": "tam, kde to určí uživatel rybářského revíru",
+        "isCorrect": true
+      },
+      {
+        "text": "pouze na údolních nádržích",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tam, kde to určí uživatel rybářského revíru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23594-kde_je_povolen_lov_ryb_z_plavidel"
+  },
+  {
+    "question": "V jaké vzdálenosti od přehradní hráze je povolen lov ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "100 metrů od tělesa hráze",
+        "isCorrect": true
+      },
+      {
+        "text": "50 metrů od tělesa hráze",
+        "isCorrect": false
+      },
+      {
+        "text": "10 metrů od tělesa hráze",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "100 metrů od tělesa hráze"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23595-v_jake_vzdalenosti_od_prehradni_hraze_je_povolen_lov_ryb"
+  },
+  {
+    "question": "Rybář nesmí lovit ryby na místě:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kde vede v blízkosti řeky železniční trať",
+        "isCorrect": false
+      },
+      {
+        "text": "kde ústí do toku městská kanalizace",
+        "isCorrect": false
+      },
+      {
+        "text": "kde došlo k nahromadění ryb z důvodu mimořádně nízkého stavu vody",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kde došlo k nahromadění ryb z důvodu mimořádně nízkého stavu vody"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23596-rybar_nesmi_lovit_ryby_na_miste"
+  },
+  {
+    "question": "Co je povinností rybáře, který zjistí hynutí ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ihned přerušit lov a hynutí hlásit Policii ČR a uživateli revíru",
+        "isCorrect": true
+      },
+      {
+        "text": "ihned přerušit lov a odejít od vody",
+        "isCorrect": false
+      },
+      {
+        "text": "pokračovat v lovu a hynutí hlásit po skončení lovu MO ČRS",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ihned přerušit lov a hynutí hlásit Policii ČR a uživateli revíru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23597-co_je_povinnosti_rybare_ktery_zjisti_hynuti_ryb"
+  },
+  {
+    "question": "Co musí rybář udělat s ulovenou rybou, která je hájena nebo nedosahuje nejmenší stanovené míry?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vyndá jí háček a vhodí ji zpět do vody",
+        "isCorrect": false
+      },
+      {
+        "text": "musí jí šetrně vrátit zpět do rybářského revíru, v němž byla ulovena",
+        "isCorrect": true
+      },
+      {
+        "text": "ponechá si ji, protože by stejně uhynula",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "musí jí šetrně vrátit zpět do rybářského revíru, v němž byla ulovena"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23598-co_musi_rybar_udelat_s_ulovenou_rybou_ktera_je_hajena_nebo_nedosahuje_nejmensi_stanovene_miry"
+  },
+  {
+    "question": "Který z rybářů se dopustil přestupku?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ten, který měl dvě udice nastražené na položenou, na každé měl dva návazce s jednoduchými háčky",
+        "isCorrect": false
+      },
+      {
+        "text": "ten, který měl při lovu jednu udici nastraženou na položenou, druhou na plavanou",
+        "isCorrect": false
+      },
+      {
+        "text": "ten, který měl jednu udici nastraženou na položenou a druhou muškařil",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ten, který měl jednu udici nastraženou na položenou a druhou muškařil"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23599-ktery_z_rybaru_se_dopustil_prestupku"
+  },
+  {
+    "question": "V sobotu 16. 4. jsem v 15.20 hodin chytil na pstruhovém revíru štiku obecnou o velikosti 43 cm:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "musím si ji ponechat",
+        "isCorrect": true
+      },
+      {
+        "text": "nesmím si ji ponechat",
+        "isCorrect": false
+      },
+      {
+        "text": "mohu si ji ponechat",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "musím si ji ponechat"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23600-v_sobotu_16_4_jsem_v_1520_hodin_chytil_na_pstruhovem_reviru_stiku_obecnou_o_velikosti_43_cm"
+  },
+  {
+    "question": "Kolik kusů candáta obecného si mohu ponechat 15. 7. na pstruhovém revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "neomezeně",
+        "isCorrect": true
+      },
+      {
+        "text": "pouze dva",
+        "isCorrect": false
+      },
+      {
+        "text": "žádného",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "neomezeně"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23601-kolik_kusu_candata_obecneho_si_mohu_ponechat_15_7_na_pstruhovem_reviru"
+  },
+  {
+    "question": "Které ryby osoba provádějící lov nevrací do pstruhového rybářského revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "štika obecná, pstruh obecný, okoun říční, sumec velký, bolen dravý a candát obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná, jelec tloušť, okoun říční, sumec velký, bolen dravý a candát obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "štika obecná, amur bílý, okoun říční, sumec velký, bolen dravý a candát obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "štika obecná, jelec tloušť, okoun říční, sumec velký, bolen dravý a candát obecný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23602-ktere_ryby_osoba_provadejici_lov_nevraci_do_pstruhoveho_rybarskeho_reviru"
+  },
+  {
+    "question": "Kolik kusů ušlechtilých ryb si může rybář ponechat v jednom dni na mimopstruhových revírech?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "neomezeně",
+        "isCorrect": false
+      },
+      {
+        "text": "2 ks",
+        "isCorrect": false
+      },
+      {
+        "text": "max. 2 kusy, pokud při ulovení ušlechtilé ryby nebyla již překročena hmotnost 7 kg",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "max. 2 kusy, pokud při ulovení ušlechtilé ryby nebyla již překročena hmotnost 7 kg"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23603-kolik_kusu_uslechtilych_ryb_si_muze_rybar_ponechat_v_jednom_dni_na_mimopstruhovych_revirech"
+  },
+  {
+    "question": "Kolik lososovitých ryb si rybář může ponechat v jednom dni na mimopstruhových revírech?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "2 ks",
+        "isCorrect": false
+      },
+      {
+        "text": "4 ks",
+        "isCorrect": false
+      },
+      {
+        "text": "3 ks",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "3 ks"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23604-kolik_lososovitych_ryb_si_rybar_muze_ponechat_v_jednom_dni_na_mimopstruhovych_revirech"
+  },
+  {
+    "question": "K rybám škodlivým na pstruhovém revíru patří?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "bolen dravý",
+        "isCorrect": true
+      },
+      {
+        "text": "ouklejka pruhovaná",
+        "isCorrect": false
+      },
+      {
+        "text": "plotice obecná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "bolen dravý"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23605-k_rybam_skodlivym_na_pstruhovem_reviru_patri"
+  },
+  {
+    "question": "Mohu si ponechat 3 kusy candáta obecného, chycené v jednom dni na mimopstruhovém revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano - ale jen do hmotnosti 7 kg",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": true
+      },
+      {
+        "text": "ano",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23606-mohu_si_ponechat_3_kusy_candata_obecneho_chycene_v_jednom_dni_na_mimopstruhovem_reviru"
+  },
+  {
+    "question": "Kolik kusů síha severního marény si mohu ponechat v jednom dni na pstruhovém revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "3 ks",
+        "isCorrect": false
+      },
+      {
+        "text": "4 ks",
+        "isCorrect": false
+      },
+      {
+        "text": "do 7 kg",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "do 7 kg"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23607-kolik_kusu_siha_severniho_mareny_si_mohu_ponechat_v_jednom_dni_na_pstruhovem_reviru"
+  },
+  {
+    "question": "Mohu lovit na pstruhovém rybářském revíru nástražní rybky čeřínkováním?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jen na zvláštní povolení",
+        "isCorrect": false
+      },
+      {
+        "text": "ano",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23608-mohu_lovit_na_pstruhovem_rybarskem_reviru_nastrazni_rybky_cerinkovanim"
+  },
+  {
+    "question": "Kolikrát týdně mohu lovit čeřínkováním nástražní rybky na mimopstruhovém revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "4 x",
+        "isCorrect": false
+      },
+      {
+        "text": "neomezeně",
+        "isCorrect": true
+      },
+      {
+        "text": "3 x",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "neomezeně"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23609-kolikrat_tydne_mohu_lovit_cerinkovanim_nastrazni_rybky_na_mimopstruhovem_reviru"
+  },
+  {
+    "question": "Dopoledne jsem ulovil a odnesl si 7 kg řádně zapsaných ryb. Mohu jít odpoledne opět na ryby (chytám pouze na mimopstruhovém revíru)?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": true
+      },
+      {
+        "text": "ano, budu-li chytat jen nástražní ryby",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23610-dopoledne_jsem_ulovil_a_odnesl_si_7_kg_radne_zapsanych_ryb_mohu_jit_odpoledne_opet_na_ryby_chy"
+  },
+  {
+    "question": "Mohu si ponechat kapra uloveného do čeřínku?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ne",
+        "isCorrect": false
+      },
+      {
+        "text": "pokud má zákonnou míru - ano",
+        "isCorrect": true
+      },
+      {
+        "text": "ano",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pokud má zákonnou míru - ano"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23611-mohu_si_ponechat_kapra_uloveneho_do_cerinku"
+  },
+  {
+    "question": "Povolenku s vyplněnou evidencí docházek a úlovků je nutno odevzdat organizaci, která povolenku vydala",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "do 31. 12.",
+        "isCorrect": false
+      },
+      {
+        "text": "do 15 dnů po skončení platnosti povolenky",
+        "isCorrect": true
+      },
+      {
+        "text": "do 15. 1. příštího roku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "do 15 dnů po skončení platnosti povolenky"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23612-povolenku_s_vyplnenou_evidenci_dochazek_a_ulovku_je_nutno_odevzdat_organizaci_ktera_povolenku_"
+  },
+  {
+    "question": "Bližšími podmínkami výkonu rybářského práva ČRS je stanovena doba hájení lososa obecného",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "celoročně",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. září do 15. dubna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. září do 30. listopadu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "celoročně"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23613-blizsimi_podminkami_vykonu_rybarskeho_prava_crs_je_stanovena_doba_hajeni_lososa_obecneho"
+  },
+  {
+    "question": "Doba hájení jelce tlouště je v mimopstruhovém rybářském revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. března do 15. června",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. září do 15. dubna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. března do 15. června"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23614-doba_hajeni_jelce_tlouste_je_v_mimopstruhovem_rybarskem_reviru"
+  },
+  {
+    "question": "Úhoř říční je v rybářském revíru hájen?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. září do 30. listopadu",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. března do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. září do 30. listopadu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23615-uhor_ricni_je_v_rybarskem_reviru_hajen"
+  },
+  {
+    "question": "Ryby ulovené v rybářském revíru v době jejich hájení",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "mohou být přisvojeny v množství maximálně dvou kusů",
+        "isCorrect": false
+      },
+      {
+        "text": "musí být šetrně vráceny zpět do rybářského revíru, v němž byly uloveny",
+        "isCorrect": true
+      },
+      {
+        "text": "mohou být přisvojeny, ale jen pokud dosahují lovné míry",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "musí být šetrně vráceny zpět do rybářského revíru, v němž byly uloveny"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23616-ryby_ulovene_v_rybarskem_reviru_v_dobe_jejich_hajeni"
+  },
+  {
+    "question": "Jakou nejmenší zákonnou míru má mník jednovousý?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "25 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "35 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "30 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23617-jakou_nejmensi_zakonnou_miru_ma_mnik_jednovousy"
+  },
+  {
+    "question": "Při lovu ryb v rybářském revíru je zakázáno:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lovit ryby pod ledem vyjma prosince, ledna, února",
+        "isCorrect": false
+      },
+      {
+        "text": "lovit ryby pod ledem (pokud nebyla udělena výjimka)",
+        "isCorrect": true
+      },
+      {
+        "text": "lovit ryby pod ledem bez zajištění lanem",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lovit ryby pod ledem (pokud nebyla udělena výjimka)"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23618-pri_lovu_ryb_v_rybarskem_reviru_je_zakazano"
+  },
+  {
+    "question": "Při lovu ryb v rybářském revíru je zakázáno:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lovit z železničního či silničního mostu",
+        "isCorrect": true
+      },
+      {
+        "text": "lovit ze břehu vyššího než 2 m",
+        "isCorrect": false
+      },
+      {
+        "text": "lovit z hráze rybníka",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lovit z železničního či silničního mostu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23619-pri_lovu_ryb_v_rybarskem_reviru_je_zakazano"
+  },
+  {
+    "question": "V mimopstruhovém rybářském revíru si může osoba provádějící lov přisvojit v jednom dnu, i když loví na více rybářských revírech:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nejvýše 3 kg všech druhů ryb. Pokud byla osobou provádějící lov přisvojena ryba, jejímž ulovením celková hmotnost úlovku přesáhla 7 kg, končí jejím přisvojením denní lov",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 7 kg všech druhů ryb. Pokud byla osobou provádějící lov přisvojena ryba, jejímž ulovením celková hmotnost úlovku přesáhla 7 kg, končí jejím přisvojením denní lov",
+        "isCorrect": true
+      },
+      {
+        "text": "nejvýše 7 kg všech druhů ryb. Pokud byla osobou provádějící lov přisvojena ryba, jejímž ulovením celková hmotnost úlovku přesáhla 7 kg, smí si dále přisvojit další ryby, ne však kapra obecného, štiky obecné, candáta obecného, sumce velkého ani bolena dravého.",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 7 kg všech druhů ryb. Pokud byla osobou provádějící lov přisvojena ryba, jejímž ulovením celková hmotnost úlovku přesáhla 7 kg, končí jejím přisvojením denní lov"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23620-v_mimopstruhovem_rybarskem_reviru_si_muze_osoba_provadejici_lov_prisvojit_v_jednom_dnu_i_kdyz_"
+  },
+  {
+    "question": "Denní doby lovu:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jsou stanoveny jen jako orientační, není vyžadováno jejich dodržování a rybářská stráž je nekontroluje",
+        "isCorrect": false
+      },
+      {
+        "text": "nejsou stanoveny, loví se bez časového omezení",
+        "isCorrect": false
+      },
+      {
+        "text": "jsou stanoveny zvlášť pro revíry pstruhové i mimopstruhové a rybář je má s ostatními pravidly pro lov ryb k dispozici jako součást povolenky k lovu ryb",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jsou stanoveny zvlášť pro revíry pstruhové i mimopstruhové a rybář je má s ostatními pravidly pro lov ryb k dispozici jako součást povolenky k lovu ryb"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23621-denni_doby_lovu"
+  },
+  {
+    "question": "Od 16. března do 15. června jsou v rybářských revírech hájeni:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ostroretka stěhovavá, parma obecná, parma východní, podoustev říční a úhoř říční",
+        "isCorrect": false
+      },
+      {
+        "text": "bolen dravý, candát obecný, štika obecná a sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "ostroretka stěhovavá, parma obecná, parma východní, podoustev říční, jeseter malý a vyza velká",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ostroretka stěhovavá, parma obecná, parma východní, podoustev říční, jeseter malý a vyza velká"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23622-od_16_brezna_do_15_cervna_jsou_v_rybarskych_revirech_hajeni"
+  },
+  {
+    "question": "Jaká je nejmenší zákonná délka bolena dravého v mimopstruhových revírech?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "35 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "40 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "45 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "40 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23623-jaka_je_nejmensi_zakonna_delka_bolena_draveho_v_mimopstruhovych_revirech"
+  },
+  {
+    "question": "Od 1. září do 15. dubna jsou v rybářských revírech hájeni:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruh obecný, siven americký a losos obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný a siven americký",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruh obecný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23624-od_1_zari_do_15_dubna_jsou_v_rybarskych_revirech_hajeni"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájený amur bílý?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemá stanovenu dobu hájení",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. listopadu do 31. ledna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 30. září",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenu dobu hájení"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23625-kdy_je_v_rybarskych_revirech_hajeny_amur_bily"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra candáta obecného v mimopstruhových revírech?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "50 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "40 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "45 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "45 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23626-jaka_je_nejmensi_lovna_mira_candata_obecneho_v_mimopstruhovych_revirech"
+  },
+  {
+    "question": "Při lovu ryb udicí je osoba provádějící lov povinna mít u sebe a na požádání oprávněné osoby (rybářská stráž, hospodář, Policie ČR) předložit:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "rybářský lístek, členskou legitimaci",
+        "isCorrect": false
+      },
+      {
+        "text": "rybářský lístek, povolenku k lovu",
+        "isCorrect": true
+      },
+      {
+        "text": "povolenku k lovu, členskou legitimaci",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "rybářský lístek, povolenku k lovu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23627-pri_lovu_ryb_udici_je_osoba_provadejici_lov_povinna_mit_u_sebe_a_na_pozadani_opravnene_osoby_r"
+  },
+  {
+    "question": "Lov čeřínkováním se",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nesmí kombinovat s jiným způsobem lovu",
+        "isCorrect": true
+      },
+      {
+        "text": "smí kombinovat s lovem na plavanou",
+        "isCorrect": false
+      },
+      {
+        "text": "nesmí kombinovat s lovem přívlačí",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nesmí kombinovat s jiným způsobem lovu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23628-lov_cerinkovanim_se"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra lipana podhorního v rybářském revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "25 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "30 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23629-jaka_je_nejmensi_lovna_mira_lipana_podhorniho_v_rybarskem_reviru"
+  },
+  {
+    "question": "Jaký počet lososovitých ryb si může lovící přivlastnit v jednom dni?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "3 kusy v pstruhovém rybářském revíru, bez omezení kusů v mimopstruhovém rybářském revíru",
+        "isCorrect": false
+      },
+      {
+        "text": "3 kusy v pstruhovém nebo 3 kusy v mimopstruhovém rybářském revíru",
+        "isCorrect": true
+      },
+      {
+        "text": "3 kusy v pstruhovém rybářském revíru nebo 4 kusy v mimopstruhovém rybářském revíru",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "3 kusy v pstruhovém nebo 3 kusy v mimopstruhovém rybářském revíru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23630-jaky_pocet_lososovitych_ryb_si_muze_lovici_privlastnit_v_jednom_dni"
+  },
+  {
+    "question": "Kdy je povolen lov ryb přívlačí v rybářských revírech?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "na pstruhových revírech od 16. dubna do 30. srpna a na mimopstruhových revírech od 1. ledna do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "na pstruhových revírech od 16. dubna do 30. listopadu a na mimopstruhových revírech od 1. ledna do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "na pstruhových revírech od 16. dubna do 31. srpna a na mimopstruhových revírech od 16. června do 31. prosince",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "na pstruhových revírech od 16. dubna do 31. srpna a na mimopstruhových revírech od 16. června do 31. prosince"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23631-kdy_je_povolen_lov_ryb_privlaci_v_rybarskych_revirech"
+  },
+  {
+    "question": "Při lovu ryb lososovitých a ulovení ryby nedravé v pstruhovém rybářském revíru:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lovící musí rybu pustit zpět do vody",
+        "isCorrect": false
+      },
+      {
+        "text": "lovící si může rybu přisvojit",
+        "isCorrect": true
+      },
+      {
+        "text": "lovící si může rybu přisvojit, ale potom si již nesmí přisvojit ryby lososovité",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lovící si může rybu přisvojit"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23632-pri_lovu_ryb_lososovitych_a_uloveni_ryby_nedrave_v_pstruhovem_rybarskem_reviru"
+  },
+  {
+    "question": "Rybářská stráž je oprávněna požadovat od osoby provádějící lov:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "předložení platného rybářského lístku a platné povolenky k lovu, nesmí požadovat prokázání totožnosti, což je věcí Policie ČR",
+        "isCorrect": false
+      },
+      {
+        "text": "prokázání totožnosti a předložení platné povolenky k lovu, nesmí požadovat rybářský lístek",
+        "isCorrect": false
+      },
+      {
+        "text": "prokázání její totožnosti, předložení platného rybářského lístku a platné povolenky k lovu",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prokázání její totožnosti, předložení platného rybářského lístku a platné povolenky k lovu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23633-rybarska_straz_je_opravnena_pozadovat_od_osoby_provadejici_lov"
+  },
+  {
+    "question": "Lov lososovitých ryb v pstruhových rybářských revírech je povolen pouze:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "muškařením a přívlačí",
+        "isCorrect": true
+      },
+      {
+        "text": "muškařením a na živou rybku",
+        "isCorrect": false
+      },
+      {
+        "text": "muškařením, přívlačí a na živou rybku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "muškařením a přívlačí"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23634-lov_lososovitych_ryb_v_pstruhovych_rybarskych_revirech_je_povolen_pouze"
+  },
+  {
+    "question": "Kdy je v mimopstruhových rybářských revírech povolen lov čeřínkováním?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. června do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. prosince",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. dubna do 31. prosince",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. června do 31. prosince"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23635-kdy_je_v_mimopstruhovych_rybarskych_revirech_povolen_lov_cerinkovanim"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra pstruha duhového?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "23 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "28 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23636-jaka_je_nejmensi_lovna_mira_pstruha_duhoveho"
+  },
+  {
+    "question": "V mimopstruhovém rybářském revíru si může osoba provádějící lov přisvojit v jednom dni nejvýše 2 kusy",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kapra, štiky, candáta, bolena, sumce, cejna nebo jejich vzájemné kombinace",
+        "isCorrect": false
+      },
+      {
+        "text": "kapra, štiky, candáta, bolena, sumce, parmy nebo jejich vzájemné kombinace",
+        "isCorrect": false
+      },
+      {
+        "text": "kapra, amura, štiky, candáta, bolena, sumce nebo jejich vzájemné kombinace",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kapra, amura, štiky, candáta, bolena, sumce nebo jejich vzájemné kombinace"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23637-v_mimopstruhovem_rybarskem_reviru_si_muze_osoba_provadejici_lov_prisvojit_v_jednom_dni_nejvyse"
+  },
+  {
+    "question": "Pokud si osoba provádějící lov přisvojila v jednom dni rybu, kterou celková hmotnost úlovku přesáhla 7 kg",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jejím přisvojením denní lov končí",
+        "isCorrect": true
+      },
+      {
+        "text": "může pokračovat v lovu na jiném revíru",
+        "isCorrect": false
+      },
+      {
+        "text": "může pokračovat v lovu, ale všechny další ulovené ryby je nutné vrátit zpět do vody",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jejím přisvojením denní lov končí"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23638-pokud_si_osoba_provadejici_lov_prisvojila_v_jednom_dni_rybu_kterou_celkova_hmotnost_ulovku_pre"
+  },
+  {
+    "question": "Kdy musí osoba provádějící lov ryb v pstruhovém rybářském revíru zapsat přisvojeného sivena?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "po skončení nebo přerušení lovu před odchodem od vody",
+        "isCorrect": false
+      },
+      {
+        "text": "bezprostředně po jeho ulovení",
+        "isCorrect": true
+      },
+      {
+        "text": "do 15 minut po jeho ulovení",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "bezprostředně po jeho ulovení"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23639-kdy_musi_osoba_provadejici_lov_ryb_v_pstruhovem_rybarskem_reviru_zapsat_prisvojeneho_sivena"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájená vranka obecná a pruhoploutvá?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "celoročně",
+        "isCorrect": true
+      },
+      {
+        "text": "nemá stanovenu dobu hájení",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "celoročně"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23640-kdy_je_v_rybarskych_revirech_hajena_vranka_obecna_a_pruhoploutva"
+  },
+  {
+    "question": "V případě, že je na pstruhovém rybářském revíru ulovena štika, tloušť, okoun, sumec, bolen nebo candát,",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "tato ryba se do pstruhového rybářského revíru nevrací",
+        "isCorrect": true
+      },
+      {
+        "text": "se může přisvojit, pokud dosahuje nejmenší lovnou míru",
+        "isCorrect": false
+      },
+      {
+        "text": "tato ryba se do pstruhového rybářského revíru vždy vrací",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tato ryba se do pstruhového rybářského revíru nevrací"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23641-v_pripade_ze_je_na_pstruhovem_rybarskem_reviru_ulovena_stika_tloust_okoun_sumec_bolen_nebo_can"
+  },
+  {
+    "question": "Lov ryb je zakázán v rybím přechodu nebo do vzdálenosti",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "50 m nad ním a pod ním",
+        "isCorrect": true
+      },
+      {
+        "text": "50 m pod ním",
+        "isCorrect": false
+      },
+      {
+        "text": "100 m nad ním a pod ním",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "50 m nad ním a pod ním"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23642-lov_ryb_je_zakazan_v_rybim_prechodu_nebo_do_vzdalenosti"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájený mník jednovousý?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. září do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. března",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. prosince do 15. března",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. ledna do 15. března"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23643-kdy_je_v_rybarskych_revirech_hajeny_mnik_jednovousy"
+  },
+  {
+    "question": "Všechny původní druhy raků jsou hájeny",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. března do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "celoročně, s výjimkou raka říčního",
+        "isCorrect": false
+      },
+      {
+        "text": "celoročně",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "celoročně"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23644-vsechny_puvodni_druhy_raku_jsou_hajeny"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájený lipan podhorní?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. září do 15. dubna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. prosince do 15. června",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. prosince do 15. dubna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. prosince do 15. června"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23645-kdy_je_v_rybarskych_revirech_hajeny_lipan_podhorni"
+  },
+  {
+    "question": "Kdy musí osoba provádějící lov ryb v mimopstruhovém rybářském revíru zapsat přisvojenou parmu?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vše bezprostředně po jejím ulovení",
+        "isCorrect": false
+      },
+      {
+        "text": "druh ryby bezprostředně po jejím ulovení, počet kusů a hmotnost po skončení nebo přerušení lovu před odchodem od vody",
+        "isCorrect": true
+      },
+      {
+        "text": "vše po skončení nebo přerušení lovu před odchodem od vody",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "druh ryby bezprostředně po jejím ulovení, počet kusů a hmotnost po skončení nebo přerušení lovu před odchodem od vody"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23646-kdy_musi_osoba_provadejici_lov_ryb_v_mimopstruhovem_rybarskem_reviru_zapsat_prisvojenou_parmu"
+  },
+  {
+    "question": "Trestného činu pytláctví se dopustí ten, kdo:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "uloví a ponechá si rybu nebo ryby, které nedosahují stanovené nejmenší délky, byť je držitelem povolenky k lovu ryb na příslušný revír",
+        "isCorrect": false
+      },
+      {
+        "text": "neoprávněně loví zvěř nebo ryby, nebo ukryje, na sebe nebo jiného převede, nebo přechovává zvěř nebo ryby neoprávněně ulovené",
+        "isCorrect": true
+      },
+      {
+        "text": "neoprávněně zasáhne do výkonu rybářského práva a spáchá takový čin hromadně účinným nebo zvlášť zavrženíhodným způsobem",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "neoprávněně loví zvěř nebo ryby, nebo ukryje, na sebe nebo jiného převede, nebo přechovává zvěř nebo ryby neoprávněně ulovené"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23647-trestneho_cinu_pytlactvi_se_dopusti_ten_kdo"
+  },
+  {
+    "question": "K lovu lososovitých ryb na přívlač v pstruhových rybářských revírech smí osoba provádějící lov použít:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "dvou udic, z nichž jednu musí mít lovící v ruce a druhá může být nastražena",
+        "isCorrect": false
+      },
+      {
+        "text": "jenom jednu udici, kterou nemusí držet v ruce",
+        "isCorrect": false
+      },
+      {
+        "text": "jenom jednu udici, která je při lovu držená v ruce, jiná udice není nastražena",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jenom jednu udici, která je při lovu držená v ruce, jiná udice není nastražena"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23648-k_lovu_lososovitych_ryb_na_privlac_v_pstruhovych_rybarskych_revirech_smi_osoba_provadejici_lov"
+  },
+  {
+    "question": "Co je to výkon rybářského práva?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "činnost v rybníkářství spočívající v plánovitém chovu, ochraně, lovu a přisvojování si ryb,",
+        "isCorrect": false
+      },
+      {
+        "text": "soubor činností ve smyslu zákona o rybářství a jeho prováděcích předpisů, směřujících k ulovení ryb či regulaci skladby rybího společenství",
+        "isCorrect": false
+      },
+      {
+        "text": "činnost v rybářském revíru spočívající v plánovitém chovu, ochraně, lovu a přisvojování si ryb",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "činnost v rybářském revíru spočívající v plánovitém chovu, ochraně, lovu a přisvojování si ryb"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23649-co_je_to_vykon_rybarskeho_prava"
+  },
+  {
+    "question": "Je rybářská stráž oprávněna zadržet rybářské náčiní a úlovek v případě přestupku lovící osobě?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jen náčiní, úlovek ne",
+        "isCorrect": false
+      },
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "jen úlovek, náčiní ne",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23650-je_rybarska_straz_opravnena_zadrzet_rybarske_nacini_a_ulovek_v_pripade_prestupku_lovici_osobe"
+  },
+  {
+    "question": "Má právo rybářská stráž zadržet rybáři povolenku k lovu?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano, ale jen v přítomnosti Policie ČR",
+        "isCorrect": false
+      },
+      {
+        "text": "ne, ale může zaslat hlášení orgánu státní správy se žádostí o zadržení povolenky",
+        "isCorrect": false
+      },
+      {
+        "text": "ano, ale musí ji do 5 pracovních dnů doručit tomu, kdo ji vydal",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano, ale musí ji do 5 pracovních dnů doručit tomu, kdo ji vydal"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23651-ma_pravo_rybarska_straz_zadrzet_rybari_povolenku_k_lovu"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra pstruha obecného?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23652-jaka_je_nejmensi_lovna_mira_pstruha_obecneho"
+  },
+  {
+    "question": "Kdy musí osoba provádějící lov ryb v pstruhovém rybářském revíru zapsat přisvojeného sivena?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "po skončení nebo přerušení lovu před odchodem od vody",
+        "isCorrect": false
+      },
+      {
+        "text": "do 15 minut po jeho ulovení.",
+        "isCorrect": false
+      },
+      {
+        "text": "bezprostředně po jeho ulovení",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "bezprostředně po jeho ulovení"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23653-kdy_musi_osoba_provadejici_lov_ryb_v_pstruhovem_rybarskem_reviru_zapsat_prisvojeneho_sivena"
+  },
+  {
+    "question": "Kdy je v mimopstruhových rybářských revírech hájený candát obecný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. prosince do 15. dubna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. prosince do 15. června",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. ledna do 15. června"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23654-kdy_je_v_mimopstruhovych_rybarskych_revirech_hajeny_candat_obecny"
+  },
+  {
+    "question": "Denní doby lovu ryb v mimopstruhovém rybářském revíru jsou v dubnu, květnu, červnu, červenci, srpnu a září",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 4 do 24 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 3 do 24 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 3 do 22 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 4 do 24 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23655-denni_doby_lovu_ryb_v_mimopstruhovem_rybarskem_reviru_jsou_v_dubnu_kvetnu_cervnu_cervenci_srpn"
+  },
+  {
+    "question": "Rybářská stráž je při své činnosti povinna:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prokázat se průkazem rybářské stráže a nosit služební odznak",
+        "isCorrect": true
+      },
+      {
+        "text": "nosit služební odznak a služební stejnokroj",
+        "isCorrect": false
+      },
+      {
+        "text": "prokázat se průkazem rybářské stráže a průkazem totožnosti",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prokázat se průkazem rybářské stráže a nosit služební odznak"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23656-rybarska_straz_je_pri_sve_cinnosti_povinna"
+  },
+  {
+    "question": "Při zjištění hromadného úhynu ryb nebo rozsáhlého znečištění vody je člen ČRS povinen:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vzdálit se co nejrychleji z nebezpečného místa",
+        "isCorrect": false
+      },
+      {
+        "text": "oznámit věc neprodleně minimálně Policii ČR a některému ze zástupců ČRS (místní organizace nebo územní svaz ), podle vlastních možností se podílet na likvidaci havárie",
+        "isCorrect": true
+      },
+      {
+        "text": "oznámit věc nejpozději do tří dnů minimálně Policii ČR a některému ze zástupců ČRS (místní organizace nebo územní svaz )",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "oznámit věc neprodleně minimálně Policii ČR a některému ze zástupců ČRS (místní organizace nebo územní svaz ), podle vlastních možností se podílet na likvidaci havárie"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23657-pri_zjisteni_hromadneho_uhynu_ryb_nebo_rozsahleho_znecisteni_vody_je_clen_crs_povinen"
+  },
+  {
+    "question": "Je rybářská stráž oprávněna kontrolovat lovícímu obsah rybářské loďky, náčiní a úlovky?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano, je k tomu plně oprávněna",
+        "isCorrect": true
+      },
+      {
+        "text": "ano, ale jen v přítomnosti Policie ČR",
+        "isCorrect": false
+      },
+      {
+        "text": "ne, nelze zasahovat do soukromého a oprávněně nabytého vlastnictví",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano, je k tomu plně oprávněna"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23658-je_rybarska_straz_opravnena_kontrolovat_lovicimu_obsah_rybarske_lodky_nacini_a_ulovky"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra jelce jesena?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23659-jaka_je_nejmensi_lovna_mira_jelce_jesena"
+  },
+  {
+    "question": "Jakou nejmenší zákonnou míru má v mimopstruhovém rybářském revíru jelec tloušť?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "18 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23660-jakou_nejmensi_zakonnou_miru_ma_v_mimopstruhovem_rybarskem_reviru_jelec_tloust"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra jesetera malého?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "28 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "37 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "30 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23661-jaka_je_nejmensi_lovna_mira_jesetera_maleho"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra lína obecného?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "20 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "35 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "20 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23662-jaka_je_nejmensi_lovna_mira_lina_obecneho"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra ostroretky stěhovavé?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "35 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "30 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23663-jaka_je_nejmensi_lovna_mira_ostroretky_stehovave"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra parmy obecné?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "45 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "40 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "50 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "40 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23664-jaka_je_nejmensi_lovna_mira_parmy_obecne"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra podoustve říční?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "40 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23665-jaka_je_nejmensi_lovna_mira_podoustve_ricni"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra sivena amerického?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "35 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23666-jaka_je_nejmensi_lovna_mira_sivena_americkeho"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra pstruha duhového?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "20 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "35 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23667-jaka_je_nejmensi_lovna_mira_pstruha_duhoveho"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra pstruha obecného?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "35 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "25 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "25 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23668-jaka_je_nejmensi_lovna_mira_pstruha_obecneho"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra lipana podhorního?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "25 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "30 cm",
+        "isCorrect": true
+      },
+      {
+        "text": "50 cm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "30 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23669-jaka_je_nejmensi_lovna_mira_lipana_podhorniho"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra úhoře říčního?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "55 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "45 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "50 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "50 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23670-jaka_je_nejmensi_lovna_mira_uhore_ricniho"
+  },
+  {
+    "question": "Jaká je nejmenší lovná míra sumce velkého?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "70 cm na mimopstruhových revírech, na pstruhových revírech míru nemá",
+        "isCorrect": true
+      },
+      {
+        "text": "70 cm na všech rybářských revírech",
+        "isCorrect": false
+      },
+      {
+        "text": "65 cm na všech rybářských revírech",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "70 cm na mimopstruhových revírech, na pstruhových revírech míru nemá"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23671-jaka_je_nejmensi_lovna_mira_sumce_velkeho"
+  },
+  {
+    "question": "Štika obecná má nejmenší zákonem stanovenou lovnou míru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "50 cm na mimopstruhových i pstruhových revírech",
+        "isCorrect": false
+      },
+      {
+        "text": "50 cm na mimopstruhových revírech, na pstruhových revírech míru nemá",
+        "isCorrect": true
+      },
+      {
+        "text": "45 cm na mimopstruhových revírech, na pstruhových revírech míru nemá",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "50 cm na mimopstruhových revírech, na pstruhových revírech míru nemá"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23672-stika_obecna_ma_nejmensi_zakonem_stanovenou_lovnou_miru"
+  },
+  {
+    "question": "Candát obecný má nejmenší zákonem stanovenou lovnou míru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "50 cm na mimopstruhových i pstruhových revírech",
+        "isCorrect": false
+      },
+      {
+        "text": "50 cm na mimopstruhových revírech, na pstruhových revírech míru nemá",
+        "isCorrect": false
+      },
+      {
+        "text": "45 cm na mimopstruhových revírech, na pstruhových revírech míru nemá",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "45 cm na mimopstruhových revírech, na pstruhových revírech míru nemá"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23673-candat_obecny_ma_nejmensi_zakonem_stanovenou_lovnou_miru"
+  },
+  {
+    "question": "Bolen dravý má nejmenší zákonem stanovenou lovnou míru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "40 cm na mimopstruhových revírech, na pstruhových revírech míru nemá",
+        "isCorrect": true
+      },
+      {
+        "text": "50 cm na mimopstruhových i pstruhových revírech",
+        "isCorrect": false
+      },
+      {
+        "text": "45 cm na mimopstruhových revírech, na pstruhových revírech míru nemá",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "40 cm na mimopstruhových revírech, na pstruhových revírech míru nemá"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23674-bolen_dravy_ma_nejmensi_zakonem_stanovenou_lovnou_miru"
+  },
+  {
+    "question": "Kdo stanovuje bližší podmínky výkonu rybářského práva?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "uživatel revíru",
+        "isCorrect": true
+      },
+      {
+        "text": "krajský úřad",
+        "isCorrect": false
+      },
+      {
+        "text": "Ministerstvo zemědělství",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "uživatel revíru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23675-kdo_stanovuje_blizsi_podminky_vykonu_rybarskeho_prava"
+  },
+  {
+    "question": "Jiné osobě, která vystoupila na podporu nebo na ochranu rybářské stráže při výkonu její pravomoci, se:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "poskytuje ochrana podle ustanovení § 325 a 326 trestního zákona (násilí proti úřední osobě a vyhrožování s cílem působit na úřední osobu)",
+        "isCorrect": true
+      },
+      {
+        "text": "poskytuje ochrana podle ustanovení § 325 a 326 trestního zákona jen tehdy, je-li dotyčný rovněž úřední osobou (např. policistou apod.)",
+        "isCorrect": false
+      },
+      {
+        "text": "neposkytuje ochrana podle ustanovení § 325 a 326 trestního zákona (násilí proti úřední osobě a vyhrožování s cílem působit na úřední osobu)",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "poskytuje ochrana podle ustanovení § 325 a 326 trestního zákona (násilí proti úřední osobě a vyhrožování s cílem působit na úřední osobu)"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23676-jine_osobe_ktera_vystoupila_na_podporu_nebo_na_ochranu_rybarske_straze_pri_vykonu_jeji_pravomo"
+  },
+  {
+    "question": "Denní doby lovu ryb v pstruhovém rybářském revíru jsou v listopadu, prosinci, lednu a únoru:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 8 do 17 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 7 do 17 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 7 do 16 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 7 do 17 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23677-denni_doby_lovu_ryb_v_pstruhovem_rybarskem_reviru_jsou_v_listopadu_prosinci_lednu_a_unoru"
+  },
+  {
+    "question": "Denní doby lovu ryb v pstruhovém rybářském revíru jsou v dubnu:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 5 do 18 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 6 do 20 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 6 do 19 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 6 do 20 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23678-denni_doby_lovu_ryb_v_pstruhovem_rybarskem_reviru_jsou_v_dubnu"
+  },
+  {
+    "question": "Denní doby lovu ryb v pstruhovém rybářském revíru jsou v květnu:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 6 do 21 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 6 do 20 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 5 do 19 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 6 do 21 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23679-denni_doby_lovu_ryb_v_pstruhovem_rybarskem_reviru_jsou_v_kvetnu"
+  },
+  {
+    "question": "Denní doby lovu ryb v pstruhovém rybářském revíru jsou v červnu a červenci:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 5 do 22 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 5 do 19 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 5 do 20 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 5 do 22 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23680-denni_doby_lovu_ryb_v_pstruhovem_rybarskem_reviru_jsou_v_cervnu_a_cervenci"
+  },
+  {
+    "question": "Denní doby lovu ryb v pstruhovém rybářském revíru jsou v srpnu:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 6 do 22 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 5 do 20 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 6 do 21 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 6 do 22 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23681-denni_doby_lovu_ryb_v_pstruhovem_rybarskem_reviru_jsou_v_srpnu"
+  },
+  {
+    "question": "Denní doby lovu ryb v pstruhovém rybářském revíru jsou v září:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 6 do 17 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 7 do 18 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 7 do 20 hodin",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 7 do 20 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23682-denni_doby_lovu_ryb_v_pstruhovem_rybarskem_reviru_jsou_v_zari"
+  },
+  {
+    "question": "Denní doby lovu ryb v mimopstruhovém rybářském revíru jsou v lednu, únoru, listopadu a prosinci:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 7 do 19 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 8 do 18 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 5 do 22 hodin",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 5 do 22 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23683-denni_doby_lovu_ryb_v_mimopstruhovem_rybarskem_reviru_jsou_v_lednu_unoru_listopadu_a_prosinci"
+  },
+  {
+    "question": "Denní doby lovu ryb v mimopstruhovém rybářském revíru jsou v dubnu a září:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 6 do 21 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 4 do 24 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 5 do 20 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 4 do 24 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23684-denni_doby_lovu_ryb_v_mimopstruhovem_rybarskem_reviru_jsou_v_dubnu_a_zari"
+  },
+  {
+    "question": "Denní doby lovu ryb v mimopstruhovém rybářském revíru jsou v květnu, červnu, červenci a srpnu:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 4 do 24 hodin",
+        "isCorrect": true
+      },
+      {
+        "text": "od 3 do 24 hodin",
+        "isCorrect": false
+      },
+      {
+        "text": "od 3 do 22 hodin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 4 do 24 hodin"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23685-denni_doby_lovu_ryb_v_mimopstruhovem_rybarskem_reviru_jsou_v_kvetnu_cervnu_cervenci_a_srpnu"
+  },
+  {
+    "question": "Od 1. září do 15. dubna jsou v rybářských revírech hájeni:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruh obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "pstruh obecný a siven americký",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný, siven americký a losos obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruh obecný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23686-od_1_zari_do_15_dubna_jsou_v_rybarskych_revirech_hajeni"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájený pstruh obecný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. dubna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. září do 15. dubna",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. září do 15. dubna"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23687-kdy_je_v_rybarskych_revirech_hajeny_pstruh_obecny"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájený siven americký?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. dubna",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá stanovenu dobu hájení",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. září do 15. dubna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenu dobu hájení"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23688-kdy_je_v_rybarskych_revirech_hajeny_siven_americky"
+  },
+  {
+    "question": "Od 16. března do 15. června jsou v rybářských revírech hájeni:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "bolen dravý, candát obecný, štika obecná a sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "ostroretka stěhovavá, parma obecná, parma východní, podoustev říční a úhoř říční",
+        "isCorrect": false
+      },
+      {
+        "text": "ostroretka stěhovavá, parma obecná, parma východní, podoustev říční, jeseter a vyza",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ostroretka stěhovavá, parma obecná, parma východní, podoustev říční, jeseter a vyza"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23689-od_16_brezna_do_15_cervna_jsou_v_rybarskych_revirech_hajeni"
+  },
+  {
+    "question": "Kdy je v mimopstruhových rybářských revírech hájený jelec tloušť?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá stanovenu dobu hájení",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. března do 15. června",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. března do 15. června"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23690-kdy_je_v_mimopstruhovych_rybarskych_revirech_hajeny_jelec_tloust"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájená parma obecná?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemá stanovenu dobu hájení",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. března do 15. června",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. března do 15. června"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23691-kdy_je_v_rybarskych_revirech_hajena_parma_obecna"
+  },
+  {
+    "question": "Od 1. ledna do 15. června jsou v mimopstruhových rybářských revírech hájeni:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ostroretka stěhovavá, parma obecná, parma východní, podoustev říční, jeseter, vyza, jelec jesen a jelec tloušť",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný a losos obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "bolen dravý, candát obecný, štika obecná a sumec velký",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "bolen dravý, candát obecný, štika obecná a sumec velký"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23692-od_1_ledna_do_15_cervna_jsou_v_mimopstruhovych_rybarskych_revirech_hajeni"
+  },
+  {
+    "question": "Kdy je v mimopstruhových rybářských revírech hájená štika obecná?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. prosince do 15. dubna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. prosince do 15. června",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. ledna do 15. června"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23693-kdy_je_v_mimopstruhovych_rybarskych_revirech_hajena_stika_obecna"
+  },
+  {
+    "question": "Kdy je v mimopstruhových rybářských revírech hájený candát obecný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. prosince do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. prosince do 15. dubna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. ledna do 15. června"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23694-kdy_je_v_mimopstruhovych_rybarskych_revirech_hajeny_candat_obecny"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájený lipan podhorní?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. prosince do 15. dubna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. prosince do 15. června",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. září do 15. dubna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. prosince do 15. června"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23695-kdy_je_v_rybarskych_revirech_hajeny_lipan_podhorni"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájená hlavatka obecná?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. prosince do 30. dubna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 30. září",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. září do 30. dubna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. ledna do 30. září"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23696-kdy_je_v_rybarskych_revirech_hajena_hlavatka_obecna"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájený úhoř říční?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 30. září",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá stanovenu dobu hájení",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. září do 30. listopadu",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. září do 30. listopadu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23697-kdy_je_v_rybarskych_revirech_hajeny_uhor_ricni"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájený mník jednovousý?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. prosince do 15. března",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. září do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. března",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 1. ledna do 15. března"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23698-kdy_je_v_rybarskych_revirech_hajeny_mnik_jednovousy"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájený amur bílý?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 30. září",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá stanovenu dobu hájení",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. listopadu do 31. ledna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nemá stanovenu dobu hájení"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23699-kdy_je_v_rybarskych_revirech_hajeny_amur_bily"
+  },
+  {
+    "question": "Všechny původní druhy raků jsou hájeny:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "celoročně",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. března do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "celoročně, s výjimkou raka říčního",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "celoročně"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23700-vsechny_puvodni_druhy_raku_jsou_hajeny"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájená střevle potoční?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemá stanovenu dobu hájení",
+        "isCorrect": false
+      },
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "celoročně",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "celoročně"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23701-kdy_je_v_rybarskych_revirech_hajena_strevle_potocni"
+  },
+  {
+    "question": "Kdy je v rybářských revírech hájená vranka obecná a pruhoploutvá?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. ledna do 15. června",
+        "isCorrect": false
+      },
+      {
+        "text": "celoročně",
+        "isCorrect": true
+      },
+      {
+        "text": "nemá stanovenu dobu hájení",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "celoročně"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23702-kdy_je_v_rybarskych_revirech_hajena_vranka_obecna_a_pruhoploutva"
+  },
+  {
+    "question": "Kdy je v mimopstruhových rybářských revírech povolen lov přívlačí?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. června do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. prosince",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. června do 31. prosince"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23703-kdy_je_v_mimopstruhovych_rybarskych_revirech_povolen_lov_privlaci"
+  },
+  {
+    "question": "Kdy je v mimopstruhových rybářských revírech povolen lov čeřínkováním?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 1. června do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. prosince",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. června do 31. prosince"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23704-kdy_je_v_mimopstruhovych_rybarskych_revirech_povolen_lov_cerinkovanim"
+  },
+  {
+    "question": "Kdy je v mimopstruhových rybářských revírech povolen lov na nástražní rybku?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. června do 31. prosince",
+        "isCorrect": true
+      },
+      {
+        "text": "od 1. června do 31. prosince",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. prosince",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. června do 31. prosince"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23705-kdy_je_v_mimopstruhovych_rybarskych_revirech_povolen_lov_na_nastrazni_rybku"
+  },
+  {
+    "question": "Za nástražní rybky nemohou být použity ryby:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lososovité, pokud nedosahují nejmenší lovné míry a ryby sekavcovité",
+        "isCorrect": false
+      },
+      {
+        "text": "lososovité, úhoř, chráněné druhy ryb a ryby nedosahující nejmenší lovné míry",
+        "isCorrect": true
+      },
+      {
+        "text": "nedosahující lovné míry a chráněné druhy podle zvláštních předpisů",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lososovité, úhoř, chráněné druhy ryb a ryby nedosahující nejmenší lovné míry"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23706-za_nastrazni_rybky_nemohou_byt_pouzity_ryby"
+  },
+  {
+    "question": "Smějí být používány za nástrahu ryby lososovité?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nesmějí, pokud nedosahují nejmenší stanovené délky",
+        "isCorrect": false
+      },
+      {
+        "text": "smějí",
+        "isCorrect": false
+      },
+      {
+        "text": "nesmějí",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nesmějí"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23707-smeji_byt_pouzivany_za_nastrahu_ryby_lososovite"
+  },
+  {
+    "question": "Vyskytují-li se v mimopstruhovém rybářském revíru také ryby lososovité, může si osoba provádějící lov v jednom dni přisvojit:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nejvýše 3 ks, pokud celková hmotnost denního úlovku nepřesáhne 7 kg",
+        "isCorrect": true
+      },
+      {
+        "text": "nejvýše 2 ks, pokud celková hmotnost denního úlovku nepřesáhne 7 kg",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 4 ks, pokud celková hmotnost denního úlovku nepřesáhne 7 kg",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 3 ks, pokud celková hmotnost denního úlovku nepřesáhne 7 kg"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23708-vyskytuji_li_se_v_mimopstruhovem_rybarskem_reviru_take_ryby_lososovite_muze_si_osoba_provadeji"
+  },
+  {
+    "question": "Přisvojené ryby osoba provádějící lov zapisuje nesmazatelným způsobem do povolenky k lovu, do které uvede:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "datum, druh ryby a její délku",
+        "isCorrect": false
+      },
+      {
+        "text": "datum, číslo revíru, druh ryby, její délku a hmotnost",
+        "isCorrect": true
+      },
+      {
+        "text": "datum, číslo revíru, použitou nástrahu, druh ryby, její délku a hmotnost",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "datum, číslo revíru, druh ryby, její délku a hmotnost"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23709-prisvojene_ryby_osoba_provadejici_lov_zapisuje_nesmazatelnym_zpusobem_do_povolenky_k_lovu_do_k"
+  },
+  {
+    "question": "Které přisvojené druhy ryb zapisuje osoba provádějící lov v mimopstruhovém rybářském revíru bezprostředně po jejich ulovení?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kapra, amura, štiku, candáta, bolena, sumce a lososovité ryby (mimo síhů)",
+        "isCorrect": true
+      },
+      {
+        "text": "lososovité ryby (mimo síhů), lipana a kapra",
+        "isCorrect": false
+      },
+      {
+        "text": "pouze kapra a dravé ryby",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kapra, amura, štiku, candáta, bolena, sumce a lososovité ryby (mimo síhů)"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23710-ktere_prisvojene_druhy_ryb_zapisuje_osoba_provadejici_lov_v_mimopstruhovem_rybarskem_reviru_be"
+  },
+  {
+    "question": "Které přisvojené druhy ryb zapisuje osoba provádějící lov v pstruhovém rybářském revíru bezprostředně po jejich ulovení?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kapra, štiku, candáta, bolena, sumce, lipana a lososovité ryby (mimo síhů)",
+        "isCorrect": false
+      },
+      {
+        "text": "lososovité ryby (mimo síhů) a kapra",
+        "isCorrect": true
+      },
+      {
+        "text": "všechny přisvojené ryby bez ohledu na jejich druh",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lososovité ryby (mimo síhů) a kapra"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23711-ktere_prisvojene_druhy_ryb_zapisuje_osoba_provadejici_lov_v_pstruhovem_rybarskem_reviru_bezpro"
+  },
+  {
+    "question": "Kdy musí osoba provádějící lov ryb v pstruhovém rybářském revíru zapsat přisvojeného sivena?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "bezprostředně po jeho ulovení",
+        "isCorrect": true
+      },
+      {
+        "text": "do 15 minut po jeho ulovení",
+        "isCorrect": false
+      },
+      {
+        "text": "po skončení nebo přerušení lovu před odchodem od vody",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "bezprostředně po jeho ulovení"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23712-kdy_musi_osoba_provadejici_lov_ryb_v_pstruhovem_rybarskem_reviru_zapsat_prisvojeneho_sivena"
+  },
+  {
+    "question": "Kdy musí osoba provádějící lov ryb v pstruhovém rybářském revíru zapsat přisvojeného jelce jesena?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vše bezprostředně po jeho ulovení",
+        "isCorrect": false
+      },
+      {
+        "text": "hodinu po ukončení denního lovu ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "druhy ryby bezprostředně po jeho ulovení, počet kusů a hmotnost po skončení nebo přerušení lovu před odchodem od vody",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "druhy ryby bezprostředně po jeho ulovení, počet kusů a hmotnost po skončení nebo přerušení lovu před odchodem od vody"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23713-kdy_musi_osoba_provadejici_lov_ryb_v_pstruhovem_rybarskem_reviru_zapsat_prisvojeneho_jelce_jes"
+  },
+  {
+    "question": "Za rybu lososovitou se pro účely vyhlášky č. 197/2004 Sb., v platném znění považuje i",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jelec jesen",
+        "isCorrect": false
+      },
+      {
+        "text": "podoustev říční",
+        "isCorrect": false
+      },
+      {
+        "text": "lipan podhorní",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lipan podhorní"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23714-za_rybu_lososovitou_se_pro_ucely_vyhlasky_c_1972004_sb_v_platnem_zneni_povazuje_i"
+  },
+  {
+    "question": "Kdo odvolává a zrušuje rybářskou stráž?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "uživatel rybářského revíru",
+        "isCorrect": false
+      },
+      {
+        "text": "obecní úřad obce s rozšířenou působností, příslušný podle místa trvalého bydliště navrhované osoby",
+        "isCorrect": true
+      },
+      {
+        "text": "kraj v přenesené působnosti, příslušný podle místa trvalého bydliště člena rybářské stráže",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "obecní úřad obce s rozšířenou působností, příslušný podle místa trvalého bydliště navrhované osoby"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23715-kdo_odvolava_a_zrusuje_rybarskou_straz"
+  },
+  {
+    "question": "Rybářská stráž je oprávněna požadovat od osoby lovící vodní organismy:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prokázání její totožnosti, předložení platného rybářského lístku a platné povolenky k lovu a předložení souhlasu uživatele rybářského revíru nebo rybníkáře",
+        "isCorrect": true
+      },
+      {
+        "text": "při podezření, že přepravuje v autě neoprávněně nabyté ryby doklad o jejich původu",
+        "isCorrect": false
+      },
+      {
+        "text": "prokázání totožnosti a v případě podezření na neoprávněně vydaný rybářský lístek a povolenku tyto dokumenty proti potvrzence odebrat a do 5 pracovních dní je předat policii",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prokázání její totožnosti, předložení platného rybářského lístku a platné povolenky k lovu a předložení souhlasu uživatele rybářského revíru nebo rybníkáře"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23716-rybarska_straz_je_opravnena_pozadovat_od_osoby_lovici_vodni_organismy"
+  },
+  {
+    "question": "Může rybářská stráž zadržet povolenku k lovu ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nemůže",
+        "isCorrect": false
+      },
+      {
+        "text": "může, jde-li o osobu, která se dopustila porušení povinnosti stanovené zákonem o rybářství nebo prováděcí vyhláškou k zákonu o rybářství nebo bližšími podmínkami výkonu rybářského práva",
+        "isCorrect": true
+      },
+      {
+        "text": "může, jde-li o osobu, která se dopustila porušení povinnosti stanovené zákonem o rybářství nebo prováděcí vyhláškou k zákonu o rybářství nebo Bližšími podmínkami výkonu rybářského práva, ale pouze v přítomnosti Policie ČR",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "může, jde-li o osobu, která se dopustila porušení povinnosti stanovené zákonem o rybářství nebo prováděcí vyhláškou k zákonu o rybářství nebo bližšími podmínkami výkonu rybářského práva"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23717-muze_rybarska_straz_zadrzet_povolenku_k_lovu_ryb"
+  },
+  {
+    "question": "Rybářskou stráž ustanovuje do funkce:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "obecní úřad obce s rozšířenou působností, v jehož obvodu má navrhovatel sídlo",
+        "isCorrect": false
+      },
+      {
+        "text": "obecní úřad obce s rozšířenou působností, příslušný podle místa trvalého bydliště navrhované osoby",
+        "isCorrect": true
+      },
+      {
+        "text": "krajský úřad podle místa, kde má sídlo uživatel revíru",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "obecní úřad obce s rozšířenou působností, příslušný podle místa trvalého bydliště navrhované osoby"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23718-rybarskou_straz_ustanovuje_do_funkce"
+  },
+  {
+    "question": "Obvod působnosti rybářské stráže je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "není přesně vymezen",
+        "isCorrect": false
+      },
+      {
+        "text": "stanoven v průkazu rybářské stráže",
+        "isCorrect": true
+      },
+      {
+        "text": "ve všech rybářských revírech v republice",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "stanoven v průkazu rybářské stráže"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23719-obvod_pusobnosti_rybarske_straze_je"
+  },
+  {
+    "question": "Rybářskou stráží může být ustanovena osoba, která:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "je starší 18 let",
+        "isCorrect": false
+      },
+      {
+        "text": "je starší 21 let",
+        "isCorrect": true
+      },
+      {
+        "text": "je starší 25 let",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "je starší 21 let"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23720-rybarskou_strazi_muze_byt_ustanovena_osoba_ktera"
+  },
+  {
+    "question": "Rybářskou stráží může být ustanovena osoba:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "bez ohledu na státní příslušnost",
+        "isCorrect": true
+      },
+      {
+        "text": "která je občanem některého ze států Evropské unie",
+        "isCorrect": false
+      },
+      {
+        "text": "která je občanem České republiky nebo zde má povolený dlouhodobý pobyt",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "bez ohledu na státní příslušnost"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23721-rybarskou_strazi_muze_byt_ustanovena_osoba"
+  },
+  {
+    "question": "Rybářskou stráží může být ustanovena osoba:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "která je bezúhonná",
+        "isCorrect": true
+      },
+      {
+        "text": "proti které bylo vedeno přestupkové řízení",
+        "isCorrect": false
+      },
+      {
+        "text": "která byla pravomocně odsouzena pro trestný čin majetkového charakteru",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "která je bezúhonná"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23722-rybarskou_strazi_muze_byt_ustanovena_osoba"
+  },
+  {
+    "question": "Rybářskou stráží může být ustanovena osoba, která:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "má způsobilost k právním úkonům",
+        "isCorrect": true
+      },
+      {
+        "text": "nemá způsobilost k právním úkonům, avšak má ustanoveného opatrovníka",
+        "isCorrect": false
+      },
+      {
+        "text": "je omezena ve způsobilosti k právním úkonům",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "má způsobilost k právním úkonům"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23723-rybarskou_strazi_muze_byt_ustanovena_osoba_ktera"
+  },
+  {
+    "question": "Podmínkou pro ustanovení rybářské stráže je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prokázání znalostí práv a povinností člena rybářského svazu",
+        "isCorrect": false
+      },
+      {
+        "text": "výkon funkce pomocníka rybářské stráže nejméně dva roky",
+        "isCorrect": false
+      },
+      {
+        "text": "prokázání znalostí práv a povinností rybářské stráže",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prokázání znalostí práv a povinností rybářské stráže"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23724-podminkou_pro_ustanoveni_rybarske_straze_je"
+  },
+  {
+    "question": "Rybářská stráž je oprávněna:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "provést u osob, které loví ryby v rybnících nebo rybářských revírech, v případech, že zjistí pochybení z jejich strany přezkoušení ze znalosti pravidel lovu ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "kontrolovat, zda osoby, které loví ryby, nebo se pohybují v těsné blízkosti rybářských revírů, dodržují i dopravní předpisy a předpisy k ochraně přírody",
+        "isCorrect": false
+      },
+      {
+        "text": "kontrolovat, zda osoby, které loví ryby v rybnících nebo rybářských revírech jsou k tomu oprávněny a zda provádějí lov řádně a způsobem, který umožňuje zákon",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kontrolovat, zda osoby, které loví ryby v rybnících nebo rybářských revírech jsou k tomu oprávněny a zda provádějí lov řádně a způsobem, který umožňuje zákon"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23725-rybarska_straz_je_opravnena"
+  },
+  {
+    "question": "Rybářská stráž je oprávněna:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kontrolovat osobám lovícím ryby nebo vodní organismy obsah rybářské loďky, rybářské náčiní, a zařízení k uchování ryb, včetně úlovků",
+        "isCorrect": true
+      },
+      {
+        "text": "zadržovat osoby přistižené při neoprávněném lovu ryb a zjišťovat jejich totožnost pouze v případě přítomnosti příslušníka Policie ČR",
+        "isCorrect": false
+      },
+      {
+        "text": "zadržovat osoby, které se pohybují v těsné blízkosti rybářských revírů a v případě podezření z neoprávněného lovu ryb zjišťovat jejich totožnost",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kontrolovat osobám lovícím ryby nebo vodní organismy obsah rybářské loďky, rybářské náčiní, a zařízení k uchování ryb, včetně úlovků"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23726-rybarska_straz_je_opravnena"
+  },
+  {
+    "question": "Rybářská stráž je oprávněna kontrolovat:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "užívání jezů, stavidel, zdymadel, výpustí a jiných zařízení z hlediska dodržování právních předpisů a opatření na ochranu výkonu rybářského práva",
+        "isCorrect": true
+      },
+      {
+        "text": "zda provozní a manipulační řády rybníků a dalších vodohospodářských děl nejsou porušovány a nedochází ke znečišťování vody",
+        "isCorrect": false
+      },
+      {
+        "text": "zda není narušován provoz malých vodních elektráren",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "užívání jezů, stavidel, zdymadel, výpustí a jiných zařízení z hlediska dodržování právních předpisů a opatření na ochranu výkonu rybářského práva"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23727-rybarska_straz_je_opravnena_kontrolovat"
+  },
+  {
+    "question": "Rybářská stráž je oprávněna požadovat od lovící osoby:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prokázání její totožnosti, předložení platného rybářského lístku a platné povolenky k lovu",
+        "isCorrect": true
+      },
+      {
+        "text": "při podezření, že přepravuje v autě neoprávněně nabyté ryby doklad o jejich původu",
+        "isCorrect": false
+      },
+      {
+        "text": "prokázání totožnosti a v případě podezření na neoprávněně vydaný rybářský lístek a povolenku tyto dokumenty proti potvrzence odebrat a do 5 pracovních dní je předat policii",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prokázání její totožnosti, předložení platného rybářského lístku a platné povolenky k lovu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23728-rybarska_straz_je_opravnena_pozadovat_od_lovici_osoby"
+  },
+  {
+    "question": "Kdy je rybářská stráž oprávněna zadržet rybářské náčiní?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "v případě, že jím byl spáchán trestný čin a hodnota zadrženého náčiní nepřesahuje 3000 Kč",
+        "isCorrect": false
+      },
+      {
+        "text": "v případě, že je osoba důvodně podezřelá, že jím spáchala trestný čin nebo přestupek",
+        "isCorrect": true
+      },
+      {
+        "text": "v případě zjištěného přestupku, pokud hodnota zadrženého náčiní nepřesahuje 2000 Kč",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "v případě, že je osoba důvodně podezřelá, že jím spáchala trestný čin nebo přestupek"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23729-kdy_je_rybarska_straz_opravnena_zadrzet_rybarske_nacini"
+  },
+  {
+    "question": "Kdy je rybářská stráž oprávněna zadržet úlovky?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "v případě, že osoba odmítne umožnit kontrolu úlovků",
+        "isCorrect": false
+      },
+      {
+        "text": "v případě nezapsání ulovené ryby do přehledu o úlovcích",
+        "isCorrect": false
+      },
+      {
+        "text": "v případě, že byl jejich ponecháním spáchán trestný čin nebo přestupek",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "v případě, že byl jejich ponecháním spáchán trestný čin nebo přestupek"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23730-kdy_je_rybarska_straz_opravnena_zadrzet_ulovky"
+  },
+  {
+    "question": "Rybářská stráž je při výkonu své funkce povinna:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prokázat se průkazem rybářské stráže a průkazem totožnosti",
+        "isCorrect": false
+      },
+      {
+        "text": "nosit služební odznak a služební stejnokroj",
+        "isCorrect": false
+      },
+      {
+        "text": "prokazovat se průkazem rybářské stráže a nosit služební odznak na viditelném místě",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prokazovat se průkazem rybářské stráže a nosit služební odznak na viditelném místě"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23731-rybarska_straz_je_pri_vykonu_sve_funkce_povinna"
+  },
+  {
+    "question": "Rybářská stráž je při své činnosti povinna:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kontrolovat provozně manipulační řády rybníků a dohlížet na dodržování limitů vypouštění odpadních vod do toků",
+        "isCorrect": false
+      },
+      {
+        "text": "kontrolovat obecné užívání vody a dohlížet na to, zda se rybníků a vodních toků užívá v souladu se zákonem o vodách a o rybářství",
+        "isCorrect": false
+      },
+      {
+        "text": "kontrolovat a dohlížet na dodržování povinností, vyplývajících ze zákona o rybářství a zjišťovat zdroje a příčiny znečištění vody v rybářském revíru",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kontrolovat a dohlížet na dodržování povinností, vyplývajících ze zákona o rybářství a zjišťovat zdroje a příčiny znečištění vody v rybářském revíru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23732-rybarska_straz_je_pri_sve_cinnosti_povinna"
+  },
+  {
+    "question": "Rybářská stráž je při své činnosti povinna:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "oznamovat neprodleně zjištěné závady, nedostatky a škody podle jejich povahy uživateli revíru a příslušnému úřadu obce s rozšířenou působností, který ji ustanovil, popřípadě orgánu příslušnému k ochraně přírody a krajiny, nebo Policii ČR",
+        "isCorrect": true
+      },
+      {
+        "text": "oznamovat do 30 dnů zjištěné závady, nedostatky a škody podle jejich povahy buď uživateli revíru nebo orgánu, který ji ustanovil, popřípadě orgánům Policie ČR nebo jiným orgánům státní správy",
+        "isCorrect": false
+      },
+      {
+        "text": "oznamovat do 15 pracovních dnů zjištěné závady, nedostatky a škody podle jejich povahy orgánu, který ji ustanovil",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "oznamovat neprodleně zjištěné závady, nedostatky a škody podle jejich povahy uživateli revíru a příslušnému úřadu obce s rozšířenou působností, který ji ustanovil, popřípadě orgánu příslušnému k ochraně přírody a krajiny, nebo Policii ČR"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23733-rybarska_straz_je_pri_sve_cinnosti_povinna"
+  },
+  {
+    "question": "Lov ryb v rybářských revírech pomocí harpuny je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "povolen pouze na základě souhlasu uživatele rybářského revíru",
+        "isCorrect": false
+      },
+      {
+        "text": "zakázán",
+        "isCorrect": true
+      },
+      {
+        "text": "povolen pouze potápěči, který je držitelem platného rybářského lístku a povolenky k rybolovu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "zakázán"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23734-lov_ryb_v_rybarskych_revirech_pomoci_harpuny_je"
+  },
+  {
+    "question": "Pokutu v blokovém řízení lze uložit:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jde-li o přestupek menšího rozsahu",
+        "isCorrect": false
+      },
+      {
+        "text": "jestliže je přestupek spolehlivě zjištěn, nestačí domluva a obviněný z přestupku je ochoten pokutu zaplatit",
+        "isCorrect": true
+      },
+      {
+        "text": "má-li rybářská stráž za to, že pachatel přestupku byl spolehlivě zjištěn",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jestliže je přestupek spolehlivě zjištěn, nestačí domluva a obviněný z přestupku je ochoten pokutu zaplatit"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23735-pokutu_v_blokovem_rizeni_lze_ulozit"
+  },
+  {
+    "question": "Proti uložení pokuty příkazem na místě se:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lze odvolat do 8 dnů od uložení",
+        "isCorrect": false
+      },
+      {
+        "text": "nelze odvolat",
+        "isCorrect": true
+      },
+      {
+        "text": "lze odvolat do 15 dnů od uložení",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nelze odvolat"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23736-proti_ulozeni_pokuty_prikazem_na_miste_se"
+  },
+  {
+    "question": "Přestupku na úseku rybářství podle zákona o přestupcích se dopustí osoba, která:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "přechovává neoprávněně ulovené ryby",
+        "isCorrect": false
+      },
+      {
+        "text": "způsobí, byť i z nedbalosti, škodu na rybochovném zařízení, rybářském revíru či rybniční soustavě",
+        "isCorrect": false
+      },
+      {
+        "text": "neoprávněně chytá ryby",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "neoprávněně chytá ryby"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23737-prestupku_na_useku_rybarstvi_podle_zakona_o_prestupcich_se_dopusti_osoba_ktera"
+  },
+  {
+    "question": "Za přestupek podle zákona o rybářství se považuje:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ponechání si značkou opatřené ryby v případě, že má lovnou míru",
+        "isCorrect": false
+      },
+      {
+        "text": "lov ryb v rozporu s podmínkami výkonu rybářského práva stanovenými v povolence k lovu",
+        "isCorrect": true
+      },
+      {
+        "text": "činnost, která je v rozporu se zájmy uživatele revíru, přestože není uvedena v povolence k lovu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov ryb v rozporu s podmínkami výkonu rybářského práva stanovenými v povolence k lovu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23738-za_prestupek_podle_zakona_o_rybarstvi_se_povazuje"
+  },
+  {
+    "question": "Útoku na úřední osobu se podle trestního zákona dopustí ten, kdo:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "podá stížnost příslušnému orgánu na chování úřední osoby, přičemž nezáleží na tom, zda v ní uvede pravdivé nebo nepravdivé údaje",
+        "isCorrect": false
+      },
+      {
+        "text": "vyhrožuje usmrcením, ublížením na zdraví nebo způsobením škody velkého rozsahu v úmyslu působit na výkon pravomoci rybářské stráže nebo pro tento výkon",
+        "isCorrect": true
+      },
+      {
+        "text": "podá stížnost příslušnému orgánu na chování úřední osoby, přičemž jsou v ní uvedeny nepravdivé údaje a stížnost bude vyhodnocena jako neoprávněná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vyhrožuje usmrcením, ublížením na zdraví nebo způsobením škody velkého rozsahu v úmyslu působit na výkon pravomoci rybářské stráže nebo pro tento výkon"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23739-utoku_na_uredni_osobu_se_podle_trestniho_zakona_dopusti_ten_kdo"
+  },
+  {
+    "question": "Může být pouhé nesplnění povinnosti vyplývající z pravomoci rybářské stráže trestným činem?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano, pokud tak rybářská stráž činí v úmyslu způsobit jinému škodu nebo opatřit sobě nebo jinému neoprávněný prospěch",
+        "isCorrect": true
+      },
+      {
+        "text": "ano, bez dalších podmínek",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano, pokud tak rybářská stráž činí v úmyslu způsobit jinému škodu nebo opatřit sobě nebo jinému neoprávněný prospěch"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23740-muze_byt_pouhe_nesplneni_povinnosti_vyplyvajici_z_pravomoci_rybarske_straze_trestnym_cinem"
+  },
+  {
+    "question": "Co je Český rybářský svaz?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "zapsaný spolek",
+        "isCorrect": true
+      },
+      {
+        "text": "státní instituce",
+        "isCorrect": false
+      },
+      {
+        "text": "politická organizace",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "zapsaný spolek"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23741-co_je_cesky_rybarsky_svaz"
+  },
+  {
+    "question": "Co je dokladem členství v ČRS?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "platný členský průkaz",
+        "isCorrect": true
+      },
+      {
+        "text": "přihláška za člena a splněné povinnosti",
+        "isCorrect": false
+      },
+      {
+        "text": "přihláška za člena, zaplacení zápisného",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "platný členský průkaz"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23742-co_je_dokladem_clenstvi_v_crs"
+  },
+  {
+    "question": "Jaká je struktura ČRS?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "místní organizace, územní svaz, Republiková rada",
+        "isCorrect": true
+      },
+      {
+        "text": "místní skupiny, místní organizace, vyšší svazové orgány",
+        "isCorrect": false
+      },
+      {
+        "text": "místní organizace, územní rada, Republikový sněm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "místní organizace, územní svaz, Republiková rada"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23743-jaka_je_struktura_crs"
+  },
+  {
+    "question": "Územní svazy:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sdružují výbory místních skupin a organizací",
+        "isCorrect": false
+      },
+      {
+        "text": "sdružují kluby a ostatní rybáře",
+        "isCorrect": false
+      },
+      {
+        "text": "sdružují místní organizace v rozsahu územní působnosti",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "sdružují místní organizace v rozsahu územní působnosti"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23744-uzemni_svazy"
+  },
+  {
+    "question": "Jaká je rozhodující věková hranice pro přijetí dítěte za člena ČRS?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 10 let",
+        "isCorrect": false
+      },
+      {
+        "text": "od 6 let",
+        "isCorrect": false
+      },
+      {
+        "text": "od počátku školní docházky",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od počátku školní docházky"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23745-jaka_je_rozhodujici_vekova_hranice_pro_prijeti_ditete_za_clena_crs"
+  },
+  {
+    "question": "Jaká práva a povinnosti mají děti a mládež?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "žádné",
+        "isCorrect": false
+      },
+      {
+        "text": "úměrné jejich věku",
+        "isCorrect": false
+      },
+      {
+        "text": "jako ostatní členové, kromě práva účastnit se členské schůze, hlasovat, volit nebo být volen do orgánů ČRS",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jako ostatní členové, kromě práva účastnit se členské schůze, hlasovat, volit nebo být volen do orgánů ČRS"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23746-jaka_prava_a_povinnosti_maji_deti_a_mladez"
+  },
+  {
+    "question": "Jaké je mimo jiné poslání Českého rybářského svazu?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "chovat ryby v ekologických rybničních chovech a zarybňovat rybářské revíry v množství daném výsledkem produkce ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "chovat, chránit a lovit ryby, chovat a lovit vodní organismy, ochraňovat jejich život a životní prostředí",
+        "isCorrect": true
+      },
+      {
+        "text": "zajistit maximální hospodářskou těžbu lovem ryb v rybářských revírech",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "chovat, chránit a lovit ryby, chovat a lovit vodní organismy, ochraňovat jejich život a životní prostředí"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23747-jake_je_mimo_jine_poslani_ceskeho_rybarskeho_svazu"
+  },
+  {
+    "question": "Člen ČRS může být organizován:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jen v jedné MO, zpravidla nejblíže místu trvalého bydliště",
+        "isCorrect": true
+      },
+      {
+        "text": "v místních organizacích podle pobytů v průběhu roku (trvalé bydliště, chata, dovolená)",
+        "isCorrect": false
+      },
+      {
+        "text": "maximálně ve dvou MO podle vlastního výběru",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jen v jedné MO, zpravidla nejblíže místu trvalého bydliště"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23748-clen_crs_muze_byt_organizovan"
+  },
+  {
+    "question": "Zúčastňovat se členské schůze, hlasovat tam a volit nebo být volen do všech orgánů ČRS",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "má právo jen člen ČRS, který byl alespoň 1 rok ve funkci orgánu ČRS",
+        "isCorrect": false
+      },
+      {
+        "text": "má právo člen ČRS po pěti letech členství",
+        "isCorrect": false
+      },
+      {
+        "text": "má právo každý řádný člen ČRS vyjma dětí a mládeže",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "má právo každý řádný člen ČRS vyjma dětí a mládeže"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23749-zucastnovat_se_clenske_schuze_hlasovat_tam_a_volit_nebo_byt_volen_do_vsech_organu_crs"
+  },
+  {
+    "question": "Člen ČRS má povinnost:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "dodržovat obecně závazné právní předpisy o rybářství a ochraně přírody, Stanovy ČRS, bližší podmínky výkonu rybářského práva a rozhodnutí orgánů ČRS nejsou pro člena ČRS závazné a plní je či neplní podle vlastního posouzení věci",
+        "isCorrect": false
+      },
+      {
+        "text": "dodržovat Stanovy ČRS, obecně závazné právní předpisy o rybářství a ochraně přírody, bližší podmínky výkonu rybářského práva a plnit rozhodnutí orgánů ČRS",
+        "isCorrect": true
+      },
+      {
+        "text": "dodržovat Stanovy ČRS, obecně závazné právní předpisy o rybářství a ochraně přírody, bližší podmínky výkonu rybářského práva a rozhodnutí orgánů ČRS nejsou pro člena ČRS závazné a plní je či neplní podle vlastního posouzení věci",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "dodržovat Stanovy ČRS, obecně závazné právní předpisy o rybářství a ochraně přírody, bližší podmínky výkonu rybářského práva a plnit rozhodnutí orgánů ČRS"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23750-clen_crs_ma_povinnost"
+  },
+  {
+    "question": "Pravidelný peněžní příspěvek (členskou známku) je člen povinen zaplatit do:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "do konce ledna příslušného roku",
+        "isCorrect": false
+      },
+      {
+        "text": "do 15. ledna příslušného roku",
+        "isCorrect": false
+      },
+      {
+        "text": "do konce dubna příslušného roku",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "do konce dubna příslušného roku"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23751-pravidelny_penezni_prispevek_clenskou_znamku_je_clen_povinen_zaplatit_do"
+  },
+  {
+    "question": "Počet hodin pracovního ročního příspěvku (brigádnických hodin) a výši jeho finanční náhrady:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "navrhuje výbor MO a schvaluje členská schůze MO",
+        "isCorrect": true
+      },
+      {
+        "text": "navrhuje členská schůze MO a schvaluje výbor MO",
+        "isCorrect": false
+      },
+      {
+        "text": "navrhuje Republiková rada a schvaluje Republikový sněm",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "navrhuje výbor MO a schvaluje členská schůze MO"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23752-pocet_hodin_pracovniho_rocniho_prispevku_brigadnickych_hodin_a_vysi_jeho_financni_nahrady"
+  },
+  {
+    "question": "Udělování svazových vyznamenaní se řídí:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vyhláškou č. 197/2004 Sb., v platném znění",
+        "isCorrect": false
+      },
+      {
+        "text": "směrnicí Ministerstva zemědělství",
+        "isCorrect": false
+      },
+      {
+        "text": "vnitrosvazovými předpisy",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vnitrosvazovými předpisy"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23753-udelovani_svazovych_vyznamenani_se_ridi"
+  },
+  {
+    "question": "Ztrátu nebo znehodnocení členské legitimace je člen Svazu povinen neprodleně hlásit:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "výboru MO, jíž je členem",
+        "isCorrect": true
+      },
+      {
+        "text": "Ministerstvu zemědělství",
+        "isCorrect": false
+      },
+      {
+        "text": "Republikové radě",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "výboru MO, jíž je členem"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23754-ztratu_nebo_znehodnoceni_clenske_legitimace_je_clen_svazu_povinen_neprodlene_hlasit"
+  },
+  {
+    "question": "Návrh na zahájení kárného řízení se podává:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "u té MO, kde byl spáchán přestupek",
+        "isCorrect": false
+      },
+      {
+        "text": "ÚS ČRS",
+        "isCorrect": false
+      },
+      {
+        "text": "u té MO, jíž je člen Svazu",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "u té MO, jíž je člen Svazu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23755-navrh_na_zahajeni_karneho_rizeni_se_podava"
+  }
+]

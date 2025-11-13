@@ -1,0 +1,623 @@
+[
+  {
+    "question": "Lov na položenou je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy není aktivně ovliňován",
+        "isCorrect": true
+      },
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy je aktivně ovlivňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov na jednoháčkovou mušku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy není aktivně ovliňován"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23500-lov_na_polozenou_je"
+  },
+  {
+    "question": "Lov přívlačí je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov při kterém je nástraha aktivně vedena vodním prostředím",
+        "isCorrect": true
+      },
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy není aktivně ovliňován",
+        "isCorrect": false
+      },
+      {
+        "text": "lov muškařením",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém je nástraha aktivně vedena vodním prostředím"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23501-lov_privlaci_je"
+  },
+  {
+    "question": "Lov čeřínkováním je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov vodorovnou síti o maximální ploše 1 m2",
+        "isCorrect": true
+      },
+      {
+        "text": "lov muškařením",
+        "isCorrect": false
+      },
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice s nástrahou, která může být v pohybu nebo i v klidu nastavena v libovolné výšce vodního sloupce",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov vodorovnou síti o maximální ploše 1 m2"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23502-lov_cerinkovanim_je"
+  },
+  {
+    "question": "Co je to lov na plavanou?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy může být aktivně ovliňován",
+        "isCorrect": true
+      },
+      {
+        "text": "lov nástražných rybek vodorovnou síti o maximální ploše 1 m2",
+        "isCorrect": false
+      },
+      {
+        "text": "lov ryb z plavidla",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lov při kterém se použijí nejvýše 2 udice a pohyb nástrahy může být aktivně ovliňován"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23503-co_je_to_lov_na_plavanou"
+  },
+  {
+    "question": "Mezi povolené technické prostředky k lovu nepatří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vybušniny",
+        "isCorrect": true
+      },
+      {
+        "text": "echolot",
+        "isCorrect": false
+      },
+      {
+        "text": "čeřínek",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vybušniny"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23504-mezi_povolene_technicke_prostredky_k_lovu_nepatri"
+  },
+  {
+    "question": "Mezi povolené technické prostředky k lovu patří:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "čeřínek",
+        "isCorrect": true
+      },
+      {
+        "text": "výbušniny",
+        "isCorrect": false
+      },
+      {
+        "text": "harpuna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "čeřínek"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23505-mezi_povolene_technicke_prostredky_k_lovu_patri"
+  },
+  {
+    "question": "Co se rozumí pod pojmem hlubinná přívlač?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lov na moři",
+        "isCorrect": false
+      },
+      {
+        "text": "tažení nástrahy za pohybujícím se plavidlem",
+        "isCorrect": true
+      },
+      {
+        "text": "lov udicí ze břehu při kterém je nástraha aktivně vedena vodním prostředím",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tažení nástrahy za pohybujícím se plavidlem"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23506-co_se_rozumi_pod_pojmem_hlubinna_privlac"
+  },
+  {
+    "question": "Jak se měří délka ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od vrcholu rypce po konec nejdelších paprsků ocasní ploutve",
+        "isCorrect": true
+      },
+      {
+        "text": "od hlavy k vykrojení ocasní ploutve",
+        "isCorrect": false
+      },
+      {
+        "text": "od žaberního oblouku k nejzazšímu konci ocasní ploutve",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od vrcholu rypce po konec nejdelších paprsků ocasní ploutve"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23507-jak_se_meri_delka_ryb"
+  },
+  {
+    "question": "V jaké minimální vzdálenosti od sebe musí být rybáři při lovu na položenou?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "5 m",
+        "isCorrect": false
+      },
+      {
+        "text": "8 m",
+        "isCorrect": false
+      },
+      {
+        "text": "3 m",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "3 m"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23508-v_jake_minimalni_vzdalenosti_od_sebe_musi_byt_rybari_pri_lovu_na_polozenou"
+  },
+  {
+    "question": "K lovu na plavanou nebo položenou v pstruhových rybářských revírech lze použít výhradně nástrahy:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "umělé nebo rostlinného původu",
+        "isCorrect": false
+      },
+      {
+        "text": "rostlinného původu",
+        "isCorrect": true
+      },
+      {
+        "text": "rostlinného nebo živočišného původu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "rostlinného původu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23509-k_lovu_na_plavanou_nebo_polozenou_v_pstruhovych_rybarskych_revirech_lze_pouzit_vyhradne_nastra"
+  },
+  {
+    "question": "Při lovu přívlačí nebo muškařením",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "smí lovící použít 1 udici, kterou musí držet v ruce a další smí mít nahozenou",
+        "isCorrect": false
+      },
+      {
+        "text": "smí lovící použít vždy jen 1 udici, která je při lovu držena v ruce; jiná udice není nastražena",
+        "isCorrect": true
+      },
+      {
+        "text": "smí lovící použít 1 udici a smí zároveň také čeřínkovat",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "smí lovící použít vždy jen 1 udici, která je při lovu držena v ruce; jiná udice není nastražena"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23510-pri_lovu_privlaci_nebo_muskarenim"
+  },
+  {
+    "question": "Musí mít osoba provádějící lov u sebe vyprošťovač háčků?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "ne",
+        "isCorrect": false
+      },
+      {
+        "text": "pouze na údolních nádržích",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23511-musi_mit_osoba_provadejici_lov_u_sebe_vyprostovac_hacku"
+  },
+  {
+    "question": "Co učiníš s jelcem tlouštěm, který byl uloven na pstruhovém revíru a má háček zaseknutý hluboko v jícnu?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pokud má zákonnou míru, ponechám si jej",
+        "isCorrect": false
+      },
+      {
+        "text": "musím si ho vzít",
+        "isCorrect": true
+      },
+      {
+        "text": "ustřihnu vlasec a vrátím jej zpět do vody",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "musím si ho vzít"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23512-co_ucinis_s_jelcem_tloustem_ktery_byl_uloven_na_pstruhovem_reviru_a_ma_hacek_zaseknuty_hluboko"
+  },
+  {
+    "question": "Co je to návnada?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "přirozená potrava, kterou dopravujeme do vody a lákáme jí ryby k místu, kde lovíme",
+        "isCorrect": true
+      },
+      {
+        "text": "přirozená potrava nebo její napodobenina, opatřená jedním nebo více háčky, určená k lovu ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "přirozená potrava, kterou si ryba sama v revíru uloví",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "přirozená potrava, kterou dopravujeme do vody a lákáme jí ryby k místu, kde lovíme"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23513-co_je_to_navnada"
+  },
+  {
+    "question": "Co je to nástraha?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "přirozená potrava, kterou dopravujeme do vody a lákáme jí ryby k místu, kde lovíme",
+        "isCorrect": false
+      },
+      {
+        "text": "přirozená potrava, kterou si ryba sama v revíru uloví",
+        "isCorrect": false
+      },
+      {
+        "text": "přirozená potrava nebo její napodobenina, opatřená jedním nebo více háčky, určená k lovu ryb",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "přirozená potrava nebo její napodobenina, opatřená jedním nebo více háčky, určená k lovu ryb"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23514-co_je_to_nastraha"
+  },
+  {
+    "question": "Kolik jednoduchých háčků může mít rybář na jedné udici při lovu ryb na položenou na těsto?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": true
+      },
+      {
+        "text": "neomezeně",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "2"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23515-kolik_jednoduchych_hacku_muze_mit_rybar_na_jedne_udici_pri_lovu_ryb_na_polozenou_na_testo"
+  },
+  {
+    "question": "Jakou maximální velikost může mít čeřínek?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "150 x 100 cm",
+        "isCorrect": false
+      },
+      {
+        "text": "neomezeně velký",
+        "isCorrect": false
+      },
+      {
+        "text": "100 x 100 cm",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "100 x 100 cm"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23516-jakou_maximalni_velikost_muze_mit_cerinek"
+  },
+  {
+    "question": "Co musí mít u sebe osoba provádějící lov ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "stojan na udice",
+        "isCorrect": false
+      },
+      {
+        "text": "rybářskou loďku a přístřešek",
+        "isCorrect": false
+      },
+      {
+        "text": "vyprošťovač háčků a míru pro zjištění délky ryb",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vyprošťovač háčků a míru pro zjištění délky ryb"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23517-co_musi_mit_u_sebe_osoba_provadejici_lov_ryb"
+  },
+  {
+    "question": "Osoba provádějící lov je při lovu na položenou nebo při lovu na plavanou oprávněna použít v rybářských revírech mimopstruhových:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nejvýše 2 udice, u každé z nich nejvýše 3 návazce s jednoduchými háčky nebo 1 návazec s dvojháčkem nebo trojháčkem",
+        "isCorrect": false
+      },
+      {
+        "text": "nejvýše 2 udice, u každé z nich nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvojháčkem nebo trojháčkem",
+        "isCorrect": true
+      },
+      {
+        "text": "nejvýše 2 udice, u každé z nich nejvýše 2 návazce s jednoduchými háčky, dvojháčky nebo trojháčky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nejvýše 2 udice, u každé z nich nejvýše 2 návazce s jednoduchými háčky nebo 1 návazec s dvojháčkem nebo trojháčkem"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23518-osoba_provadejici_lov_je_pri_lovu_na_polozenou_nebo_pri_lovu_na_plavanou_opravnena_pouzit_v_ry"
+  },
+  {
+    "question": "Při lovu přívlačí v rybářských revírech pstruhových je povoleno do 31. 8. používat umělé nástrahy opatřené nejvýše:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jedním jednoháčkem, dvojháčkem nebo trojháčkem",
+        "isCorrect": true
+      },
+      {
+        "text": "dvěma jednoháčky, dvojháčky nebo trojháčky",
+        "isCorrect": false
+      },
+      {
+        "text": "třemi jednoháčky, dvojháčky nebo trojháčky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jedním jednoháčkem, dvojháčkem nebo trojháčkem"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23519-pri_lovu_privlaci_v_rybarskych_revirech_pstruhovych_je_povoleno_do_31_8_pouzivat_umele_nastrah"
+  },
+  {
+    "question": "Vyhrazování míst k lovu ryb je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "zakázáno",
+        "isCorrect": true
+      },
+      {
+        "text": "povoleno, ale pouze se souhlasem uživatele revíru",
+        "isCorrect": false
+      },
+      {
+        "text": "zakázáno u revírů o výměře do 2 ha",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "zakázáno"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23520-vyhrazovani_mist_k_lovu_ryb_je"
+  },
+  {
+    "question": "Při lovu na plavanou nebo položenou v rybářských revírech pstruhových smí lovící používat nejvýše:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "2 udice, u každé z nich nejvýše dva návazce s jednoduchými háčky, dvojháčky nebo trojháčky",
+        "isCorrect": false
+      },
+      {
+        "text": "2 udice, u každé z nich nejvýše jeden návazec s jednoduchým háčkem",
+        "isCorrect": false
+      },
+      {
+        "text": "2 udice, u každé z nich nejvýše dva návazce s jednoduchými háčky",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "2 udice, u každé z nich nejvýše dva návazce s jednoduchými háčky"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23521-pri_lovu_na_plavanou_nebo_polozenou_v_rybarskych_revirech_pstruhovych_smi_lovici_pouzivat_nejv"
+  },
+  {
+    "question": "Při lovu muškařením v rybářských revírech pstruhových smí být použita jen jedna udice s nejvýše:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jedním návazcem a jedním jednoháčkem",
+        "isCorrect": false
+      },
+      {
+        "text": "třemi návazci s tím, že na každém návazci lze použít jen jeden jednoháček",
+        "isCorrect": true
+      },
+      {
+        "text": "třemi návazci s tím, že na každém návazci lze použit jen jeden jednoháček nebo dvojháček",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "třemi návazci s tím, že na každém návazci lze použít jen jeden jednoháček"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23522-pri_lovu_muskarenim_v_rybarskych_revirech_pstruhovych_smi_byt_pouzita_jen_jedna_udice_s_nejvys"
+  },
+  {
+    "question": "Při lovu přívlačí nebo muškařením musí osoby provádějící lov dodržovat mezi sebou vzdálenost:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "alespoň 20 m, nedohodnou-li se na menší vzdálenosti",
+        "isCorrect": true
+      },
+      {
+        "text": "při které se nebudou při lovu vzájemně omezovat",
+        "isCorrect": false
+      },
+      {
+        "text": "alespoň 15 m, nedohodnou-li se na menší vzdálenosti",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "alespoň 20 m, nedohodnou-li se na menší vzdálenosti"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23523-pri_lovu_privlaci_nebo_muskarenim_musi_osoby_provadejici_lov_dodrzovat_mezi_sebou_vzdalenost"
+  },
+  {
+    "question": "Kdy je v pstruhových rybářských revírech povolen lov přívlačí?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. dubna do 30. listopadu",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. června do 31. srpna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. dubna do 30. listopadu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23524-kdy_je_v_pstruhovych_rybarskych_revirech_povolen_lov_privlaci"
+  },
+  {
+    "question": "Kdy je v pstruhových rybářských revírech povolen lov muškařením?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "od 16. dubna do 30. listopadu",
+        "isCorrect": true
+      },
+      {
+        "text": "od 16. března do 30. listopadu",
+        "isCorrect": false
+      },
+      {
+        "text": "od 16. dubna do 31. srpna",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "od 16. dubna do 30. listopadu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23525-kdy_je_v_pstruhovych_rybarskych_revirech_povolen_lov_muskarenim"
+  },
+  {
+    "question": "Při lovu přívlačí v rybářských revírech pstruhových je povoleno v období od 1. 9. do 30. 11. používat umělé nástrahy opatřené nejvýše:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jedním jednoháčkem",
+        "isCorrect": true
+      },
+      {
+        "text": "třemi jednoháčky, dvojháčky nebo trojháčky",
+        "isCorrect": false
+      },
+      {
+        "text": "dvěma jednoháčky, dvojháčky nebo trojháčky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jedním jednoháčkem"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23526-pri_lovu_privlaci_v_rybarskych_revirech_pstruhovych_je_povoleno_v_obdobi_od_1_9_do_30_11_pouzi"
+  }
+]

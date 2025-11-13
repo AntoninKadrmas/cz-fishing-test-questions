@@ -1,0 +1,2003 @@
+[
+  {
+    "question": "Co je to plankton?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "preparát urychlující výtěr ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "vodní organismy s mohutným aktivním pohybem",
+        "isCorrect": false
+      },
+      {
+        "text": "drobné vodní organismy vznášející se ve vodním sloupci",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "drobné vodní organismy vznášející se ve vodním sloupci"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23413-co_je_to_plankton"
+  },
+  {
+    "question": "Co je to trdliště?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sádka využívaná k odchovu lososovitých ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "místo přirozeného rozmnožování ryb",
+        "isCorrect": true
+      },
+      {
+        "text": "stanoviště ryb v zimním období",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "místo přirozeného rozmnožování ryb"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23414-co_je_to_trdliste"
+  },
+  {
+    "question": "Co je to inkubace jiker?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kulení plůdku z jiker",
+        "isCorrect": false
+      },
+      {
+        "text": "období vývoje zárodku v jikře",
+        "isCorrect": true
+      },
+      {
+        "text": "vývoj jiker ve vaječnících jikernaček",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "období vývoje zárodku v jikře"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23415-co_je_to_inkubace_jiker"
+  },
+  {
+    "question": "Který z uvedených orgánů kapr nemá?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jícen",
+        "isCorrect": false
+      },
+      {
+        "text": "žaludek",
+        "isCorrect": true
+      },
+      {
+        "text": "hltan",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "žaludek"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23416-ktery_z_uvedenych_organu_kapr_nema"
+  },
+  {
+    "question": "Má úhoř říční šupiny?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "ano, ale jen při základu ploutví",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23417-ma_uhor_ricni_supiny"
+  },
+  {
+    "question": "Jaké postavení úst má plotice obecná?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "spodní",
+        "isCorrect": false
+      },
+      {
+        "text": "střední",
+        "isCorrect": true
+      },
+      {
+        "text": "horní",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "střední"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23418-jake_postaveni_ust_ma_plotice_obecna"
+  },
+  {
+    "question": "Jaké postavení úst má ouklej obecná?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "horní",
+        "isCorrect": true
+      },
+      {
+        "text": "spodní",
+        "isCorrect": false
+      },
+      {
+        "text": "střední",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "horní"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23419-jake_postaveni_ust_ma_ouklej_obecna"
+  },
+  {
+    "question": "Co je to bentos?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "hydrobiologické označení břehu",
+        "isCorrect": false
+      },
+      {
+        "text": "společenstvo organismů žijících na dně",
+        "isCorrect": true
+      },
+      {
+        "text": "drobné vodní organismy vznášející se ve vodním sloupci",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "společenstvo organismů žijících na dně"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23420-co_je_to_bentos"
+  },
+  {
+    "question": "Která z následujících ryb má typické spodní postavení úst?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jeseter malý",
+        "isCorrect": true
+      },
+      {
+        "text": "jelec tloušť",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný potoční",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jeseter malý"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23421-ktera_z_nasledujicich_ryb_ma_typicke_spodni_postaveni_ust"
+  },
+  {
+    "question": "Která z následujících druhů ryb má střední postavení úst?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ouklej obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná",
+        "isCorrect": true
+      },
+      {
+        "text": "podoustev říční",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "štika obecná"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23422-ktera_z_nasledujicich_druhu_ryb_ma_stredni_postaveni_ust"
+  },
+  {
+    "question": "Z uvedené skupiny ryb označ ty, které mají tukovou ploutvičku?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "piskoř pruhovaný, mřenka mramorovaná, cejn velký, štika obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "vranka obecná, slunečnice pestrá, perlín ostrobřichý, střevle potoční",
+        "isCorrect": false
+      },
+      {
+        "text": "sumeček americký, losos obecný, hlavatka obecná, lipan podhorní",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "sumeček americký, losos obecný, hlavatka obecná, lipan podhorní"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23423-z_uvedene_skupiny_ryb_oznac_ty_ktere_maji_tukovou_ploutvicku"
+  },
+  {
+    "question": "Který z uvedených jelců má vypouklý tvar hřbetní a řitní ploutve?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "proudník",
+        "isCorrect": false
+      },
+      {
+        "text": "tloušť",
+        "isCorrect": true
+      },
+      {
+        "text": "jesen",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "tloušť"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23424-ktery_z_uvedenych_jelcu_ma_vypoukly_tvar_hrbetni_a_ritni_ploutve"
+  },
+  {
+    "question": "Odkud pochází původní forma pstruha duhového?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "z Jižní Ameriky",
+        "isCorrect": false
+      },
+      {
+        "text": "ze Severní Ameriky",
+        "isCorrect": true
+      },
+      {
+        "text": "z Asie",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ze Severní Ameriky"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23425-odkud_pochazi_puvodni_forma_pstruha_duhoveho"
+  },
+  {
+    "question": "Které z následujících ryb nemají tělo kryto šupinami?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sumeček americký, sumec velký, vranka obecná",
+        "isCorrect": true
+      },
+      {
+        "text": "mník jednovousý, lín obecný, karas obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "úhoř říční, piskoř pruhovaný, siven americký",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "sumeček americký, sumec velký, vranka obecná"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23426-ktere_z_nasledujicich_ryb_nemaji_telo_kryto_supinami"
+  },
+  {
+    "question": "Jaké postavení úst má okoun říční?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "střední",
+        "isCorrect": true
+      },
+      {
+        "text": "horní",
+        "isCorrect": false
+      },
+      {
+        "text": "spodní",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "střední"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23427-jake_postaveni_ust_ma_okoun_ricni"
+  },
+  {
+    "question": "Kdy se vytírá mník jednovousý?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prosinec - leden",
+        "isCorrect": true
+      },
+      {
+        "text": "říjen - listopad",
+        "isCorrect": false
+      },
+      {
+        "text": "březen - duben",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prosinec - leden"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23428-kdy_se_vytira_mnik_jednovousy"
+  },
+  {
+    "question": "Která z našich ryb má největší játra?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "štika obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "mník jednovousý"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23429-ktera_z_nasich_ryb_ma_nejvetsi_jatra"
+  },
+  {
+    "question": "Kde leží u ryb ledviny?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vedle jater",
+        "isCorrect": false
+      },
+      {
+        "text": "těsně pod páteří",
+        "isCorrect": true
+      },
+      {
+        "text": "mezi kličkami střev",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "těsně pod páteří"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23430-kde_lezi_u_ryb_ledviny"
+  },
+  {
+    "question": "Čím jsou chráněny žábry před poškozením?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "skřelemi",
+        "isCorrect": true
+      },
+      {
+        "text": "šupinami",
+        "isCorrect": false
+      },
+      {
+        "text": "kůží",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "skřelemi"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23431-cim_jsou_chraneny_zabry_pred_poskozenim"
+  },
+  {
+    "question": "K čemu slouží žaberní aparát ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "k rozmělnění potravy",
+        "isCorrect": false
+      },
+      {
+        "text": "k okysličování krve",
+        "isCorrect": true
+      },
+      {
+        "text": "k pohybu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "k okysličování krve"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23432-k_cemu_slouzi_zaberni_aparat_ryb"
+  },
+  {
+    "question": "Jaké postavení úst má hrouzek obecný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "horní",
+        "isCorrect": false
+      },
+      {
+        "text": "střední",
+        "isCorrect": false
+      },
+      {
+        "text": "spodní",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "spodní"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23433-jake_postaveni_ust_ma_hrouzek_obecny"
+  },
+  {
+    "question": "Jaké postavení úst má cejn velký?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "spodní",
+        "isCorrect": true
+      },
+      {
+        "text": "horní",
+        "isCorrect": false
+      },
+      {
+        "text": "střední",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "spodní"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23434-jake_postaveni_ust_ma_cejn_velky"
+  },
+  {
+    "question": "Kolik komor a předsíní má rybí srdce?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "2 + 2",
+        "isCorrect": false
+      },
+      {
+        "text": "1 + 2",
+        "isCorrect": false
+      },
+      {
+        "text": "1 + 1",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "1 + 1"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23435-kolik_komor_a_predsini_ma_rybi_srdce"
+  },
+  {
+    "question": "Jaká krev proudí srdcem ryby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "okysličená",
+        "isCorrect": false
+      },
+      {
+        "text": "smíšená",
+        "isCorrect": false
+      },
+      {
+        "text": "neokysličená",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "neokysličená"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23436-jaka_krev_proudi_srdcem_ryby"
+  },
+  {
+    "question": "Která z našich ryb má oko chráněno dvojitou rohovkou?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vranka",
+        "isCorrect": true
+      },
+      {
+        "text": "mník",
+        "isCorrect": false
+      },
+      {
+        "text": "úhoř",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vranka"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23437-ktera_z_nasich_ryb_ma_oko_chraneno_dvojitou_rohovkou"
+  },
+  {
+    "question": "Mají ryby chuť?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "jen ryby dravé",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23438-maji_ryby_chut"
+  },
+  {
+    "question": "Co je to postranní čára?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pohlavní rozlišovací znak",
+        "isCorrect": false
+      },
+      {
+        "text": "pomocný dýchací orgán",
+        "isCorrect": false
+      },
+      {
+        "text": "smyslový orgán",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "smyslový orgán"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23439-co_je_to_postranni_cara"
+  },
+  {
+    "question": "Která kaprovitá ryba má na tlamě masité vousky?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lín obecný",
+        "isCorrect": true
+      },
+      {
+        "text": "ouklej obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "karas obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lín obecný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23440-ktera_kaprovita_ryba_ma_na_tlame_masite_vousky"
+  },
+  {
+    "question": "Co jsou to gonády ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "hřbetní paprsky",
+        "isCorrect": false
+      },
+      {
+        "text": "pohlavní orgány",
+        "isCorrect": true
+      },
+      {
+        "text": "vyměšovací orgány",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pohlavní orgány"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23441-co_jsou_to_gonady_ryb"
+  },
+  {
+    "question": "Co je to hypofýza?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "podvěsek mozkový",
+        "isCorrect": true
+      },
+      {
+        "text": "nemoc mozku",
+        "isCorrect": false
+      },
+      {
+        "text": "nemoc ledvin",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "podvěsek mozkový"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23442-co_je_to_hypofyza"
+  },
+  {
+    "question": "Které z následujících ryb pečují o své jikry i po výtěru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kapr obecný, karas obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "lipan podhorní, siven americký",
+        "isCorrect": false
+      },
+      {
+        "text": "sumec velký, sumeček americký",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "sumec velký, sumeček americký"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23443-ktere_z_nasledujicich_ryb_pecuji_o_sve_jikry_i_po_vyteru"
+  },
+  {
+    "question": "Jaké postavení úst má parma obecná?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "horní",
+        "isCorrect": false
+      },
+      {
+        "text": "střední",
+        "isCorrect": false
+      },
+      {
+        "text": "spodní",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "spodní"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23444-jake_postaveni_ust_ma_parma_obecna"
+  },
+  {
+    "question": "Kolik druhů ryb žije v našich vodách (v ČR)?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "50 a více",
+        "isCorrect": true
+      },
+      {
+        "text": "10 - 20",
+        "isCorrect": false
+      },
+      {
+        "text": "30 - 40",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "50 a více"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23445-kolik_druhu_ryb_zije_v_nasich_vodach_v_cr"
+  },
+  {
+    "question": "Ve kterém světovém oceánu se rozmnožuje úhoř říční?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "Indický",
+        "isCorrect": false
+      },
+      {
+        "text": "Atlantský",
+        "isCorrect": true
+      },
+      {
+        "text": "Tichý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "Atlantský"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23446-ve_kterem_svetovem_oceanu_se_rozmnozuje_uhor_ricni"
+  },
+  {
+    "question": "Která ryba má na spodní čelisti jeden jediný vous, jako mají tresky?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sumec",
+        "isCorrect": false
+      },
+      {
+        "text": "sekavec",
+        "isCorrect": false
+      },
+      {
+        "text": "mník",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "mník"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23447-ktera_ryba_ma_na_spodni_celisti_jeden_jediny_vous_jako_maji_tresky"
+  },
+  {
+    "question": "Které části rybího těla slouží k určení stáří?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "šupiny",
+        "isCorrect": true
+      },
+      {
+        "text": "ocasní ploutev",
+        "isCorrect": false
+      },
+      {
+        "text": "vousky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "šupiny"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23448-ktere_casti_rybiho_tela_slouzi_k_urceni_stari"
+  },
+  {
+    "question": "Mění se teplota rybího těla s teplotou vody?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ano",
+        "isCorrect": true
+      },
+      {
+        "text": "ne",
+        "isCorrect": false
+      },
+      {
+        "text": "zůstává stejná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ano"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23449-meni_se_teplota_rybiho_tela_s_teplotou_vody"
+  },
+  {
+    "question": "Která kaprovitá ryba má typicky červenou duhovku oka?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kapr obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "bolen dravý",
+        "isCorrect": false
+      },
+      {
+        "text": "plotice obecná",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "plotice obecná"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23450-ktera_kaprovita_ryba_ma_typicky_cervenou_duhovku_oka"
+  },
+  {
+    "question": "Která z ryb čeledi kaprovitých se v dospělosti živí zejména rybkami?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "karas stříbřitý",
+        "isCorrect": false
+      },
+      {
+        "text": "jelec proudník",
+        "isCorrect": false
+      },
+      {
+        "text": "bolen dravý",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "bolen dravý"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23451-ktera_z_ryb_celedi_kaprovitych_se_v_dospelosti_zivi_zejmena_rybkami"
+  },
+  {
+    "question": "Vranka obecná se pohybuje poskoky (střelkovitě). Proč neplave jako ostatní ryby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "chybí jí postranní čára",
+        "isCorrect": false
+      },
+      {
+        "text": "nemá všechny ploutve",
+        "isCorrect": false
+      },
+      {
+        "text": "chybí jí plynový měchýř",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "chybí jí plynový měchýř"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23452-vranka_obecna_se_pohybuje_poskoky_strelkovite_proc_neplave_jako_ostatni_ryby"
+  },
+  {
+    "question": "Která z těchto ryb žije v především v proudné vodě?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lipan podhorní",
+        "isCorrect": true
+      },
+      {
+        "text": "lín obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "blatňák tmavý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lipan podhorní"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23453-ktera_z_techto_ryb_zije_v_predevsim_v_proudne_vode"
+  },
+  {
+    "question": "V jako vodě se nejlépe daří našim rybám?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "silně zásadité",
+        "isCorrect": false
+      },
+      {
+        "text": "neutrální",
+        "isCorrect": true
+      },
+      {
+        "text": "silně kyselé",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "neutrální"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23454-v_jako_vode_se_nejlepe_dari_nasim_rybam"
+  },
+  {
+    "question": "Zelené vodní rostliny vyrábějí kyslík:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jen v noci",
+        "isCorrect": false
+      },
+      {
+        "text": "ani ve dne, ani v noci",
+        "isCorrect": false
+      },
+      {
+        "text": "jen ve dne",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jen ve dne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23455-zelene_vodni_rostliny_vyrabeji_kyslik"
+  },
+  {
+    "question": "Které následující druhy patří mezi plankton?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "buchanka, perloočka",
+        "isCorrect": true
+      },
+      {
+        "text": "larva chrostíka, potápník vroubený",
+        "isCorrect": false
+      },
+      {
+        "text": "škeble, perlorodka",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "buchanka, perloočka"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23456-ktere_nasledujici_druhy_patri_mezi_plankton"
+  },
+  {
+    "question": "Co patří mezi bentos?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "mřenka mramorovaná",
+        "isCorrect": false
+      },
+      {
+        "text": "červené larvy pakomára, beruška vodní",
+        "isCorrect": true
+      },
+      {
+        "text": "dafnie",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "červené larvy pakomára, beruška vodní"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23457-co_patri_mezi_bentos"
+  },
+  {
+    "question": "Kdy se u nás vytírá štika obecná?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "v březnu až dubnu",
+        "isCorrect": true
+      },
+      {
+        "text": "v květnu až červnu",
+        "isCorrect": false
+      },
+      {
+        "text": "v prosinci až lednu",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "v březnu až dubnu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23458-kdy_se_u_nas_vytira_stika_obecna"
+  },
+  {
+    "question": "Která ryba má hadovitý tvar těla?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "piskoř pruhovaný",
+        "isCorrect": true
+      },
+      {
+        "text": "jelec tloušť",
+        "isCorrect": false
+      },
+      {
+        "text": "cejn velký",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "piskoř pruhovaný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23459-ktera_ryba_ma_hadovity_tvar_tela"
+  },
+  {
+    "question": "Které ploutve má úhoř říční párové (sudé)?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prsní",
+        "isCorrect": true
+      },
+      {
+        "text": "hřbetní",
+        "isCorrect": false
+      },
+      {
+        "text": "břišní",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "prsní"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23460-ktere_ploutve_ma_uhor_ricni_parove_sude"
+  },
+  {
+    "question": "Která z následujících ryb má zadní postavení hřbetní ploutve?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "štika obecná",
+        "isCorrect": true
+      },
+      {
+        "text": "siven americký",
+        "isCorrect": false
+      },
+      {
+        "text": "kapr obecný",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "štika obecná"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23461-ktera_z_nasledujicich_ryb_ma_zadni_postaveni_hrbetni_ploutve"
+  },
+  {
+    "question": "Které z následujících ryb chybí břišní ploutve?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "mníku jednovousému",
+        "isCorrect": false
+      },
+      {
+        "text": "úhoři říčnímu",
+        "isCorrect": true
+      },
+      {
+        "text": "slunečnici pestré",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "úhoři říčnímu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23462-ktere_z_nasledujicich_ryb_chybi_brisni_ploutve"
+  },
+  {
+    "question": "Která naše ryba nemá vůbec vyvinuté šupiny?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "slunečnice pestrá",
+        "isCorrect": false
+      },
+      {
+        "text": "vranka obecná",
+        "isCorrect": true
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vranka obecná"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23463-ktera_nase_ryba_nema_vubec_vyvinute_supiny"
+  },
+  {
+    "question": "Která naše ryba má šupiny i na spánkové části hlavy?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kapr obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná",
+        "isCorrect": true
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "štika obecná"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23464-ktera_nase_ryba_ma_supiny_i_na_spankove_casti_hlavy"
+  },
+  {
+    "question": "U které naší kaprovité ryby je červená barva většiny ploutví jedním z důležitých rozpoznávacích znaků?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jelec jesen",
+        "isCorrect": false
+      },
+      {
+        "text": "perlín ostrobřichý",
+        "isCorrect": true
+      },
+      {
+        "text": "plotice obecná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "perlín ostrobřichý"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23465-u_ktere_nasi_kaprovite_ryby_je_cervena_barva_vetsiny_ploutvi_jednim_z_dulezitych_rozpoznavacic"
+  },
+  {
+    "question": "Která naše ryba má šupiny tak hluboce zasazené ve škáře, že se její tělo zdá na první pohled hladké?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "úhoř říční",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "úhoř říční"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23466-ktera_nase_ryba_ma_supiny_tak_hluboce_zasazene_ve_skare_ze_se_jeji_telo_zda_na_prvni_pohled_hl"
+  },
+  {
+    "question": "Kde se vytírá losos obecný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "v mořích",
+        "isCorrect": false
+      },
+      {
+        "text": "v brakických vodách",
+        "isCorrect": false
+      },
+      {
+        "text": "v řekách",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "v řekách"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23467-kde_se_vytira_losos_obecny"
+  },
+  {
+    "question": "Které ryby mají požerákové zuby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kaprovité a lososovité",
+        "isCorrect": false
+      },
+      {
+        "text": "jen ryby kaprovité",
+        "isCorrect": false
+      },
+      {
+        "text": "sekavcovité a kaprovité",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "sekavcovité a kaprovité"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23468-ktere_ryby_maji_pozerakove_zuby"
+  },
+  {
+    "question": "Která z našich ryb nemá zcela kostěnou páteř?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "úhoř říční",
+        "isCorrect": false
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": false
+      },
+      {
+        "text": "jeseter malý",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jeseter malý"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23469-ktera_z_nasich_ryb_nema_zcela_kostenou_pater"
+  },
+  {
+    "question": "Má bolen dravý žaludek?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jen v dospělosti",
+        "isCorrect": false
+      },
+      {
+        "text": "ne",
+        "isCorrect": true
+      },
+      {
+        "text": "ano",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ne"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23470-ma_bolen_dravy_zaludek"
+  },
+  {
+    "question": "Čím jsou žábry ryb chráněny před poškozením?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "šupinami",
+        "isCorrect": false
+      },
+      {
+        "text": "nejsou chráněny",
+        "isCorrect": false
+      },
+      {
+        "text": "skřelemi",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "skřelemi"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23471-cim_jsou_zabry_ryb_chraneny_pred_poskozenim"
+  },
+  {
+    "question": "Která ryba má přídavné střevní dýchání?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "blatňák tmavý",
+        "isCorrect": false
+      },
+      {
+        "text": "piskoř pruhovaný",
+        "isCorrect": true
+      },
+      {
+        "text": "úhoř říční",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "piskoř pruhovaný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23472-ktera_ryba_ma_pridavne_strevni_dychani"
+  },
+  {
+    "question": "Které ryby nemají plynový měchýř?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "lososovité",
+        "isCorrect": false
+      },
+      {
+        "text": "vrankovité",
+        "isCorrect": true
+      },
+      {
+        "text": "kaprovité",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vrankovité"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23473-ktere_ryby_nemaji_plynovy_mechyr"
+  },
+  {
+    "question": "Při zvětšení objemu plynů v plynovém měchýři ryba:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vyráží prudce vpřed",
+        "isCorrect": false
+      },
+      {
+        "text": "stoupá",
+        "isCorrect": true
+      },
+      {
+        "text": "klesá",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "stoupá"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23474-pri_zvetseni_objemu_plynu_v_plynovem_mechyri_ryba"
+  },
+  {
+    "question": "Jestliže se u ryb s dvojitým plynovým měchýřem (kaprovité) zvětší objem v zadní části měchýře a ryba se při tom pohybuje vpřed, bude tato ryba plavat:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "prudce vpřed",
+        "isCorrect": false
+      },
+      {
+        "text": "šikmo vzhůru",
+        "isCorrect": false
+      },
+      {
+        "text": "šikmo dolů",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "šikmo dolů"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23475-jestlize_se_u_ryb_s_dvojitym_plynovym_mechyrem_kaprovite_zvetsi_objem_v_zadni_casti_mechyre_a_"
+  },
+  {
+    "question": "Kde je umístěna postranní čára ryby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "je vedena středem boků ryby",
+        "isCorrect": true
+      },
+      {
+        "text": "podél břišní části těla ryby",
+        "isCorrect": false
+      },
+      {
+        "text": "podél hřbetu ryby",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "je vedena středem boků ryby"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23476-kde_je_umistena_postranni_cara_ryby"
+  },
+  {
+    "question": "Kolik vousků má kapr obecný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "4"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23477-kolik_vousku_ma_kapr_obecny"
+  },
+  {
+    "question": "Kolik vousků má sumeček americký?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "8"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23478-kolik_vousku_ma_sumecek_americky"
+  },
+  {
+    "question": "Kolik vousků má piskoř pruhovaný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "10"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23479-kolik_vousku_ma_piskor_pruhovany"
+  },
+  {
+    "question": "Kolik vousků má sumec velký?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "6",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "6"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23480-kolik_vousku_ma_sumec_velky"
+  },
+  {
+    "question": "Která z uvedených ryb se při vyhledávání potravy orientuje především zrakem?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "štika obecná",
+        "isCorrect": true
+      },
+      {
+        "text": "sumec velký",
+        "isCorrect": false
+      },
+      {
+        "text": "mník jednovousý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "štika obecná"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23481-ktera_z_uvedenych_ryb_se_pri_vyhledavani_potravy_orientuje_predevsim_zrakem"
+  },
+  {
+    "question": "Který z uvedených živočichů může napadat plůdek ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "dafnie velká",
+        "isCorrect": false
+      },
+      {
+        "text": "potápník vroubený a jeho larvy",
+        "isCorrect": true
+      },
+      {
+        "text": "komár pisklavý",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "potápník vroubený a jeho larvy"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23482-ktery_z_uvedenych_zivocichu_muze_napadat_pludek_ryb"
+  },
+  {
+    "question": "Která dvojice ryb má dva vousky?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "mřenka mramorovaná a ostroretka stěhovavá",
+        "isCorrect": false
+      },
+      {
+        "text": "hrouzek obecný a ostroretka stěhovavá",
+        "isCorrect": false
+      },
+      {
+        "text": "hrouzek obecný a lín obecný",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "hrouzek obecný a lín obecný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23483-ktera_dvojice_ryb_ma_dva_vousky"
+  },
+  {
+    "question": "Která trojice ryb má čtyři vousky?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "parma říční, sekavec písečný a kapr obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "jeseter malý, mřenka mramorovaná a lín obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "parma říční, jeseter malý a kapr obecný",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "parma říční, jeseter malý a kapr obecný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23484-ktera_trojice_ryb_ma_ctyri_vousky"
+  },
+  {
+    "question": "Mihule říční patří mezi:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "živočichy kruhoústé",
+        "isCorrect": true
+      },
+      {
+        "text": "ryby úhořovité",
+        "isCorrect": false
+      },
+      {
+        "text": "paryby",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "živočichy kruhoústé"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23485-mihule_ricni_patri_mezi"
+  },
+  {
+    "question": "Do které čeledi ryb patří ježdík obecný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "okounovité",
+        "isCorrect": true
+      },
+      {
+        "text": "sekavcovité",
+        "isCorrect": false
+      },
+      {
+        "text": "kaprovité",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "okounovité"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23486-do_ktere_celedi_ryb_patri_jezdik_obecny"
+  },
+  {
+    "question": "Amur bílý patří do čeledi ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "okounovité",
+        "isCorrect": false
+      },
+      {
+        "text": "kaprovité",
+        "isCorrect": true
+      },
+      {
+        "text": "lososovité",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kaprovité"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23487-amur_bily_patri_do_celedi_ryb"
+  },
+  {
+    "question": "Bolen dravý patří do čeledi ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "okounovité",
+        "isCorrect": false
+      },
+      {
+        "text": "štikovité",
+        "isCorrect": false
+      },
+      {
+        "text": "kaprovité",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kaprovité"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23488-bolen_dravy_patri_do_celedi_ryb"
+  },
+  {
+    "question": "Která trojice ryb se v dospělosti živí převážně rybami?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "štika obecná, okoun říční a ouklej obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná, parma obecná a candát obecný",
+        "isCorrect": false
+      },
+      {
+        "text": "štika obecná, bolen dravý a candát obecný",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "štika obecná, bolen dravý a candát obecný"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23489-ktera_trojice_ryb_se_v_dospelosti_zivi_prevazne_rybami"
+  },
+  {
+    "question": "Která trojice ryb je typická pro oblast pstruhového pásma?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruh obecný, slunečnice pestrá a okounek pstruhový",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh obecný, vranka obecná a střevle potoční",
+        "isCorrect": true
+      },
+      {
+        "text": "okounek pstruhový, střevle potoční a vranka obecná",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruh obecný, vranka obecná a střevle potoční"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23490-ktera_trojice_ryb_je_typicka_pro_oblast_pstruhoveho_pasma"
+  },
+  {
+    "question": "Co je to řemenatka?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "rybí cizopasník",
+        "isCorrect": true
+      },
+      {
+        "text": "virus způsobující zduření ledvin u pstruhů",
+        "isCorrect": false
+      },
+      {
+        "text": "bakterie způsobující skvrnitost ryb",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "rybí cizopasník"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23491-co_je_to_remenatka"
+  },
+  {
+    "question": "Chobotnatka rybí patří mezi:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "roztoče",
+        "isCorrect": false
+      },
+      {
+        "text": "ploštice",
+        "isCorrect": false
+      },
+      {
+        "text": "kroužkovce",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kroužkovce"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23492-chobotnatka_rybi_patri_mezi"
+  },
+  {
+    "question": "Co je to kapřivec?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "rybí parazit",
+        "isCorrect": true
+      },
+      {
+        "text": "kříženec kapra a jelce",
+        "isCorrect": false
+      },
+      {
+        "text": "vyřazený generační kapr",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "rybí parazit"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23493-co_je_to_kaprivec"
+  },
+  {
+    "question": "Chrostíci patří mezi:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "červy",
+        "isCorrect": false
+      },
+      {
+        "text": "hmyz",
+        "isCorrect": true
+      },
+      {
+        "text": "korýše",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "hmyz"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23494-chrostici_patri_mezi"
+  },
+  {
+    "question": "Larva potápníka je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "všežravá",
+        "isCorrect": false
+      },
+      {
+        "text": "dravá",
+        "isCorrect": true
+      },
+      {
+        "text": "býložravá",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "dravá"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23495-larva_potapnika_je"
+  },
+  {
+    "question": "Na čem nejvíce záleží doba tření kaprovitých ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "na teplotě vody",
+        "isCorrect": true
+      },
+      {
+        "text": "na množství potravy",
+        "isCorrect": false
+      },
+      {
+        "text": "na obsahu kyslíku ve vodě",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "na teplotě vody"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23496-na_cem_nejvice_zalezi_doba_treni_kaprovitych_ryb"
+  },
+  {
+    "question": "Ve kterých ročních obdobích se třou lososovité ryby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "léto",
+        "isCorrect": false
+      },
+      {
+        "text": "podzim a jaro",
+        "isCorrect": true
+      },
+      {
+        "text": "zima",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "podzim a jaro"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23497-ve_kterych_rocnich_obdobich_se_trou_lososovite_ryby"
+  },
+  {
+    "question": "Která z našich ryb klade jikry do žaberních systémů mlžů?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "piskoř pruhovaný",
+        "isCorrect": false
+      },
+      {
+        "text": "okounek pstruhový",
+        "isCorrect": false
+      },
+      {
+        "text": "hořavka duhová",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "hořavka duhová"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23498-ktera_z_nasich_ryb_klade_jikry_do_zabernich_systemu_mlzu"
+  },
+  {
+    "question": "U kterých ryb můžeme v dospělosti rozpoznat mlíčáka od jikernačky pomocí velikosti břišních ploutví?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "štiky obecné",
+        "isCorrect": false
+      },
+      {
+        "text": "lína obecného",
+        "isCorrect": true
+      },
+      {
+        "text": "kapra obecného",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "lína obecného"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23499-u_kterych_ryb_muzeme_v_dospelosti_rozpoznat_mlicaka_od_jikernacky_pomoci_velikosti_brisnich_pl"
+  }
+]

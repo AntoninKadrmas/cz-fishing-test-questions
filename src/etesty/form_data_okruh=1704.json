@@ -1,0 +1,968 @@
+[
+  {
+    "question": "Co je to pH?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "kyselost vody",
+        "isCorrect": true
+      },
+      {
+        "text": "průhlednost vody",
+        "isCorrect": false
+      },
+      {
+        "text": "hodnota vodivosti vody",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "kyselost vody"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23527-co_je_to_ph"
+  },
+  {
+    "question": "Kdo rozdělil toky na rybí pásma (pstruhové, lipanové parmové, cejnové)?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "A. Frič",
+        "isCorrect": true
+      },
+      {
+        "text": "J. Šusta",
+        "isCorrect": false
+      },
+      {
+        "text": "J. Tejčka",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "A. Frič"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23528-kdo_rozdelil_toky_na_rybi_pasma_pstruhove_lipanove_parmove_cejnove"
+  },
+  {
+    "question": "Jak rozdělujeme rybí pásma na vodních tocích?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruhové, lipanové, kaprové a cejnové",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruhové, lipanové, parmové a cejnové",
+        "isCorrect": true
+      },
+      {
+        "text": "pstruhové, parmové, kaprové a cejnové",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruhové, lipanové, parmové a cejnové"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23529-jak_rozdelujeme_rybi_pasma_na_vodnich_tocich"
+  },
+  {
+    "question": "Co je to aerátor?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "zařízení k obohacení vody kyslíkem",
+        "isCorrect": true
+      },
+      {
+        "text": "zařízení k recirkulaci vody v rybí líhni",
+        "isCorrect": false
+      },
+      {
+        "text": "vodní čerpadlo",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "zařízení k obohacení vody kyslíkem"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23530-co_je_to_aerator"
+  },
+  {
+    "question": "Co je to přepravní bedna?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vanička na ryby",
+        "isCorrect": false
+      },
+      {
+        "text": "nádoba na přepravu drobného rybářského náčiní",
+        "isCorrect": false
+      },
+      {
+        "text": "nádoba určená k přepravě živých ryb",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "nádoba určená k přepravě živých ryb"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23531-co_je_to_prepravni_bedna"
+  },
+  {
+    "question": "Co je to komorový rybník?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "betonová sádka",
+        "isCorrect": false
+      },
+      {
+        "text": "rybník používaný k přirozenému výtěru kapra",
+        "isCorrect": false
+      },
+      {
+        "text": "rybník používaný k přezimování ryb",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "rybník používaný k přezimování ryb"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23532-co_je_to_komorovy_rybnik"
+  },
+  {
+    "question": "Co je to váčkový plůdek?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "plůdek ryb napadený virovým onemocněním, které způsobuje deformace těla",
+        "isCorrect": false
+      },
+      {
+        "text": "plůdek ryb napadený větším množstvím parazitů",
+        "isCorrect": false
+      },
+      {
+        "text": "plůdek ryb po vylíhnutí z jikry do vstřebání žloutkového váčku",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "plůdek ryb po vylíhnutí z jikry do vstřebání žloutkového váčku"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23533-co_je_to_vackovy_pludek"
+  },
+  {
+    "question": "Čím se převážně živí lipan podhorní v dospělosti?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "porosty zelených řas na dně",
+        "isCorrect": false
+      },
+      {
+        "text": "larvami vodního hmyzu, zejména chrostíků a občas dospělým hmyzem",
+        "isCorrect": true
+      },
+      {
+        "text": "drobnou bílou rybou a měkkými vodními porosty",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "larvami vodního hmyzu, zejména chrostíků a občas dospělým hmyzem"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23534-cim_se_prevazne_zivi_lipan_podhorni_v_dospelosti"
+  },
+  {
+    "question": "K jakému účelu slouží rybám plankton?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "úkryt",
+        "isCorrect": false
+      },
+      {
+        "text": "potrava",
+        "isCorrect": true
+      },
+      {
+        "text": "substrát na kladení jiker",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "potrava"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23535-k_jakemu_ucelu_slouzi_rybam_plankton"
+  },
+  {
+    "question": "Která z následujících ryb se běžně uměle vytírá?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "úhoř říční",
+        "isCorrect": false
+      },
+      {
+        "text": "plotice obecná",
+        "isCorrect": false
+      },
+      {
+        "text": "pstruh duhový",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruh duhový"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23536-ktera_z_nasledujicich_ryb_se_bezne_umele_vytira"
+  },
+  {
+    "question": "Co je cílem vápnění rybníků?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "omezení růstu rostlin",
+        "isCorrect": false
+      },
+      {
+        "text": "zvýšení kyselosti vody",
+        "isCorrect": false
+      },
+      {
+        "text": "optimalizace pH",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "optimalizace pH"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23537-co_je_cilem_vapneni_rybniku"
+  },
+  {
+    "question": "K čemu slouží hypofyzace ryb?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "k mezidruhovému křížení ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "k urychlení přípravy k výtěru",
+        "isCorrect": true
+      },
+      {
+        "text": "k dezinfekci ryb při napadení plísní",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "k urychlení přípravy k výtěru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23538-k_cemu_slouzi_hypofyzace_ryb"
+  },
+  {
+    "question": "Jak zvyšujeme úrodnost rybníka?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "letněním",
+        "isCorrect": true
+      },
+      {
+        "text": "úplným odbahněním",
+        "isCorrect": false
+      },
+      {
+        "text": "vysazováním tvrdých porostů",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "letněním"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23539-jak_zvysujeme_urodnost_rybnika"
+  },
+  {
+    "question": "Proč v zimě vysekáváme na rybnících otvory do ledu?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "aby byl přístup kyslíku a světla",
+        "isCorrect": true
+      },
+      {
+        "text": "aby měly ryby světlo",
+        "isCorrect": false
+      },
+      {
+        "text": "aby se mohla odpařovat voda",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "aby byl přístup kyslíku a světla"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23540-proc_v_zime_vysekavame_na_rybnicich_otvory_do_ledu"
+  },
+  {
+    "question": "Pomocí čeho se slovují generační pstruzi z malých říček za účelem umělého výtěru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "stejnosměrného elektrického proudu (elektrickým agregátem)",
+        "isCorrect": true
+      },
+      {
+        "text": "mírně omamných látek",
+        "isCorrect": false
+      },
+      {
+        "text": "vrší a sítí",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "stejnosměrného elektrického proudu (elektrickým agregátem)"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23541-pomoci_ceho_se_slovuji_generacni_pstruzi_z_malych_ricek_za_ucelem_umeleho_vyteru"
+  },
+  {
+    "question": "Jaký je nejúčinnější způsob slovování násad nebo škodlivých ryb na malých potocích a říčkách?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pomocí speciálních podběráků",
+        "isCorrect": false
+      },
+      {
+        "text": "pomocí mírně omamných látek",
+        "isCorrect": false
+      },
+      {
+        "text": "pomocí elektrického agregátu",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pomocí elektrického agregátu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23542-jaky_je_nejucinnejsi_zpusob_slovovani_nasad_nebo_skodlivych_ryb_na_malych_potocich_a_rickach"
+  },
+  {
+    "question": "Která nemoc postihuje naše ryby?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "malárie",
+        "isCorrect": false
+      },
+      {
+        "text": "chřipka",
+        "isCorrect": false
+      },
+      {
+        "text": "infekční vodnatelnost",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "infekční vodnatelnost"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23543-ktera_nemoc_postihuje_nase_ryby"
+  },
+  {
+    "question": "Čím je vymezena hranice rybářského revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "zpravidla ji tvoří jez, soutok apod. Na břehu je vyznačena tabulemi",
+        "isCorrect": true
+      },
+      {
+        "text": "vždy ji tvoří jez nebo jiné vodní dílo",
+        "isCorrect": false
+      },
+      {
+        "text": "zpravidla podle kilometráže toku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "zpravidla ji tvoří jez, soutok apod. Na břehu je vyznačena tabulemi"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23544-cim_je_vymezena_hranice_rybarskeho_reviru"
+  },
+  {
+    "question": "Jak rozdělujeme rybářské revíry z hlediska zákona o rybářství?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pstruhové a mimopstruhové",
+        "isCorrect": true
+      },
+      {
+        "text": "tekoucí a stojaté",
+        "isCorrect": false
+      },
+      {
+        "text": "svazové a soukromé",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pstruhové a mimopstruhové"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23545-jak_rozdelujeme_rybarske_reviry_z_hlediska_zakona_o_rybarstvi"
+  },
+  {
+    "question": "Vlastník, popřípadě uživatel pozemku zaplaveného při povodni:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "není oprávněn na tomto pozemku lovit ryby, ale smí činit opatření, jímž by rybám zabránil vrátit se do rybářského revíru, pokud se na takovém postupu dohodne s uživatelem rybářského revíru a umožní mu do 7 dnů ryby ze svého pozemku, na kterém voda zůstala, slovit",
+        "isCorrect": false
+      },
+      {
+        "text": "není oprávněn na tomto pozemku lovit ryby a nesmí činit opatření, jímž by rybám zabránil vrátit se do rybářského revíru. Jestliže uživatel rybářského revíru neučinil do 7 dnů po opadnutí vody opatření k záchraně takovýchto ryb, je vlastník, popřípadě uživatel pozemku, na kterém voda zůstala, oprávněn si tyto ryby ponechat",
+        "isCorrect": true
+      },
+      {
+        "text": "je oprávněn na tomto pozemku lovit ryby, ale nesmí činit opatření, jímž by rybám zabránil vrátit se do rybářského revíru",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "není oprávněn na tomto pozemku lovit ryby a nesmí činit opatření, jímž by rybám zabránil vrátit se do rybářského revíru. Jestliže uživatel rybářského revíru neučinil do 7 dnů po opadnutí vody opatření k záchraně takovýchto ryb, je vlastník, popřípadě uživatel pozemku, na kterém voda zůstala, oprávněn si tyto ryby ponechat"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23546-vlastnik_popripade_uzivatel_pozemku_zaplaveneho_pri_povodni"
+  },
+  {
+    "question": "Z pozemku zaplaveného při povodni je povinen neprodleně odstranit uhynulé ryby:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "místně příslušný obecní úřad",
+        "isCorrect": false
+      },
+      {
+        "text": "uživatel rybářského revíru",
+        "isCorrect": true
+      },
+      {
+        "text": "vlastník, popřípadě uživatel pozemku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "uživatel rybářského revíru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23547-z_pozemku_zaplaveneho_pri_povodni_je_povinen_neprodlene_odstranit_uhynule_ryby"
+  },
+  {
+    "question": "Lov ryb elektrickým proudem",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "je povolen pouze k vědeckým účelům, a to jen osobám s kvalifikací odborné způsobilosti v elektrotechnice, pokud k tomu byly zmocněny místně příslušným krajským úřadem",
+        "isCorrect": false
+      },
+      {
+        "text": "je zakázán, pokud k tomu nebyla příslušným rybářským orgánem stanovena výjimka",
+        "isCorrect": true
+      },
+      {
+        "text": "je zakázán, pokud lov neprovádí uživatel revíru za účelem hospodářské těžby, umělého chovu či záchrany ryb",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "je zakázán, pokud k tomu nebyla příslušným rybářským orgánem stanovena výjimka"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23548-lov_ryb_elektrickym_proudem"
+  },
+  {
+    "question": "V případě, že byla příslušným rybářským orgánem udělena výjimka k lovu ryb pomocí elektrického proudu, je tento lov povolen",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pouze při splnění bezpečnostních předpisů. Osoby obsluhující elektrické zařízení musí mít u sebe povolení k takovému lovu a doklady opravňující k použití elektrolovného zařízení",
+        "isCorrect": true
+      },
+      {
+        "text": "pouze v chráněné rybí oblasti osobám stanoveným uživatelem revíru či rybníkářem, pokud loví ryby a jiné vodní organismy pro potřeby hospodářské těžby, či umělého chovu",
+        "isCorrect": false
+      },
+      {
+        "text": "pouze k vědeckým účelům, a to jen osobám s kvalifikací odborné způsobilosti v elektrotechnice, pokud k tomu byly zmocněny místně příslušným krajským úřadem",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "pouze při splnění bezpečnostních předpisů. Osoby obsluhující elektrické zařízení musí mít u sebe povolení k takovému lovu a doklady opravňující k použití elektrolovného zařízení"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23549-v_pripade_ze_byla_prislusnym_rybarskym_organem_udelena_vyjimka_k_lovu_ryb_pomoci_elektrickeho_"
+  },
+  {
+    "question": "Lov ryb pod ledem (na dírkách) v rybářských revírech",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "je povolen pouze, pokud lov provádí specializovaná firma z pověření Mze",
+        "isCorrect": false
+      },
+      {
+        "text": "je zakázán, pokud místně příslušný rybářský orgán nepovolil výjimku: k chovu ryb, jejich záchraně při mimořádných situacích, k vědeckým účelům nebo v jednotlivých zvlášť odůvodněných případech",
+        "isCorrect": true
+      },
+      {
+        "text": "je povolen, pokud lov provádí držitel platné povolenky k rybolovu pro potřeby chovu, k záchraně ryb nebo k hospodářské těžbě",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "je zakázán, pokud místně příslušný rybářský orgán nepovolil výjimku: k chovu ryb, jejich záchraně při mimořádných situacích, k vědeckým účelům nebo v jednotlivých zvlášť odůvodněných případech"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23550-lov_ryb_pod_ledem_na_dirkach_v_rybarskych_revirech"
+  },
+  {
+    "question": "Lov ryb nesmí být mimo jiné prováděn",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "z lodí obytných, z plavidel veřejné dopravy a ze zvláštních plovoucích zařízení, využívaných k přepravě materiálu",
+        "isCorrect": true
+      },
+      {
+        "text": "z loděk, které jsou navaleny na vodní stavby a z lodí obytných, pokud pro tato plavidla nebyla udělena příslušná výjimka",
+        "isCorrect": false
+      },
+      {
+        "text": "z lodí obytných, pokud lov neprovádí vlastník plavidla, který je současně držitelem povolenky k lovu ryb",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "z lodí obytných, z plavidel veřejné dopravy a ze zvláštních plovoucích zařízení, využívaných k přepravě materiálu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23551-lov_ryb_nesmi_byt_mimo_jine_provaden"
+  },
+  {
+    "question": "Zajištění řádné ochrany rybářských revírů je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "je právem jejich uživatelů a vlastníků",
+        "isCorrect": false
+      },
+      {
+        "text": "je povinností příslušného obecního úřadu",
+        "isCorrect": false
+      },
+      {
+        "text": "povinností jejich uživatelů",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "povinností jejich uživatelů"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23552-zajisteni_radne_ochrany_rybarskych_reviru_je"
+  },
+  {
+    "question": "Co jsou rybí přechody?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jsou to stavby a všechna zařízení, která umožňují rybám a dalším vodním živočichům překonat překážku ve vodním toku",
+        "isCorrect": true
+      },
+      {
+        "text": "zařízení sloužící k přemisťování ryb z nákladních automobilů do revírů",
+        "isCorrect": false
+      },
+      {
+        "text": "silně proudné úseky vodních toků",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jsou to stavby a všechna zařízení, která umožňují rybám a dalším vodním živočichům překonat překážku ve vodním toku"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23553-co_jsou_rybi_prechody"
+  },
+  {
+    "question": "Co je to kulení plůdku?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vystoupení očí z očních důlků při virovém onemocnění plůdku ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "proces líhnutí váčkového plůdku ryb z jikry",
+        "isCorrect": true
+      },
+      {
+        "text": "období, kdy je těsně po vylíhnutí plůdek unášen proudem vody",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "proces líhnutí váčkového plůdku ryb z jikry"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23554-co_je_to_kuleni_pludku"
+  },
+  {
+    "question": "Do které čeledi patří candát obecný?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "candátovití",
+        "isCorrect": false
+      },
+      {
+        "text": "okounovití",
+        "isCorrect": true
+      },
+      {
+        "text": "treskovití",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "okounovití"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23555-do_ktere_celedi_patri_candat_obecny"
+  },
+  {
+    "question": "Co je to vodní květ?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "masový rozvoj sinic",
+        "isCorrect": true
+      },
+      {
+        "text": "kvetoucí leknín",
+        "isCorrect": false
+      },
+      {
+        "text": "hořavka duhová v období výtěru",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "masový rozvoj sinic"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23556-co_je_to_vodni_kvet"
+  },
+  {
+    "question": "Jak definujeme rybářský revír?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "část vodního útvaru povrchových vod o výměře nejméně 500 m2 souvislé vodní plochy, umožňující život rybí obsádky a vodních organismů, kde právnická nebo fyzická osoba, na základě ohlášení příslušnému orgánu státní správy rybářství, vykonává rybářské právo",
+        "isCorrect": false
+      },
+      {
+        "text": "část vodního útvaru povrchových vod o výměře nejméně 500 m2 souvislé vodní plochy, umožňující život rybí obsádky a vodních organismů, vyhlášená rozhodnutím příslušného orgánu státní správy rybářství",
+        "isCorrect": true
+      },
+      {
+        "text": "každá část vodního útvaru povrchových vod o výměře nejméně 500 m2 souvislé vodní plochy, umožňující život rybí obsádky a vodních organismů",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "část vodního útvaru povrchových vod o výměře nejméně 500 m2 souvislé vodní plochy, umožňující život rybí obsádky a vodních organismů, vyhlášená rozhodnutím příslušného orgánu státní správy rybářství"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23557-jak_definujeme_rybarsky_revir"
+  },
+  {
+    "question": "Co je to chráněná rybí oblast?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "vymezená část rybářského revíru, v níž je výkon rybářského práva omezen, popřípadě vyloučen za účelem vytvoření podmínek pro chov a ochranu ryb nebo chov a reprodukci vodních organismů",
+        "isCorrect": true
+      },
+      {
+        "text": "vymezená část chovného rybníka nebo speciální rybochovné zařízení, kde je rybníkářská činnost omezena, popřípadě vyloučena za účelem vytvoření podmínek pro chov a ochranu ryb nebo chov a reprodukci vodních organismů",
+        "isCorrect": false
+      },
+      {
+        "text": "vymezená část rybářského revíru, v níž je výkon rybářského práva omezen, popřípadě vyloučen z důvodu výskytu chráněných živočichů",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "vymezená část rybářského revíru, v níž je výkon rybářského práva omezen, popřípadě vyloučen za účelem vytvoření podmínek pro chov a ochranu ryb nebo chov a reprodukci vodních organismů"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23558-co_je_to_chranena_rybi_oblast"
+  },
+  {
+    "question": "Rybářský revír vyhlašuje:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "příslušný rybářský orgán; ten je oprávněn vyhlásit rybářský revír pouze v obvodu své územní působnosti",
+        "isCorrect": true
+      },
+      {
+        "text": "pouze Ministerstvo zemědělství ČR, v případě revírů na území národních parků pak Ministerstvo životního prostředí",
+        "isCorrect": false
+      },
+      {
+        "text": "vlastník rybníka nebo vlastník pozemku, na němž se nachází uzavřená voda, v případě více vlastníků pak osoba pověřená všemi spoluvlastníky",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "příslušný rybářský orgán; ten je oprávněn vyhlásit rybářský revír pouze v obvodu své územní působnosti"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23559-rybarsky_revir_vyhlasuje"
+  },
+  {
+    "question": "Kdo je povinen vyznačit v přírodě hranice rybářských revírů?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "uživatel revíru",
+        "isCorrect": true
+      },
+      {
+        "text": "rybářský orgán, který rybářský revír vyhlásil",
+        "isCorrect": false
+      },
+      {
+        "text": "úřad obce s rozšířenou působností",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "uživatel revíru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23560-kdo_je_povinen_vyznacit_v_prirode_hranice_rybarskych_reviru"
+  },
+  {
+    "question": "Co musí obsahovat tabulka označující hranice revíru?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "pouze název a číslo rybářského revíru a údaje o tom, zda jde o revír pstruhový nebo mimopstruhový",
+        "isCorrect": false
+      },
+      {
+        "text": "údaje, které stanoví uživatel revíru",
+        "isCorrect": false
+      },
+      {
+        "text": "název a číslo rybářského revíru a údaje o tom, zda jde o revír pstruhový nebo mimopstruhový nebo o chráněnou rybí oblast a údaje o uživateli rybářského revíru, a to jeho jméno a příjmení u fyzické osoby nebo obchodní firmu nebo název u právnické osoby",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "název a číslo rybářského revíru a údaje o tom, zda jde o revír pstruhový nebo mimopstruhový nebo o chráněnou rybí oblast a údaje o uživateli rybářského revíru, a to jeho jméno a příjmení u fyzické osoby nebo obchodní firmu nebo název u právnické osoby"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23561-co_musi_obsahovat_tabulka_oznacujici_hranice_reviru"
+  },
+  {
+    "question": "Chráněnou rybí oblast vyhlašuje:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "uživatel rybářského revíru po projednání s příslušným rybářským orgánem",
+        "isCorrect": false
+      },
+      {
+        "text": "státní orgán ochrany přírody po projednání s uživatelem rybářského revíru",
+        "isCorrect": false
+      },
+      {
+        "text": "příslušný rybářský orgán po projednání s uživatelem rybářského revíru",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "příslušný rybářský orgán po projednání s uživatelem rybářského revíru"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23562-chranenou_rybi_oblast_vyhlasuje"
+  },
+  {
+    "question": "Kdo může vykonávat rybářské právo?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "nájemce revíru, vlastník revíru či rybochovného zařízení",
+        "isCorrect": false
+      },
+      {
+        "text": "vlastník revíru či rybníka",
+        "isCorrect": false
+      },
+      {
+        "text": "ten, komu byl výkon rybářského práva povolen",
+        "isCorrect": true
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "ten, komu byl výkon rybářského práva povolen"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23563-kdo_muze_vykonavat_rybarske_pravo"
+  },
+  {
+    "question": "Kde lze vykonávat rybářské právo?",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "ve všech vodách, umožňujících život ryb",
+        "isCorrect": false
+      },
+      {
+        "text": "jen v rybářských revírech",
+        "isCorrect": true
+      },
+      {
+        "text": "jen v chovných rybnících",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jen v rybářských revírech"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23564-kde_lze_vykonavat_rybarske_pravo"
+  },
+  {
+    "question": "Podnájem rybářského revíru je:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "povolen pouze fyzické osobě",
+        "isCorrect": false
+      },
+      {
+        "text": "zakázán. Za podnájem rybářského revíru se nepovažuje pověření nižší organizační složky uživatele rybářského revíru výkonem některých činností souvisejících s výkonem rybářského práva touto osobou",
+        "isCorrect": true
+      },
+      {
+        "text": "zakázán. Za podnájem rybářského revíru se považuje i pověření nižší organizační složky uživatele rybářského revíru výkonem některých činností souvisejících s výkonem rybářského práva touto osobou",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "zakázán. Za podnájem rybářského revíru se nepovažuje pověření nižší organizační složky uživatele rybářského revíru výkonem některých činností souvisejících s výkonem rybářského práva touto osobou"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23565-podnajem_rybarskeho_reviru_je"
+  },
+  {
+    "question": "Vstupovat na pobřežní pozemky mohou:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "uživatel rybářského revíru, držitel povolenky k lovu, rybářský hospodář, jeho zástupce a rybářská stráž pokud na ně není vstup zakázán z důvodů obecného zájmu. Jsou však povinni nahradit škodu, kterou přitom způsobí",
+        "isCorrect": true
+      },
+      {
+        "text": "uživatel revíru a jím pověřené osoby, rybářská stráž, rybářský hospodář a jeho zástupce a držitelé povolenek, včetně jejich rodinných příslušníků. Musí se však řídit místními podmínkami",
+        "isCorrect": false
+      },
+      {
+        "text": "držitelé platných povolenek, uživatel revíru a jím pověřené osoby, rybářský hospodář a jeho zástupce a rybářská stráž. Za způsobenou škodu je odpovědný uživatel revíru a rybářská stráž je oprávněna vstupovat i tam, kde je přístup zakázán",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "uživatel rybářského revíru, držitel povolenky k lovu, rybářský hospodář, jeho zástupce a rybářská stráž pokud na ně není vstup zakázán z důvodů obecného zájmu. Jsou však povinni nahradit škodu, kterou přitom způsobí"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23566-vstupovat_na_pobrezni_pozemky_mohou"
+  },
+  {
+    "question": "Přístup na pobřežní pozemky při výkonu rybářského práva může být zakázán:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "jen z důvodu obecného zájmu",
+        "isCorrect": true
+      },
+      {
+        "text": "z rozhodnutí vlastníka či nájemce pobřežního pozemku",
+        "isCorrect": false
+      },
+      {
+        "text": "z důvodu ochrany vlastnických práv vlastníka pozemku",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "jen z důvodu obecného zájmu"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23567-pristup_na_pobrezni_pozemky_pri_vykonu_rybarskeho_prava_muze_byt_zakazan"
+  },
+  {
+    "question": "Za škodu způsobenou na rybí obsádce v rybářském revíru odpovídá:",
+    "type": "multiple_choice",
+    "options": [
+      {
+        "text": "stát",
+        "isCorrect": false
+      },
+      {
+        "text": "fyzická nebo právnická osoba, která ji způsobila",
+        "isCorrect": true
+      },
+      {
+        "text": "nikdo, protože ryby v revíru jsou volně žijící živočichové bez vlastníka",
+        "isCorrect": false
+      }
+    ],
+    "image_url": null,
+    "correctAnswers": [
+      "fyzická nebo právnická osoba, která ji způsobila"
+    ],
+    "url": "https://rybar.etesty.cz/prohlizeni_otazek.php?otazka=23568-za_skodu_zpusobenou_na_rybi_obsadce_v_rybarskem_reviru_odpovida"
+  }
+]

@@ -17,8 +17,8 @@
   },
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "dev": "pnpm run scrape ",
-    "scrape": "ts-node src/scrape.ts",
+    "scrape:form": "ts-node src/scrape-form.ts",
+    "scrape:etesty": "ts-node src/scrape-etesty.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }

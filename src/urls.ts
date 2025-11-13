@@ -30,3 +30,11 @@ export const urls: string[] = [
   "https://forms.gle/DuoLBE1rQ3DrWdEJ9",
   "https://forms.gle/GeiEtB34uCemerpF8",
 ];
+
+export const fishingTestUrl = [
+  "https://rybar.etesty.cz/prohlizeni_otazek.php?okruh=1701",
+  "https://rybar.etesty.cz/prohlizeni_otazek.php?okruh=1702",
+  "https://rybar.etesty.cz/prohlizeni_otazek.php?okruh=1703",
+  "https://rybar.etesty.cz/prohlizeni_otazek.php?okruh=1704",
+  "https://rybar.etesty.cz/prohlizeni_otazek.php?okruh=1705",
+];
